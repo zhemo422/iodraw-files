@@ -241,6 +241,9 @@
         <mxCell id="Bs0MigLycdPFAqJlgPvN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="PEtTMvoDomqHsIjnUDUw-1" source="Bs0MigLycdPFAqJlgPvN-22" target="Bs0MigLycdPFAqJlgPvN-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o8cC1yQ6N1OBYqMK8Hru-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PEtTMvoDomqHsIjnUDUw-1" source="Bs0MigLycdPFAqJlgPvN-38" target="o8cC1yQ6N1OBYqMK8Hru-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-38" value="障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
           <mxGeometry x="360" y="180" width="80" height="40" as="geometry" />
         </mxCell>
@@ -263,7 +266,7 @@
           <mxGeometry x="360" y="375" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o8cC1yQ6N1OBYqMK8Hru-5" value="仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
-          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="240" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
