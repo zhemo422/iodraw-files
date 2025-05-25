@@ -156,7 +156,7 @@
       <root>
         <mxCell id="PEtTMvoDomqHsIjnUDUw-0" />
         <mxCell id="PEtTMvoDomqHsIjnUDUw-1" parent="PEtTMvoDomqHsIjnUDUw-0" />
-        <mxCell id="PEtTMvoDomqHsIjnUDUw-4" value="RIO=\sum RV*C_{i}" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
+        <mxCell id="PEtTMvoDomqHsIjnUDUw-4" value="$$\RIO=\sum RV*C_{i}\$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
           <mxGeometry x="145" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-7" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
