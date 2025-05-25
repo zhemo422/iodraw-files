@@ -234,10 +234,10 @@
           <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-14" value="" style="shape=mxgraph.signs.transportation.ship_2;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;aspect=fixed;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="200" y="100" width="62" height="62" as="geometry" />
+          <mxGeometry x="195" y="70" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-15" value="船舶数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="200" y="160" width="70" height="20" as="geometry" />
+          <mxGeometry x="200" y="160" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
