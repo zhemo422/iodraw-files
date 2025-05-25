@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WooAA-ldlj_T-0JYNsRb" name="算法框架图">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="698" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="PEtTMvoDomqHsIjnUDUw-0" />
         <mxCell id="PEtTMvoDomqHsIjnUDUw-1" parent="PEtTMvoDomqHsIjnUDUw-0" />
@@ -284,7 +284,7 @@
           <mxGeometry x="520" y="240" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o8cC1yQ6N1OBYqMK8Hru-9" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="760" y="200" width="90" height="50" as="geometry" />
+          <mxGeometry x="760" y="175" width="120" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
