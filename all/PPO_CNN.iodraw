@@ -284,7 +284,7 @@
           <mxGeometry x="520" y="240" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o8cC1yQ6N1OBYqMK8Hru-9" value="Actor" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="850" y="215" width="120" height="65" as="geometry" />
+          <mxGeometry x="340" y="100" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="kHAyucwYf7enNBTWFosC-0" value="Critic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
           <mxGeometry x="850" y="320" width="120" height="65" as="geometry" />
