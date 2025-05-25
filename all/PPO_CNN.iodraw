@@ -283,6 +283,9 @@
         <mxCell id="o8cC1yQ6N1OBYqMK8Hru-5" value="网格仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
           <mxGeometry x="520" y="240" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="kHAyucwYf7enNBTWFosC-1" value="障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
+          <mxGeometry x="700" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
