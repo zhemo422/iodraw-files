@@ -262,6 +262,9 @@
         <mxCell id="o8cC1yQ6N1OBYqMK8Hru-1" value="距离场" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
           <mxGeometry x="360" y="375" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o8cC1yQ6N1OBYqMK8Hru-5" value="仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
+          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
