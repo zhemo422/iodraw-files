@@ -213,8 +213,13 @@
         <mxCell id="Bs0MigLycdPFAqJlgPvN-33" value="格网中心经纬度数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
           <mxGeometry x="18.33" y="440" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bs0MigLycdPFAqJlgPvN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PEtTMvoDomqHsIjnUDUw-1" source="Bs0MigLycdPFAqJlgPvN-15" target="PEtTMvoDomqHsIjnUDUw-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Bs0MigLycdPFAqJlgPvN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" source="Bs0MigLycdPFAqJlgPvN-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" source="Bs0MigLycdPFAqJlgPvN-12" target="PEtTMvoDomqHsIjnUDUw-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -233,11 +238,14 @@
         <mxCell id="Bs0MigLycdPFAqJlgPvN-38" value="&lt;div&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
           <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bs0MigLycdPFAqJlgPvN-14" value="" style="shape=mxgraph.signs.transportation.ship_2;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;aspect=fixed;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="195" y="70" width="80" height="80" as="geometry" />
+        <mxCell id="J0DH9zCTX9hqTu5ffd6E-0" value="" style="group" vertex="1" connectable="0" parent="PEtTMvoDomqHsIjnUDUw-1">
+          <mxGeometry x="200" y="80" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Bs0MigLycdPFAqJlgPvN-15" value="船舶数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="200" y="160" width="80" height="20" as="geometry" />
+        <mxCell id="Bs0MigLycdPFAqJlgPvN-14" value="" style="shape=mxgraph.signs.transportation.ship_2;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;aspect=fixed;" parent="J0DH9zCTX9hqTu5ffd6E-0" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bs0MigLycdPFAqJlgPvN-15" value="船舶数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="J0DH9zCTX9hqTu5ffd6E-0" vertex="1">
+          <mxGeometry y="80" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
