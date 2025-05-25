@@ -196,7 +196,7 @@
           <mxGeometry y="70" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-21" value="距离场算法" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="170" y="375" width="80" height="40" as="geometry" />
+          <mxGeometry x="182.5" y="375" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-32" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
           <mxGeometry x="18.33" y="360" width="70" height="70" as="geometry" />
