@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WooAA-ldlj_T-0JYNsRb" name="算法框架图">
-    <mxGraphModel dx="1184" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="944" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="PEtTMvoDomqHsIjnUDUw-0" />
         <mxCell id="PEtTMvoDomqHsIjnUDUw-1" parent="PEtTMvoDomqHsIjnUDUw-0" />
@@ -196,7 +196,7 @@
           <mxGeometry y="70" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-21" value="距离场算法" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="182.5" y="375" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="375" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-32" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
           <mxGeometry x="18.33" y="360" width="70" height="70" as="geometry" />
@@ -233,7 +233,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-38" value="&lt;div&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J0DH9zCTX9hqTu5ffd6E-0" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
           <mxGeometry x="200" y="80" width="80" height="100" as="geometry" />
