@@ -160,7 +160,7 @@
           <mxGeometry x="145" y="240" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-7" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
-          <mxGeometry x="110" y="85" width="66.67000000000002" height="90" as="geometry" />
+          <mxGeometry x="90" y="85" width="66.67000000000002" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-5" value="" style="group" parent="Bs0MigLycdPFAqJlgPvN-7" vertex="1" connectable="0">
           <mxGeometry width="66.67000000000002" height="60" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry y="70" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-21" value="距离场算法" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="145" y="375" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="375" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-32" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
           <mxGeometry x="18.33" y="360" width="70" height="70" as="geometry" />
@@ -233,7 +233,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-38" value="&lt;div&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J0DH9zCTX9hqTu5ffd6E-0" value="" style="group" vertex="1" connectable="0" parent="PEtTMvoDomqHsIjnUDUw-1">
           <mxGeometry x="200" y="80" width="80" height="100" as="geometry" />
