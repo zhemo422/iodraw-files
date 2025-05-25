@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WooAA-ldlj_T-0JYNsRb" name="算法框架图">
-    <mxGraphModel dx="944" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="787" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="PEtTMvoDomqHsIjnUDUw-0" />
         <mxCell id="PEtTMvoDomqHsIjnUDUw-1" parent="PEtTMvoDomqHsIjnUDUw-0" />
@@ -232,8 +232,8 @@
         <mxCell id="Bs0MigLycdPFAqJlgPvN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="PEtTMvoDomqHsIjnUDUw-1" source="Bs0MigLycdPFAqJlgPvN-22" target="Bs0MigLycdPFAqJlgPvN-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bs0MigLycdPFAqJlgPvN-38" value="&lt;div&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="Bs0MigLycdPFAqJlgPvN-38" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
+          <mxGeometry x="400" y="240" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J0DH9zCTX9hqTu5ffd6E-0" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
           <mxGeometry x="200" y="80" width="80" height="100" as="geometry" />
