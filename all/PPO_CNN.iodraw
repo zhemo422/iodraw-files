@@ -157,7 +157,7 @@
         <mxCell id="PEtTMvoDomqHsIjnUDUw-0" />
         <mxCell id="PEtTMvoDomqHsIjnUDUw-1" parent="PEtTMvoDomqHsIjnUDUw-0" />
         <mxCell id="PEtTMvoDomqHsIjnUDUw-4" value="$$RIO=\sum RV*C_{i}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="145" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="145" y="240" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-7" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
           <mxGeometry x="20" y="120" width="66.67000000000002" height="90" as="geometry" />
@@ -193,15 +193,6 @@
           <mxGeometry width="66.67" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-13" value="海冰密集度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Bs0MigLycdPFAqJlgPvN-8" vertex="1">
-          <mxGeometry y="70" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Bs0MigLycdPFAqJlgPvN-17" value="" style="group" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1" connectable="0">
-          <mxGeometry x="150" y="120" width="70" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Bs0MigLycdPFAqJlgPvN-14" value="" style="shape=mxgraph.signs.transportation.ship_2;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;aspect=fixed;" parent="Bs0MigLycdPFAqJlgPvN-17" vertex="1">
-          <mxGeometry x="5" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Bs0MigLycdPFAqJlgPvN-15" value="船舶数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Bs0MigLycdPFAqJlgPvN-17" vertex="1">
           <mxGeometry y="70" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-21" value="距离场算法" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
@@ -240,7 +231,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-38" value="&lt;div&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="290" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bs0MigLycdPFAqJlgPvN-14" value="" style="shape=mxgraph.signs.transportation.ship_2;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;aspect=fixed;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
+          <mxGeometry x="210" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bs0MigLycdPFAqJlgPvN-15" value="船舶数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
+          <mxGeometry x="200" y="160" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
