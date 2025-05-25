@@ -286,6 +286,12 @@
         <mxCell id="kHAyucwYf7enNBTWFosC-1" value="特征融合和网络" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
           <mxGeometry x="720" y="160" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kHAyucwYf7enNBTWFosC-2" value="特征融合和网络" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
+          <mxGeometry x="720" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kHAyucwYf7enNBTWFosC-3" value="特征融合和网络" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
+          <mxGeometry x="890" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
