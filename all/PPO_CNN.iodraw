@@ -337,11 +337,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nQ39qEQELGkKaJNfdnHy-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=30;direction=east;flipH=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="660" y="40" width="40" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="YnCm-5AuaXbop8MGK2oZ-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;direction=east;flipH=1;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
+        <mxCell id="YnCm-5AuaXbop8MGK2oZ-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;direction=east;flipH=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
           <mxGeometry x="680" y="50" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YnCm-5AuaXbop8MGK2oZ-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;direction=east;flipH=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
+          <mxGeometry x="690" y="50" width="30" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
