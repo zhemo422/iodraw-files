@@ -225,8 +225,8 @@
         <mxCell id="Bs0MigLycdPFAqJlgPvN-23" value="" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;fontSize=15;" parent="Bs0MigLycdPFAqJlgPvN-31" vertex="1">
           <mxGeometry y="23.334444444444447" width="70" height="23.333333333333332" as="geometry" />
         </mxCell>
-        <mxCell id="Bs0MigLycdPFAqJlgPvN-33" value="格网中心经纬度数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
-          <mxGeometry x="16.669999999999998" y="440" width="70" height="20" as="geometry" />
+        <mxCell id="Bs0MigLycdPFAqJlgPvN-33" value="格网经纬度数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
+          <mxGeometry x="10.000000000000002" y="439" width="122.33" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bs0MigLycdPFAqJlgPvN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="PEtTMvoDomqHsIjnUDUw-1" source="Bs0MigLycdPFAqJlgPvN-15" edge="1">
           <mxGeometry relative="1" as="geometry">
