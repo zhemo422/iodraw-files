@@ -515,7 +515,7 @@
         <mxCell id="2Kplac815_iyPs0ZSvLA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="2Kplac815_iyPs0ZSvLA-30" target="2Kplac815_iyPs0ZSvLA-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Kplac815_iyPs0ZSvLA-33" value="非图像数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2Kplac815_iyPs0ZSvLA-31">
+        <mxCell id="2Kplac815_iyPs0ZSvLA-33" value="非图像状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2Kplac815_iyPs0ZSvLA-31">
           <mxGeometry x="0.6558" y="2" relative="1" as="geometry">
             <mxPoint x="-16" y="2" as="offset" />
           </mxGeometry>
@@ -526,7 +526,7 @@
         <mxCell id="2Kplac815_iyPs0ZSvLA-30" value="State" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="245" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2Kplac815_iyPs0ZSvLA-34" value="非图像数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="2Kplac815_iyPs0ZSvLA-34" value="图像状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="340" as="geometry" />
         </mxCell>
       </root>
