@@ -529,6 +529,12 @@
         <mxCell id="2Kplac815_iyPs0ZSvLA-34" value="图像状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="340" as="geometry" />
         </mxCell>
+        <mxCell id="2Kplac815_iyPs0ZSvLA-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="349.71" as="sourcePoint" />
+            <mxPoint x="670" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
