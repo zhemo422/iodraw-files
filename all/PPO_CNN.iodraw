@@ -317,9 +317,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bUm571dRArc48Qf-AW5F-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bUm571dRArc48Qf-AW5F-9">
+        <mxCell id="bUm571dRArc48Qf-AW5F-10" value="reward" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bUm571dRArc48Qf-AW5F-9">
           <mxGeometry x="-0.4252" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o8cC1yQ6N1OBYqMK8Hru-5" value="网格仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" parent="PEtTMvoDomqHsIjnUDUw-1" vertex="1">
@@ -363,7 +363,7 @@
         </mxCell>
         <mxCell id="bUm571dRArc48Qf-AW5F-8" value="action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kHAyucwYf7enNBTWFosC-10">
           <mxGeometry x="0.6659" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bUm571dRArc48Qf-AW5F-4" value="仿真环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
