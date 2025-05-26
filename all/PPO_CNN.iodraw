@@ -156,7 +156,7 @@
       <root>
         <mxCell id="PEtTMvoDomqHsIjnUDUw-0" />
         <mxCell id="PEtTMvoDomqHsIjnUDUw-1" parent="PEtTMvoDomqHsIjnUDUw-0" />
-        <mxCell id="bUm571dRArc48Qf-AW5F-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
+        <mxCell id="bUm571dRArc48Qf-AW5F-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
           <mxGeometry x="660" y="40" width="410" height="440" as="geometry" />
         </mxCell>
         <mxCell id="bUm571dRArc48Qf-AW5F-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
