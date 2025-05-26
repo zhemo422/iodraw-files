@@ -152,7 +152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WooAA-ldlj_T-0JYNsRb" name="算法框架图">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="581" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="PEtTMvoDomqHsIjnUDUw-0" />
         <mxCell id="PEtTMvoDomqHsIjnUDUw-1" parent="PEtTMvoDomqHsIjnUDUw-0" />
@@ -304,7 +304,7 @@
             <mxPoint x="720" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bUm571dRArc48Qf-AW5F-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kHAyucwYf7enNBTWFosC-6">
+        <mxCell id="bUm571dRArc48Qf-AW5F-6" value="State" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kHAyucwYf7enNBTWFosC-6">
           <mxGeometry x="-0.3977" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
