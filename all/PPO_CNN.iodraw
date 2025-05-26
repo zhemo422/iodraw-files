@@ -343,8 +343,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bUm571dRArc48Qf-AW5F-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
-          <mxGeometry x="490" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="bUm571dRArc48Qf-AW5F-4" value="仿真环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PEtTMvoDomqHsIjnUDUw-1">
+          <mxGeometry x="10" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
