@@ -326,29 +326,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P2q8QqJ49i-fB8VhrDIt" name="研究路线图简化">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="240" width="270" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="560" width="800" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="590" y="580" width="330" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-5" target="Sfv-hEdL5d7rAlU4I8SH-57">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="570" y="655" />
-              <mxPoint x="570" y="615" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="180" y="615" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" width="800" height="200" as="geometry" />
@@ -531,57 +514,6 @@
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-48" value="势能奖励函数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="620" y="115" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="640" as="sourcePoint" />
-            <mxPoint x="610" y="617.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-51" target="Sfv-hEdL5d7rAlU4I8SH-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-51" value="强化学习预测模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="200" y="635" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-52" value="路径平滑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="440" y="635" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-54" target="Sfv-hEdL5d7rAlU4I8SH-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-54" value="合法性过滤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="320" y="635" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-57" target="Sfv-hEdL5d7rAlU4I8SH-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-57" target="Sfv-hEdL5d7rAlU4I8SH-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-57" value="航线集合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="625" y="595" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-58" value="航线效能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="798.75" y="595" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-59" value="真实航点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="798.75" y="675" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-61" target="Sfv-hEdL5d7rAlU4I8SH-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-61" value="经纬度转换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="625" y="675" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-62" value="&lt;font color=&quot;#004c99&quot;&gt;航线预测生成&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="180" y="730" width="360" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-63" value="&lt;font color=&quot;#004c99&quot;&gt;评估与分析&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="665" y="730" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-64" value="&lt;span&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;算法仿真验证与分析&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;fontSize=13;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry y="560" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-66" target="Sfv-hEdL5d7rAlU4I8SH-68">
           <mxGeometry relative="1" as="geometry" />
