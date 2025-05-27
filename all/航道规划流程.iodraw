@@ -352,7 +352,7 @@
           <mxGeometry x="370" y="335" width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="690" y="320" width="250" height="200" as="geometry" />
+          <mxGeometry x="690" y="285" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-15" value="外在奖励" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-17" target="Sfv-hEdL5d7rAlU4I8SH-19">
           <mxGeometry relative="1" as="geometry">
@@ -382,13 +382,13 @@
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-21" target="Sfv-hEdL5d7rAlU4I8SH-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="455" />
-              <mxPoint x="710" y="370" />
+              <mxPoint x="710" y="420" />
+              <mxPoint x="710" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="770" y="435" width="80" height="40" as="geometry" />
+          <mxGeometry x="770" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-22" value="后向模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="190" y="385" width="40" height="60" as="geometry" />
@@ -513,42 +513,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-66" value="多头Critic网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="730" y="335" width="40" height="70" as="geometry" />
+          <mxGeometry x="730" y="300" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-68" target="Sfv-hEdL5d7rAlU4I8SH-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="370" />
+              <mxPoint x="850" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-68" value="线性权重" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="790" y="335" width="40" height="70" as="geometry" />
+          <mxGeometry x="790" y="300" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-70" target="Sfv-hEdL5d7rAlU4I8SH-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="920" y="370" />
-              <mxPoint x="920" y="455" />
+              <mxPoint x="920" y="335" />
+              <mxPoint x="920" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="850" y="335" width="40" height="70" as="geometry" />
+          <mxGeometry x="850" y="300" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-71" value="环境组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="780" y="445" width="80" height="40" as="geometry" />
+          <mxGeometry x="780" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-73" target="Sfv-hEdL5d7rAlU4I8SH-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="380" />
-              <mxPoint x="930" y="465" />
+              <mxPoint x="930" y="345" />
+              <mxPoint x="930" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-73" value="&lt;span&gt;Actor网络组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="860" y="345" width="40" height="70" as="geometry" />
+          <mxGeometry x="860" y="310" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-74" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.402;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-43" target="Sfv-hEdL5d7rAlU4I8SH-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -566,22 +566,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-78" value="预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="750" y="540" width="130" height="40" as="geometry" />
+          <mxGeometry x="750" y="505" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-80" target="Sfv-hEdL5d7rAlU4I8SH-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-80" value="多目标验证与分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="750" y="604.5" width="130" height="40" as="geometry" />
+          <mxGeometry x="750" y="569.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-82" target="Sfv-hEdL5d7rAlU4I8SH-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-82" value="&lt;font color=&quot;#004c99&quot;&gt;多头PPO算法&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="690" y="490" width="250" height="30" as="geometry" />
+          <mxGeometry x="690" y="455" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-85" value="帕勒托前沿" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="750" y="670" width="130" height="40" as="geometry" />
+          <mxGeometry x="750" y="635" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-87" value="&lt;font color=&quot;#004c99&quot;&gt;内在奖励模块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="180" y="465" width="170" height="30" as="geometry" />
@@ -613,8 +613,8 @@
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-98" value="&lt;font face=&quot;Tahoma&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;好奇心PPO算法&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20Tahoma%3B%20font-style%3A%20normal%3B%20font-variant-ligatures%3A%20normal%3B%20font-variant-caps%3A%20normal%3B%20font-weight%3A%20400%3B%20letter-spacing%3A%20normal%3B%20orphans%3A%202%3B%20text-indent%3A%200px%3B%20text-transform%3A%20none%3B%20widows%3A%202%3B%20word-spacing%3A%200px%3B%20-webkit-text-stroke-width%3A%200px%3B%20white-space%3A%20normal%3B%20background-color%3A%20rgb(251%2C%20251%2C%20251)%3B%20text-decoration-thickness%3A%20initial%3B%20text-decoration-style%3A%20initial%3B%20text-decoration-color%3A%20initial%3B%20float%3A%20none%3B%20display%3A%20inline%20!important%3B%26quot%3B%26gt%3B%26lt%3Bfont%20color%3D%26quot%3B%23ff6666%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2018px%3B%26quot%3B%26gt%3B%E5%8C%97%E6%9E%81%E4%BB%BF%E7%9C%9F%E7%8E%AF%E5%A2%83%E6%9E%84%E5%BB%BA%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22-30%22%20width%3D%22740%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="510" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-99" value="&lt;font face=&quot;Tahoma&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;好奇心PPO算法&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20Tahoma%3B%20font-style%3A%20normal%3B%20font-variant-ligatures%3A%20normal%3B%20font-variant-caps%3A%20normal%3B%20font-weight%3A%20400%3B%20letter-spacing%3A%20normal%3B%20orphans%3A%202%3B%20text-indent%3A%200px%3B%20text-transform%3A%20none%3B%20widows%3A%202%3B%20word-spacing%3A%200px%3B%20-webkit-text-stroke-width%3A%200px%3B%20white-space%3A%20normal%3B%20background-color%3A%20rgb(251%2C%20251%2C%20251)%3B%20text-decoration-thickness%3A%20initial%3B%20text-decoration-style%3A%20initial%3B%20text-decoration-color%3A%20initial%3B%20float%3A%20none%3B%20display%3A%20inline%20!important%3B%26quot%3B%26gt%3B%26lt%3Bfont%20color%3D%26quot%3B%23ff6666%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2018px%3B%26quot%3B%26gt%3B%E5%8C%97%E6%9E%81%E4%BB%BF%E7%9C%9F%E7%8E%AF%E5%A2%83%E6%9E%84%E5%BB%BA%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22-30%22%20width%3D%22740%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="650" y="240" width="300" height="50" as="geometry" />
+        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-99" value="&lt;font face=&quot;Tahoma&quot; color=&quot;#ff6666&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;多目标PPO算法&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20Tahoma%3B%20font-style%3A%20normal%3B%20font-variant-ligatures%3A%20normal%3B%20font-variant-caps%3A%20normal%3B%20font-weight%3A%20400%3B%20letter-spacing%3A%20normal%3B%20orphans%3A%202%3B%20text-indent%3A%200px%3B%20text-transform%3A%20none%3B%20widows%3A%202%3B%20word-spacing%3A%200px%3B%20-webkit-text-stroke-width%3A%200px%3B%20white-space%3A%20normal%3B%20background-color%3A%20rgb(251%2C%20251%2C%20251)%3B%20text-decoration-thickness%3A%20initial%3B%20text-decoration-style%3A%20initial%3B%20text-decoration-color%3A%20initial%3B%20float%3A%20none%3B%20display%3A%20inline%20!important%3B%26quot%3B%26gt%3B%26lt%3Bfont%20color%3D%26quot%3B%23ff6666%26quot%3B%20style%3D%26quot%3Bfont-size%3A%2018px%3B%26quot%3B%26gt%3B%E5%8C%97%E6%9E%81%E4%BB%BF%E7%9C%9F%E7%8E%AF%E5%A2%83%E6%9E%84%E5%BB%BA%26lt%3B%2Ffont%26gt%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22-30%22%20width%3D%22740%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
