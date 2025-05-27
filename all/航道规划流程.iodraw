@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P2q8QqJ49i-fB8VhrDIt" name="研究路线图简化">
-    <mxGraphModel dx="1018" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,12 +353,6 @@
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="690" y="280" width="250" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;北极仿真环境构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry width="120" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-14" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Verdana&quot;&gt;&lt;span&gt;强化学习算法设计&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Tahoma;fontSize=13;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry y="240" width="120" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-15" value="外在奖励" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sfv-hEdL5d7rAlU4I8SH-17" target="Sfv-hEdL5d7rAlU4I8SH-19">
           <mxGeometry relative="1" as="geometry">
@@ -586,8 +580,8 @@
         <mxCell id="Sfv-hEdL5d7rAlU4I8SH-85" value="帕勒托前沿" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="750" y="630" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-87" value="&lt;font color=&quot;#004c99&quot;&gt;PPO算法&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="385" y="450" width="260" height="30" as="geometry" />
+        <mxCell id="Sfv-hEdL5d7rAlU4I8SH-87" value="&lt;font color=&quot;#004c99&quot;&gt;内在奖励模块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
