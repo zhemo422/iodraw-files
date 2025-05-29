@@ -4591,6 +4591,18 @@
         <mxCell id="lAS7BW5GKGi0Xq85oaXr-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="630" y="276.48" width="14.53" height="14.53" as="geometry" />
         </mxCell>
+        <mxCell id="lAS7BW5GKGi0Xq85oaXr-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="253.75" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lAS7BW5GKGi0Xq85oaXr-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;endSize=3;targetPerimeterSpacing=0;strokeColor=#999999;" edge="1" parent="lAS7BW5GKGi0Xq85oaXr-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="9.759999999999991" as="sourcePoint" />
+            <mxPoint x="35" y="9.759999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lAS7BW5GKGi0Xq85oaXr-19" value="可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lAS7BW5GKGi0Xq85oaXr-17">
+          <mxGeometry x="40" width="70" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
