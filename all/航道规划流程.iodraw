@@ -3911,7 +3911,7 @@
         <mxCell id="VtIXsX6CNAkJ09OMIVbn-317" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="297.5" y="1057.5" width="5" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-318" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+        <mxCell id="VtIXsX6CNAkJ09OMIVbn-318" value="$$\phi_{1}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="320" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VtIXsX6CNAkJ09OMIVbn-319" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
@@ -3931,9 +3931,6 @@
         </mxCell>
         <mxCell id="VtIXsX6CNAkJ09OMIVbn-324" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="373.75" y="1053.75" width="12.5" height="12.5" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-325" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1" source="VtIXsX6CNAkJ09OMIVbn-319" target="VtIXsX6CNAkJ09OMIVbn-324">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VtIXsX6CNAkJ09OMIVbn-326" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry relative="1" as="geometry">
