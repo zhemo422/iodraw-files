@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="16">
   <diagram id="rEQbWF6lwdja5tXQGVZE" name="研究技术路线图">
-    <mxGraphModel dx="1221" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VfgkBjB-J84t55LJoqt8-0" />
         <mxCell id="VfgkBjB-J84t55LJoqt8-1" parent="VfgkBjB-J84t55LJoqt8-0" />
@@ -1593,7 +1593,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eZBQWZWDg-Mvk9O-fHQP" name="RIO计算">
-    <mxGraphModel dx="1154" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="670" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="n8CLKLRx5FmTSZIs-yf4-0" />
         <mxCell id="n8CLKLRx5FmTSZIs-yf4-1" parent="n8CLKLRx5FmTSZIs-yf4-0" />
