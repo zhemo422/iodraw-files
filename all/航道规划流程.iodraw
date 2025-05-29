@@ -3013,7 +3013,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oYlgjJgOlMxm5UIS4v8x" name="奖励塑形方法">
-    <mxGraphModel dx="407" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="488" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="EsBzi1688cpFUZbG2tFH-0" />
         <mxCell id="EsBzi1688cpFUZbG2tFH-1" parent="EsBzi1688cpFUZbG2tFH-0" />
@@ -3962,7 +3962,7 @@
             <mxPoint x="194.23223304703436" y="984.2322330470342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-375" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1" source="VtIXsX6CNAkJ09OMIVbn-357">
+        <mxCell id="VtIXsX6CNAkJ09OMIVbn-375" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1" source="VtIXsX6CNAkJ09OMIVbn-357" target="VtIXsX6CNAkJ09OMIVbn-359">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160.23223304703436" y="950.2322330470342" as="sourcePoint" />
             <mxPoint x="194.23223304703436" y="984.2322330470342" as="targetPoint" />
