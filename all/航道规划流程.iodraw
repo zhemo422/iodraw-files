@@ -4570,7 +4570,7 @@
         <mxCell id="lAS7BW5GKGi0Xq85oaXr-7" value="已加入势能场格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="208.75" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lAS7BW5GKGi0Xq85oaXr-8" value="可达格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lAS7BW5GKGi0Xq85oaXr-8" value="势能场边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="238.75" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lAS7BW5GKGi0Xq85oaXr-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
