@@ -3013,7 +3013,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oYlgjJgOlMxm5UIS4v8x" name="奖励塑形方法">
-    <mxGraphModel dx="1018" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EsBzi1688cpFUZbG2tFH-0" />
         <mxCell id="EsBzi1688cpFUZbG2tFH-1" parent="EsBzi1688cpFUZbG2tFH-0" />
@@ -3874,14 +3874,14 @@
         </mxCell>
         <mxCell id="VtIXsX6CNAkJ09OMIVbn-223" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="1010" as="sourcePoint" />
-            <mxPoint x="220" y="1010" as="targetPoint" />
+            <mxPoint x="310" y="870" as="sourcePoint" />
+            <mxPoint x="350" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VtIXsX6CNAkJ09OMIVbn-224" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="62.5" y="880" as="sourcePoint" />
-            <mxPoint x="63" y="910" as="targetPoint" />
+            <mxPoint x="80" y="860" as="sourcePoint" />
+            <mxPoint x="79.93" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
