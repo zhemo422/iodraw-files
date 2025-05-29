@@ -3917,12 +3917,6 @@
         <mxCell id="VtIXsX6CNAkJ09OMIVbn-280" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1" source="VtIXsX6CNAkJ09OMIVbn-274" target="VtIXsX6CNAkJ09OMIVbn-279">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1" source="VtIXsX6CNAkJ09OMIVbn-277" target="VtIXsX6CNAkJ09OMIVbn-279">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330.23223304703436" y="780.2322330470342" as="sourcePoint" />
-            <mxPoint x="364.23223304703436" y="814.2322330470342" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VtIXsX6CNAkJ09OMIVbn-282" value="&lt;font&gt;l&lt;span style=&quot;font-size: 10px;&quot;&gt;1&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="330" y="736.25" width="32.74" height="20" as="geometry" />
         </mxCell>
