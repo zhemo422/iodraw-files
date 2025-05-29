@@ -3884,8 +3884,8 @@
             <mxPoint x="79.93" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-225" value="&lt;font face=&quot;Georgia&quot;&gt;l1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
-          <mxGeometry x="167.26" y="860" width="60" height="30" as="geometry" />
+        <mxCell id="VtIXsX6CNAkJ09OMIVbn-225" value="&lt;font face=&quot;Garamond&quot;&gt;l1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="167.26" y="860" width="32.74" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
