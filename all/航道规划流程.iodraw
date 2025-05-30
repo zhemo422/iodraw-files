@@ -3119,7 +3119,7 @@
             <mxPoint x="474.23223304703436" y="364.23223304703424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4wPPcA_uG9ej_iA7VAP-0" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;$$\phi_{0}=dis(l1)$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+        <mxCell id="I4wPPcA_uG9ej_iA7VAP-0" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;$$\phi_{0}=dis(g_{0},target)$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="540" y="273.75" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
