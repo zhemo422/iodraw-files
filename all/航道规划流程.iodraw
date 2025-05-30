@@ -3013,7 +3013,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oYlgjJgOlMxm5UIS4v8x" name="一般奖励塑形方法">
-    <mxGraphModel dx="284" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="407" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="EsBzi1688cpFUZbG2tFH-0" />
         <mxCell id="EsBzi1688cpFUZbG2tFH-1" parent="EsBzi1688cpFUZbG2tFH-0" />
@@ -3119,7 +3119,7 @@
             <mxPoint x="474.23223304703436" y="364.23223304703424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4wPPcA_uG9ej_iA7VAP-0" value="&lt;font&gt;l&lt;span style=&quot;font-size: 10px;&quot;&gt;1&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+        <mxCell id="I4wPPcA_uG9ej_iA7VAP-0" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;$$\phi_{0}=-dis(l1)$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="590" y="273.75" width="32.74" height="20" as="geometry" />
         </mxCell>
       </root>
