@@ -3012,43 +3012,16 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oYlgjJgOlMxm5UIS4v8x" name="奖励塑形方法">
+  <diagram id="oYlgjJgOlMxm5UIS4v8x" name="一般奖励塑形方法">
     <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="EsBzi1688cpFUZbG2tFH-0" />
         <mxCell id="EsBzi1688cpFUZbG2tFH-1" parent="EsBzi1688cpFUZbG2tFH-0" />
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-446" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry x="240" y="1040" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-448" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry x="280" y="1040" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-453" value="$$\phi_{1}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry x="320" y="1040" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-455" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry x="360" y="1040" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-488" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry y="1040" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-490" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry x="40" y="1040" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-495" value="$$\phi_{1}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry x="80" y="1040" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-497" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry x="120" y="1040" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VtIXsX6CNAkJ09OMIVbn-509" value="&lt;font&gt;l&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;7&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" parent="EsBzi1688cpFUZbG2tFH-1" vertex="1">
-          <mxGeometry x="47.25999999999999" y="1057.5" width="32.74" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="rIqpRdwGNkTbcPnKpKsr" name=" 势能场算法">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="842" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
