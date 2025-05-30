@@ -4604,7 +4604,7 @@
           <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qoE3A8WSYN0IMC_piX4i-3" value="$$l_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="85" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
