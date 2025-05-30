@@ -3120,10 +3120,67 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I4wPPcA_uG9ej_iA7VAP-0" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;$$\phi_{0}=dis(g_{0},target)$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
-          <mxGeometry x="550" y="313.75" width="100" height="20" as="geometry" />
+          <mxGeometry x="559" y="250" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RS0sED_QTb-Mh2pFHEN7-0" value="$$g_{0}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="520" y="340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="480" y="305" width="240" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="490" y="320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="490" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-3" value="" style="group" vertex="1" connectable="0" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="610" y="355" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;endSize=3;targetPerimeterSpacing=0;strokeColor=#999999;" edge="1" parent="ZlAXQM6JMhVHWPlSm7GH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="9.759999999999991" as="sourcePoint" />
+            <mxPoint x="35" y="9.759999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-5" value="可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZlAXQM6JMhVHWPlSm7GH-3">
+          <mxGeometry x="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-6" value="势能场格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="520" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-7" value="势能场边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="520" y="350" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="490" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-9" value="暂不可达格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="520" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="490" y="410" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-11" value="障碍物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="520" y="410" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-12" value="目标点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="650" y="385" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="620" y="387.73" width="14.53" height="14.53" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-14" value="" style="group" vertex="1" connectable="0" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="610" y="321.25" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;endSize=3;targetPerimeterSpacing=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="ZlAXQM6JMhVHWPlSm7GH-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="9.759999999999991" as="sourcePoint" />
+            <mxPoint x="35" y="9.759999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlAXQM6JMhVHWPlSm7GH-16" value="最短可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZlAXQM6JMhVHWPlSm7GH-14">
+          <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
