@@ -4603,8 +4603,8 @@
         <mxCell id="lAS7BW5GKGi0Xq85oaXr-19" value="最短可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lAS7BW5GKGi0Xq85oaXr-17" vertex="1">
           <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qoE3A8WSYN0IMC_piX4i-3" value="$$l_{5}=min(l_{3},l_{5},l_{1}+\phi _{0},l_{2},+\phi _{0},l_{4}+\phi _{0})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="85" width="60" height="30" as="geometry" />
+        <mxCell id="qoE3A8WSYN0IMC_piX4i-3" value="$$&lt;font color=&quot;#b85450&quot;&gt;l_{5}&lt;/font&gt;=min(l_{3},l_{5},l_{1}+\phi _{0},l_{2},+\phi _{0},l_{4}+\phi _{0})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
