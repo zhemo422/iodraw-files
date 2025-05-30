@@ -3013,7 +3013,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oYlgjJgOlMxm5UIS4v8x" name="一般奖励塑形方法">
-    <mxGraphModel dx="284" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="488" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="EsBzi1688cpFUZbG2tFH-0" />
         <mxCell id="EsBzi1688cpFUZbG2tFH-1" parent="EsBzi1688cpFUZbG2tFH-0" />
@@ -3113,11 +3113,14 @@
         <mxCell id="JmuGBPWK8Sa869K9YI9C-73" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="493.75" y="293.75" width="12.5" height="12.5" as="geometry" />
         </mxCell>
-        <mxCell id="bIrnIfLefShjde7R1TQI-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1" source="JmuGBPWK8Sa869K9YI9C-27" target="JmuGBPWK8Sa869K9YI9C-53">
+        <mxCell id="bIrnIfLefShjde7R1TQI-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=0.13;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="EsBzi1688cpFUZbG2tFH-1" source="JmuGBPWK8Sa869K9YI9C-45" target="JmuGBPWK8Sa869K9YI9C-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="310" as="sourcePoint" />
             <mxPoint x="474.23223304703436" y="364.23223304703424" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I4wPPcA_uG9ej_iA7VAP-0" value="&lt;font&gt;l&lt;span style=&quot;font-size: 10px;&quot;&gt;1&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="323.63" y="326.25" width="32.74" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
