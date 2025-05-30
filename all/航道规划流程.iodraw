@@ -4603,9 +4603,6 @@
         <mxCell id="lAS7BW5GKGi0Xq85oaXr-19" value="最短可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lAS7BW5GKGi0Xq85oaXr-17" vertex="1">
           <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qoE3A8WSYN0IMC_piX4i-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;stpe1&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="97.5" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
