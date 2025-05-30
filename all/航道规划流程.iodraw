@@ -3013,7 +3013,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oYlgjJgOlMxm5UIS4v8x" name="一般奖励塑形方法">
-    <mxGraphModel dx="488" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="581" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="EsBzi1688cpFUZbG2tFH-0" />
         <mxCell id="EsBzi1688cpFUZbG2tFH-1" parent="EsBzi1688cpFUZbG2tFH-0" />
@@ -3028,6 +3028,42 @@
         </mxCell>
         <mxCell id="JmuGBPWK8Sa869K9YI9C-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
           <mxGeometry x="493.75" y="333.75" width="12.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="440" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="453.75" y="373.75" width="12.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="480" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="493.75" y="373.75" width="12.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="450" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="463.75" y="343.75" width="12.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="490" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="503.75" y="343.75" width="12.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="450" y="370" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="463.75" y="383.75" width="12.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="490" y="370" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JmuGBPWK8Sa869K9YI9C-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="EsBzi1688cpFUZbG2tFH-1">
+          <mxGeometry x="503.75" y="383.75" width="12.5" height="12.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
