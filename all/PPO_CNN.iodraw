@@ -555,7 +555,7 @@
         <mxCell id="2Kplac815_iyPs0ZSvLA-42" value="线性激活层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="355" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2Kplac815_iyPs0ZSvLA-43" value="卷积神经网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2Kplac815_iyPs0ZSvLA-43" value="线性神经网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="265" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SJG5i6SHoAxSTW7u-2_3-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=50;direction=east;flipH=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
