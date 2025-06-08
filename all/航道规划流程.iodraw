@@ -3790,7 +3790,7 @@
         <mxCell id="qoE3A8WSYN0IMC_piX4i-5" value="$$\phi _{1}=l_{5}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="123.75" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rBvisycVCOKedLBIIGdO-1" value="$$\phi_{0}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="rBvisycVCOKedLBIIGdO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="600" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rBvisycVCOKedLBIIGdO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -3907,7 +3907,7 @@
         <mxCell id="rBvisycVCOKedLBIIGdO-42" value="&lt;font&gt;l&lt;span style=&quot;font-size: 10px;&quot;&gt;5&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="1">
           <mxGeometry x="83.63" y="660" width="32.74" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rBvisycVCOKedLBIIGdO-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rBvisycVCOKedLBIIGdO-28">
+        <mxCell id="rBvisycVCOKedLBIIGdO-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rBvisycVCOKedLBIIGdO-28" target="rBvisycVCOKedLBIIGdO-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280.23223304703436" y="630.2322330470342" as="sourcePoint" />
             <mxPoint x="314.23223304703436" y="664.2322330470342" as="targetPoint" />
