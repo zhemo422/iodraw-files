@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vzWDa3ym1xNfQba81FI1" name="泳道图">
-    <mxGraphModel dx="581" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="488" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,6 +198,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="463.5" y="140" as="sourcePoint" />
             <mxPoint x="574.5" y="154" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="160" />
+              <mxPoint x="520" y="163" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
