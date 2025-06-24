@@ -212,8 +212,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fNlgppClZ2ID5-goRRAl-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="150" width="60" height="30" as="geometry" />
+        <mxCell id="fNlgppClZ2ID5-goRRAl-1" value="汽车电池预警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
