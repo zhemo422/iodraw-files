@@ -10,11 +10,8 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-7" value="历史电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="245" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-8" value="电池信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="340" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-12" value="预警规则" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="130" width="60" height="60" as="geometry" />
+          <mxGeometry x="500" y="330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-13" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="255" width="80" height="40" as="geometry" />
@@ -39,12 +36,6 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-44" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZmpJmv_9RFRVdDUYGgdl-21">
           <mxGeometry x="-0.0679" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-8" target="ZmpJmv_9RFRVdDUYGgdl-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="255" as="sourcePoint" />
-            <mxPoint x="560" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-12" target="ZmpJmv_9RFRVdDUYGgdl-5">
