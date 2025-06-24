@@ -20,7 +20,7 @@
           <mxGeometry x="490" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-10" value="修改汽车信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="340" width="60" height="60" as="geometry" />
+          <mxGeometry x="140" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-12" value="预警规则" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="130" width="60" height="60" as="geometry" />
@@ -43,10 +43,16 @@
             <mxPoint x="270" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-10">
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-10" target="ZmpJmv_9RFRVdDUYGgdl-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="93" y="353" as="sourcePoint" />
             <mxPoint x="110" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.054;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-5" target="ZmpJmv_9RFRVdDUYGgdl-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="103" y="363" as="sourcePoint" />
+            <mxPoint x="120" y="327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
