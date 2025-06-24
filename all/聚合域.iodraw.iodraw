@@ -108,11 +108,8 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-45" value="电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-255" y="350" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3_7daf72e72gZG84yHn-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n3_7daf72e72gZG84yHn-1" target="ZmpJmv_9RFRVdDUYGgdl-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="n3_7daf72e72gZG84yHn-1" value="电池信号历史" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="150" width="60" height="60" as="geometry" />
+        <mxCell id="n3_7daf72e72gZG84yHn-1" value="电池信号信息列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="350" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
