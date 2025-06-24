@@ -118,8 +118,8 @@
             <mxPoint x="-38" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqVEUDkCMXOJ29afBUwh-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="390" width="200" height="200" as="geometry" />
+        <mxCell id="QqVEUDkCMXOJ29afBUwh-1" value="ParentOrder" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="680" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
