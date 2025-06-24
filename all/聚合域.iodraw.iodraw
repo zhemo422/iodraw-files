@@ -23,16 +23,16 @@
           <mxGeometry x="80" y="320" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-5" value="电池" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="290" width="70" height="70" as="geometry" />
+          <mxGeometry x="344" y="310" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-6" value="电池预警" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="320" width="60" height="60" as="geometry" />
+          <mxGeometry x="250" y="350" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-7" value="电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="420" width="60" height="60" as="geometry" />
+          <mxGeometry x="390" y="430" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-8" value="电池类型" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="380" width="60" height="60" as="geometry" />
+          <mxGeometry x="480" y="325" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-10" value="发送信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="420" width="60" height="60" as="geometry" />
@@ -40,8 +40,8 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-11" value="电池" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-12" value="电池类型" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="490" width="60" height="60" as="geometry" />
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-12" value="预警规则" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="430" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
