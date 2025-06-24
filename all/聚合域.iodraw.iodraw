@@ -112,21 +112,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vzWDa3ym1xNfQba81FI1" name="泳道图">
-    <mxGraphModel dx="1845" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TekjdKsTPP0CfHnor1MW-5" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="90" y="70" width="500" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="TekjdKsTPP0CfHnor1MW-21" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="430" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="TekjdKsTPP0CfHnor1MW-10" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="340" width="430" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="TekjdKsTPP0CfHnor1MW-17" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="280" width="470" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
