@@ -59,24 +59,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-26" value="汽车" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-260" y="255" width="70" height="70" as="geometry" />
+          <mxGeometry x="-260" y="240" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-27" value="汽车信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-200" y="355" width="60" height="60" as="geometry" />
+          <mxGeometry x="-200" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-28" value="发送电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-300" y="355" width="60" height="60" as="geometry" />
+          <mxGeometry x="-300" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-28" target="ZmpJmv_9RFRVdDUYGgdl-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-120" y="295" as="sourcePoint" />
-            <mxPoint x="-70" y="245" as="targetPoint" />
+            <mxPoint x="-120" y="280" as="sourcePoint" />
+            <mxPoint x="-70" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-27" target="ZmpJmv_9RFRVdDUYGgdl-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-247" y="368" as="sourcePoint" />
-            <mxPoint x="-230" y="332" as="targetPoint" />
+            <mxPoint x="-247" y="353" as="sourcePoint" />
+            <mxPoint x="-230" y="317" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-31" value="汽车网关" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -103,10 +103,10 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-36" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-90" y="255" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZmpJmv_9RFRVdDUYGgdl-36" source="ZmpJmv_9RFRVdDUYGgdl-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-190.00000000000034" y="274.66000000000014" as="sourcePoint" />
-            <mxPoint x="-90.00000000000023" y="274.66000000000014" as="targetPoint" />
+            <mxPoint x="-190.00000000000034" y="259.66000000000014" as="sourcePoint" />
+            <mxPoint x="-90.00000000000023" y="259.66000000000014" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZmpJmv_9RFRVdDUYGgdl-36">
