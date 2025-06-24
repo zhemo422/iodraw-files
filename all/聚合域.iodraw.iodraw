@@ -117,7 +117,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TekjdKsTPP0CfHnor1MW-5" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="110" y="55" width="490" height="120" as="geometry" />
+          <mxGeometry x="90" y="70" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-21" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="430" height="120" as="geometry" />
