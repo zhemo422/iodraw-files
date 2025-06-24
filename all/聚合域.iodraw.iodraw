@@ -242,8 +242,8 @@
         <mxCell id="lhF-TeZDltDIGnc3NCrS-1" value="聚合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="378" y="56" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lhF-TeZDltDIGnc3NCrS-2" value="聚合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="50" height="20" as="geometry" />
+        <mxCell id="lhF-TeZDltDIGnc3NCrS-2" value="分发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="376" y="246" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
