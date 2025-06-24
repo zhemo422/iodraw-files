@@ -192,7 +192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="455" y="50" width="10" height="60" as="geometry" />
+          <mxGeometry x="455" y="50" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TekjdKsTPP0CfHnor1MW-26" target="TekjdKsTPP0CfHnor1MW-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
