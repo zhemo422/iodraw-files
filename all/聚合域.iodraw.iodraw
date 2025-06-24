@@ -239,7 +239,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fNlgppClZ2ID5-goRRAl-1" value="汽车电池预警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fNlgppClZ2ID5-goRRAl-1" value="汽车电池报警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="40" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
