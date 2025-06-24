@@ -11,7 +11,7 @@
           <mxGeometry x="414" y="240" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-6" value="电池预警" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="360" width="60" height="60" as="geometry" />
+          <mxGeometry x="330" y="330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-7" value="电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="430" width="60" height="60" as="geometry" />
@@ -19,14 +19,17 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-8" value="电池类型" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="340" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-10" value="发送信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="360" width="60" height="60" as="geometry" />
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-10" value="发送电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-12" value="预警规则" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="430" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-13" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="255" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-14" value="发送电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="390" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
