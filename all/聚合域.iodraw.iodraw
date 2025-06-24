@@ -154,7 +154,8 @@
             <mxPoint x="183.5" y="20" as="sourcePoint" />
             <mxPoint x="294.5" y="34" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="40" />
+              <mxPoint x="295" y="20" />
+              <mxPoint x="185" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -244,6 +245,9 @@
         </mxCell>
         <mxCell id="lhF-TeZDltDIGnc3NCrS-2" value="分发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376" y="246" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lhF-TeZDltDIGnc3NCrS-3" value="分发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="256" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
