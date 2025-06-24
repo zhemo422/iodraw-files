@@ -119,7 +119,7 @@
         <mxCell id="TekjdKsTPP0CfHnor1MW-5" value="car" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TekjdKsTPP0CfHnor1MW-25" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="TekjdKsTPP0CfHnor1MW-25" value="Gateway" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-26" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
