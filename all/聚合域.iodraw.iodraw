@@ -62,7 +62,7 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-31" value="汽车网关" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="240" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-32" value="汽车信息列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-32" value="汽车信息队列" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="350" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-33" value="电池信号信息列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
