@@ -237,7 +237,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fNlgppClZ2ID5-goRRAl-1" value="汽车电池报警" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="30" width="80" height="30" as="geometry" />
+          <mxGeometry x="180" y="30" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
