@@ -125,11 +125,14 @@
         <mxCell id="TekjdKsTPP0CfHnor1MW-26" value="platfrom" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TekjdKsTPP0CfHnor1MW-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TekjdKsTPP0CfHnor1MW-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TekjdKsTPP0CfHnor1MW-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="220" as="sourcePoint" />
             <mxPoint x="340" y="20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TekjdKsTPP0CfHnor1MW-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
