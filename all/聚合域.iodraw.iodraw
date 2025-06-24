@@ -7,7 +7,7 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-5" value="电池预警平台" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="240" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-7" value="车辆历史" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-7" value="车辆历史电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="245" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-12" value="预警规则" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -108,9 +108,6 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-45" value="电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-255" y="350" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n3_7daf72e72gZG84yHn-1" value="电池信号信息列表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="350" width="60" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -162,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="455" y="50" width="10" height="40" as="geometry" />
+          <mxGeometry x="455" y="50" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TekjdKsTPP0CfHnor1MW-26" target="TekjdKsTPP0CfHnor1MW-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -182,7 +179,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TekjdKsTPP0CfHnor1MW-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.053;entryY=0.061;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryPerimeter=0;" edge="1" parent="1" source="TekjdKsTPP0CfHnor1MW-40" target="TekjdKsTPP0CfHnor1MW-42">
+        <mxCell id="TekjdKsTPP0CfHnor1MW-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.053;entryY=0.061;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryPerimeter=0;" edge="1" parent="1" source="TekjdKsTPP0CfHnor1MW-40" target="TekjdKsTPP0CfHnor1MW-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="466" y="90" as="sourcePoint" />
             <mxPoint x="576" y="110" as="targetPoint" />
