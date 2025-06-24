@@ -126,7 +126,7 @@
           <mxGeometry x="400" y="120" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-27" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="256.88" y="-26.87" width="400" height="370" as="geometry" />
+          <mxGeometry x="255" y="-25" width="410" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
