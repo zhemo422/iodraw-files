@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="cleZ4HfzRlePiQBX7QqM-0" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="210" width="210" height="252" as="geometry" />
+        </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-5" value="电池预警平台" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="240" width="70" height="70" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-32" value="汽车信息队列" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="350" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-33" value="电池信号队列" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-33" value="电池信号队列" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="350" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-33" target="ZmpJmv_9RFRVdDUYGgdl-31" edge="1">
@@ -131,9 +134,6 @@
         </mxCell>
         <mxCell id="eoAD8oOtUKzfPpWxRD-m-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="eoAD8oOtUKzfPpWxRD-m-14">
           <mxGeometry width="150" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="cleZ4HfzRlePiQBX7QqM-0" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="210" width="210" height="252" as="geometry" />
         </mxCell>
         <mxCell id="cleZ4HfzRlePiQBX7QqM-1" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="210" width="230" height="210" as="geometry" />
