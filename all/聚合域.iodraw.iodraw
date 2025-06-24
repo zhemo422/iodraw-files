@@ -122,10 +122,10 @@
         <mxCell id="TekjdKsTPP0CfHnor1MW-25" value="Gateway" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TekjdKsTPP0CfHnor1MW-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="TekjdKsTPP0CfHnor1MW-25">
+        <mxCell id="TekjdKsTPP0CfHnor1MW-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TekjdKsTPP0CfHnor1MW-25" source="TekjdKsTPP0CfHnor1MW-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="120" as="sourcePoint" />
-            <mxPoint x="200" y="70" as="targetPoint" />
+            <mxPoint x="180" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-26" value="platfrom" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
@@ -145,6 +145,12 @@
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="30" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="TekjdKsTPP0CfHnor1MW-39" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TekjdKsTPP0CfHnor1MW-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="380" as="sourcePoint" />
+            <mxPoint x="670" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
