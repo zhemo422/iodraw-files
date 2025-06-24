@@ -112,7 +112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vzWDa3ym1xNfQba81FI1" name="泳道图">
-    <mxGraphModel dx="842" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="581" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,6 +121,12 @@
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-25" value="Gateway" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TekjdKsTPP0CfHnor1MW-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="TekjdKsTPP0CfHnor1MW-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="120" as="sourcePoint" />
+            <mxPoint x="200" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TekjdKsTPP0CfHnor1MW-26" value="platfrom" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="360" height="120" as="geometry" />
