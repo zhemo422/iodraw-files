@@ -54,7 +54,7 @@
           <mxGeometry x="130" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-33" value="电池信号组" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-180" y="350" width="60" height="60" as="geometry" />
+          <mxGeometry x="-210" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-33" target="f3CJXt_UvYVBIaYWkRQN-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,8 +92,8 @@
         <mxCell id="eoAD8oOtUKzfPpWxRD-m-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="eoAD8oOtUKzfPpWxRD-m-14" vertex="1">
           <mxGeometry width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="f3CJXt_UvYVBIaYWkRQN-0" value="电池" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-130" y="240" width="70" height="70" as="geometry" />
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-0" value="电池组" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="250" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f3CJXt_UvYVBIaYWkRQN-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f3CJXt_UvYVBIaYWkRQN-1" target="ZmpJmv_9RFRVdDUYGgdl-32">
           <mxGeometry relative="1" as="geometry" />
