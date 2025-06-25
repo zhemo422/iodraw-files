@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="cleZ4HfzRlePiQBX7QqM-2" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-280" y="220" width="115" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="cleZ4HfzRlePiQBX7QqM-1" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="210" width="230" height="210" as="geometry" />
         </mxCell>
@@ -59,15 +56,6 @@
             <mxPoint x="445" y="314" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-26" value="汽车" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-260" y="240" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-45" target="ZmpJmv_9RFRVdDUYGgdl-26" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-120" y="280" as="sourcePoint" />
-            <mxPoint x="-70" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-31" value="汽车网关" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="240" width="70" height="70" as="geometry" />
         </mxCell>
@@ -89,33 +77,16 @@
             <mxPoint x="110" y="317" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-36" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-90" y="255" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-26" target="ZmpJmv_9RFRVdDUYGgdl-36" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-190.00000000000034" y="259.66000000000014" as="sourcePoint" />
-            <mxPoint x="-90.00000000000023" y="259.66000000000014" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-39" value="n:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZmpJmv_9RFRVdDUYGgdl-37" vertex="1" connectable="0">
-          <mxGeometry x="-0.1833" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-38" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZmpJmv_9RFRVdDUYGgdl-36" edge="1">
+        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-38" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="275" as="sourcePoint" />
-            <mxPoint x="-220" y="327" as="targetPoint" />
+            <mxPoint x="-10" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-41" value="1:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZmpJmv_9RFRVdDUYGgdl-38" vertex="1" connectable="0">
           <mxGeometry x="-0.037" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-45" value="电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-255" y="350" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eoAD8oOtUKzfPpWxRD-m-14" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="440" y="440" width="150" height="130" as="geometry" />
