@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="聚合">
-    <mxGraphModel dx="1845" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1669" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -11,13 +11,13 @@
           <mxGeometry x="395" y="200" width="120" height="210" as="geometry" />
         </mxCell>
         <mxCell id="cleZ4HfzRlePiQBX7QqM-0" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="90" y="280" width="210" height="252" as="geometry" />
+          <mxGeometry x="90" y="290" width="210" height="252" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-5" value="电池预警平台" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="420" y="240" width="70" height="70" as="geometry" />
+          <mxGeometry x="420" y="225" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-12" value="预警规则" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="425" y="340" width="60" height="60" as="geometry" />
+          <mxGeometry x="425" y="325" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-13" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="200" width="80" height="40" as="geometry" />
@@ -30,15 +30,15 @@
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-12" target="ZmpJmv_9RFRVdDUYGgdl-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="290" as="sourcePoint" />
-            <mxPoint x="280" y="240" as="targetPoint" />
+            <mxPoint x="230" y="275" as="sourcePoint" />
+            <mxPoint x="280" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-31" value="汽车组" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="310" width="70" height="70" as="geometry" />
+          <mxGeometry x="160" y="320" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-32" value="汽车" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="410" width="60" height="60" as="geometry" />
+          <mxGeometry x="210" y="420" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-33" value="电池" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="275" width="60" height="60" as="geometry" />
@@ -51,8 +51,8 @@
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-32" target="ZmpJmv_9RFRVdDUYGgdl-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="173" y="423" as="sourcePoint" />
-            <mxPoint x="190" y="387" as="targetPoint" />
+            <mxPoint x="173" y="433" as="sourcePoint" />
+            <mxPoint x="190" y="397" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eoAD8oOtUKzfPpWxRD-m-14" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f3CJXt_UvYVBIaYWkRQN-1" value="汽车报警信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="400" width="60" height="60" as="geometry" />
+          <mxGeometry x="110" y="410" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f3CJXt_UvYVBIaYWkRQN-4" value="电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="275" width="60" height="60" as="geometry" />
