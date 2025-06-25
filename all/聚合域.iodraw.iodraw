@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="聚合">
-    <mxGraphModel dx="2263" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1525" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -122,6 +122,42 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="147" y="361" as="sourcePoint" />
             <mxPoint x="20" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-14" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="890" width="210" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-15" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="1182" width="210" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-16" value="汽车组" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="1212" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-17" value="汽车" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="1312" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-18" value="电池" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="940" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f3CJXt_UvYVBIaYWkRQN-17" target="f3CJXt_UvYVBIaYWkRQN-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213" y="1325" as="sourcePoint" />
+            <mxPoint x="230" y="1289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f3CJXt_UvYVBIaYWkRQN-23" target="f3CJXt_UvYVBIaYWkRQN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-23" value="汽车报警信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="1302" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-24" value="电池信号" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="1080" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3CJXt_UvYVBIaYWkRQN-26" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f3CJXt_UvYVBIaYWkRQN-14" target="f3CJXt_UvYVBIaYWkRQN-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="974" as="sourcePoint" />
+            <mxPoint x="530" y="972" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
