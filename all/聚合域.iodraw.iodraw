@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="cleZ4HfzRlePiQBX7QqM-1" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="210" width="230" height="210" as="geometry" />
+          <mxGeometry x="395" y="210" width="120" height="210" as="geometry" />
         </mxCell>
         <mxCell id="cleZ4HfzRlePiQBX7QqM-0" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="210" width="210" height="252" as="geometry" />
@@ -47,12 +47,6 @@
             <mxPoint x="280" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZmpJmv_9RFRVdDUYGgdl-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZmpJmv_9RFRVdDUYGgdl-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="531.9653679521311" y="304.32014017224026" as="sourcePoint" />
-            <mxPoint x="445" y="314" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-31" value="汽车网关" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="240" width="70" height="70" as="geometry" />
         </mxCell>
@@ -60,7 +54,7 @@
           <mxGeometry x="140" y="350" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-33" value="电池信号组" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="350" width="60" height="60" as="geometry" />
+          <mxGeometry x="-140" y="360" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmpJmv_9RFRVdDUYGgdl-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZmpJmv_9RFRVdDUYGgdl-33" target="ZmpJmv_9RFRVdDUYGgdl-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
