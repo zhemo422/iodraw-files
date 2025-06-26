@@ -100,8 +100,11 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-20" value="SQL区" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-190" y="460" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-21" value="汽车表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-21" value="汽车表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-20">
+          <mxGeometry y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-22" value="汽车表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-180" y="520" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
