@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="470" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-0" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="130" width="80" height="110" as="geometry" />
+          <mxGeometry x="220" y="115" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="OzU0bSbp6uXdNh-5_NtR-0" vertex="1">
           <mxGeometry width="80" height="80" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-1" value="redsi" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="310" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-2" value="汽车信号数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="290" width="80" height="40" as="geometry" />
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-2" value="汽车信号服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-5" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="140" width="150" height="60" as="geometry" />
