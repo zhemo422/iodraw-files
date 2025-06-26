@@ -193,10 +193,14 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-56" value="信号解析服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="790" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-64" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="OzU0bSbp6uXdNh-5_NtR-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="420" as="sourcePoint" />
             <mxPoint x="670" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="420" />
+              <mxPoint x="620" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
