@@ -25,6 +25,9 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="120" width="60" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-4" value="RocketMQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
