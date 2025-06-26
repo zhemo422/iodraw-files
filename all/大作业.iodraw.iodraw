@@ -195,7 +195,7 @@
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-64" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="OzU0bSbp6uXdNh-5_NtR-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="350" as="sourcePoint" />
             <mxPoint x="670" y="370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="630" y="290" />
@@ -291,6 +291,17 @@
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-81" value="规则管理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-84" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="480" as="sourcePoint" />
+            <mxPoint x="670" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-85" value="API请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-84">
+          <mxGeometry x="-0.566" y="-9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
