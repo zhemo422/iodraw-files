@@ -4,14 +4,17 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-0" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-0" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="450" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-0" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="240" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-2" value="汽车服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="240" width="80" height="30" as="geometry" />
+        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="OzU0bSbp6uXdNh-5_NtR-0" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-2" value="汽车服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="OzU0bSbp6uXdNh-5_NtR-0" vertex="1">
+          <mxGeometry y="80" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
