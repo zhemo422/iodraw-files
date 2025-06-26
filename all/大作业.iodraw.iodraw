@@ -147,6 +147,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-55" value="报警信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-27">
+          <mxGeometry x="0.4075" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-36" value="SQL" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="655" y="410" width="110" height="40" as="geometry" />
         </mxCell>
