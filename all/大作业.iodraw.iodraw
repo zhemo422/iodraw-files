@@ -303,7 +303,7 @@
             <mxPoint x="19" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-86" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="OzU0bSbp6uXdNh-5_NtR-36">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-86" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OzU0bSbp6uXdNh-5_NtR-81" target="OzU0bSbp6uXdNh-5_NtR-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="490" as="sourcePoint" />
             <mxPoint x="700" y="340" as="targetPoint" />
@@ -312,6 +312,11 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-87" value="规则管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-86">
           <mxGeometry x="-0.566" y="-9" relative="1" as="geometry">
             <mxPoint x="19" y="-43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-88" value="修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-86">
+          <mxGeometry x="0.0901" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
