@@ -4,6 +4,18 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="90" width="480" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-60" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="90" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-61" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-60">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-62" value="警报服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-60">
+          <mxGeometry y="80" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="90" width="480" height="580" as="geometry" />
         </mxCell>
@@ -132,7 +144,7 @@
           <mxGeometry x="655" y="410" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-37" value="redis" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="410" width="60" height="40" as="geometry" />
+          <mxGeometry x="950" y="350" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-38" value="SQL区" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="460" width="200" height="170" as="geometry" />
@@ -147,7 +159,7 @@
           <mxGeometry y="130" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-41" value="Redis缓存" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="460" width="200" height="270" as="geometry" />
+          <mxGeometry x="890" y="400" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-42" value="解析请求ID -&amp;gt;解析请求结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-41">
           <mxGeometry y="30" width="200" height="40" as="geometry" />
@@ -180,18 +192,6 @@
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-56" value="信号解析服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="290" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="100" width="480" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-60" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="100" width="80" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-61" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-60">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-62" value="警报服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-60">
-          <mxGeometry y="80" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
