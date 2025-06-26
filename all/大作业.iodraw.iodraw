@@ -298,7 +298,7 @@
             <mxPoint x="670" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-85" value="API请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-84">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-85" value="规则管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-84">
           <mxGeometry x="-0.566" y="-9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
