@@ -289,6 +289,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-89" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.99;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.015;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OzU0bSbp6uXdNh-5_NtR-81" target="OzU0bSbp6uXdNh-5_NtR-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="400" as="sourcePoint" />
+            <mxPoint x="770" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-90" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-89">
+          <mxGeometry x="0.6489" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-81" value="规则管理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="310" width="80" height="40" as="geometry" />
         </mxCell>
@@ -301,12 +315,6 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-88" value="修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-86">
           <mxGeometry x="0.0901" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-89" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.99;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.015;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OzU0bSbp6uXdNh-5_NtR-81" target="OzU0bSbp6uXdNh-5_NtR-41">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="400" as="sourcePoint" />
-            <mxPoint x="770" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
