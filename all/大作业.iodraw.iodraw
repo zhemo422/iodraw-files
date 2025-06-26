@@ -217,7 +217,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-67" value="信号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-66">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-67" value="信号消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-66">
           <mxGeometry x="-0.566" y="-9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -307,11 +307,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="490" as="sourcePoint" />
             <mxPoint x="700" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-87" value="规则管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-86">
-          <mxGeometry x="-0.566" y="-9" relative="1" as="geometry">
-            <mxPoint x="19" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-88" value="修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-86">
