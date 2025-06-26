@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-56" value="信号解析服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="815" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-64" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="OzU0bSbp6uXdNh-5_NtR-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -203,6 +203,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-65" value="API请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-64">
+          <mxGeometry x="-0.566" y="-9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-66" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="430" as="sourcePoint" />
+            <mxPoint x="825" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-67" value="API请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-66">
           <mxGeometry x="-0.566" y="-9" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
