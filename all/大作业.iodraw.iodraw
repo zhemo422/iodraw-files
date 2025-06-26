@@ -10,7 +10,7 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-0" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="150" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="OzU0bSbp6uXdNh-5_NtR-0" vertex="1">
+        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="OzU0bSbp6uXdNh-5_NtR-0" vertex="1">
           <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-2" value="汽车服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="OzU0bSbp6uXdNh-5_NtR-0" vertex="1">
@@ -22,11 +22,14 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="120" width="60" height="150" as="geometry" />
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-5" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="385" y="165" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-4" value="RocketMQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="180" width="80" height="30" as="geometry" />
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-5">
+          <mxGeometry x="45" y="-45" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-4" value="RocketMQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-5">
+          <mxGeometry x="25" y="15" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
