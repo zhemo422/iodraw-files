@@ -148,7 +148,7 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-41" value="Redis缓存" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="460" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-42" value="汽车id -&amp;gt;汽车缓存数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-41">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-42" value="解析请求ID -&amp;gt;解析请求结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-41">
           <mxGeometry y="30" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-43" value="信号id -&amp;gt;信号缓存数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-41">
