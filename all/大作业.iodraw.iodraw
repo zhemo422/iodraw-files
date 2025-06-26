@@ -98,13 +98,13 @@
           <mxGeometry y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-20" value="SQL区" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-190" y="450" width="200" height="160" as="geometry" />
+          <mxGeometry x="-170" y="460" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-21" value="汽车表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-20">
           <mxGeometry y="30" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-22" value="信号表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-20">
-          <mxGeometry y="110" width="200" height="40" as="geometry" />
+          <mxGeometry y="80" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
