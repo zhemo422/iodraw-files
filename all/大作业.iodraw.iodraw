@@ -4,8 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-0" value="SQL" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="480" width="110" height="40" as="geometry" />
+        <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-0" value="SQL" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="35" y="460" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-0" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="115" width="80" height="110" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="LxPGx8HzR-yf4xdZwQ8Y-2" value="汽车服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="OzU0bSbp6uXdNh-5_NtR-0" vertex="1">
           <mxGeometry y="80" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-1" value="redis" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-1" value="redis" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="460" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-2" value="汽车信号服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-19" value="警报服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-17">
           <mxGeometry y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-20" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="250" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
