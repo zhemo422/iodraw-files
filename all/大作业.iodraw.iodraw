@@ -198,9 +198,13 @@
             <mxPoint x="590" y="420" as="sourcePoint" />
             <mxPoint x="670" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="420" />
-              <mxPoint x="620" y="370" />
+              <mxPoint x="630" y="290" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-65" value="API请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-64">
+          <mxGeometry x="-0.566" y="-9" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
