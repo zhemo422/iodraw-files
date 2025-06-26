@@ -10,7 +10,7 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-60" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1010" y="90" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-61" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#0066CC;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-60">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-61" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#007FFF;strokeColor=#0066CC;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-60">
           <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-62" value="警报服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OzU0bSbp6uXdNh-5_NtR-60">
