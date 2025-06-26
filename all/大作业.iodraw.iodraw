@@ -71,13 +71,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.275;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OzU0bSbp6uXdNh-5_NtR-2" target="OzU0bSbp6uXdNh-5_NtR-3">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.275;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OzU0bSbp6uXdNh-5_NtR-2" target="OzU0bSbp6uXdNh-5_NtR-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="200" as="sourcePoint" />
             <mxPoint x="280" y="304" as="targetPoint" />
             <Array as="points">
               <mxPoint x="310" y="230" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-54" value="信号消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-14">
+          <mxGeometry x="-0.1049" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OzU0bSbp6uXdNh-5_NtR-6" target="LxPGx8HzR-yf4xdZwQ8Y-0">
