@@ -19,8 +19,8 @@
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-1" value="redsi" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="310" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="350" width="80" height="40" as="geometry" />
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-2" value="汽车信息数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OzU0bSbp6uXdNh-5_NtR-5" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="140" width="150" height="60" as="geometry" />
