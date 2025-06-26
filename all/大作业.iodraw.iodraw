@@ -249,14 +249,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzU0bSbp6uXdNh-5_NtR-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OzU0bSbp6uXdNh-5_NtR-72" target="OzU0bSbp6uXdNh-5_NtR-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="380" as="sourcePoint" />
             <mxPoint x="860" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="860" y="380" />
-              <mxPoint x="810" y="330" />
-            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzU0bSbp6uXdNh-5_NtR-76" value="加载/存储解析器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzU0bSbp6uXdNh-5_NtR-75">
+          <mxGeometry x="-0.1588" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
