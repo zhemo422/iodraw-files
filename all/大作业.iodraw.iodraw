@@ -321,7 +321,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pe2CE_rBaSoOSqa2hj7H" name="第 2 页">
-    <mxGraphModel dx="1461" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,6 +360,18 @@
         </mxCell>
         <mxCell id="R2ZMJoQd4_XE2UTRbewE-12" value="汽车服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="R2ZMJoQd4_XE2UTRbewE-10" vertex="1">
           <mxGeometry y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51_EGMHumW4RAW7RaR6D-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=0.504;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="R2ZMJoQd4_XE2UTRbewE-2" target="_NrBVVF3gvcwyfOhC4Y9-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.23223304703436" y="430.23223304703424" as="sourcePoint" />
+            <mxPoint x="434.23223304703436" y="464.23223304703424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51_EGMHumW4RAW7RaR6D-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;endArrow=classicThin;endFill=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;startSize=6;endSize=3;exitX=0.504;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="234" as="sourcePoint" />
+            <mxPoint x="237" y="391" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
