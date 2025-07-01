@@ -424,7 +424,7 @@
             <mxPoint x="35" y="9.759999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-17" value="最短可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-15">
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-17" value="最短格点路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-15">
           <mxGeometry x="40" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-18" value="" style="group" vertex="1" connectable="0" parent="1">
