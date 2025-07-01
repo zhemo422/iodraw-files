@@ -569,7 +569,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-66" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="32.5" y="740" width="110" height="20" as="geometry" />
+          <mxGeometry x="160" y="740" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-74" value="" style="group" vertex="1" connectable="0" parent="ULPh5TiRYHjVxuxjEs3z-66">
           <mxGeometry width="110" height="20" as="geometry" />
