@@ -598,7 +598,7 @@
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-68">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-10" value="为探索状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-68">
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-10" value="未探索状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-68">
           <mxGeometry x="30" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-69" value="" style="group" vertex="1" connectable="0" parent="ULPh5TiRYHjVxuxjEs3z-75">
