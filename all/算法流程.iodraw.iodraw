@@ -434,10 +434,10 @@
           <mxGeometry x="490" y="875" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-13" value="目标点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="616.25" y="875" width="70" height="20" as="geometry" />
+          <mxGeometry x="615" y="875" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="586.25" y="877.73" width="14.53" height="14.53" as="geometry" />
+          <mxGeometry x="585" y="877.73" width="14.53" height="14.53" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="580" y="786.25" width="110" height="20" as="geometry" />
@@ -449,6 +449,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-17" value="最短可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-15">
+          <mxGeometry x="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="830" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;endSize=3;targetPerimeterSpacing=0;strokeColor=#999999;" edge="1" parent="ULPh5TiRYHjVxuxjEs3z-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="9.759999999999991" as="sourcePoint" />
+            <mxPoint x="35" y="9.759999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-20" value="可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-18">
           <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
