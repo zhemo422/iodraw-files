@@ -398,7 +398,7 @@
           <mxGeometry x="450" y="770" width="240" height="135" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="460" y="785" width="20" height="20" as="geometry" />
+          <mxGeometry x="50" y="785" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="815" width="20" height="20" as="geometry" />
@@ -416,7 +416,7 @@
           <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-7" value="势能场格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="785" width="80" height="20" as="geometry" />
+          <mxGeometry x="80" y="785" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-8" value="势能场边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="815" width="80" height="20" as="geometry" />
