@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="k6HO21tpTeA2WuysmRgW">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1018" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -395,16 +395,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="480" y="305" width="240" height="135" as="geometry" />
+          <mxGeometry x="450" y="770" width="240" height="135" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="320" width="20" height="20" as="geometry" />
+          <mxGeometry x="460" y="785" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="490" y="350" width="20" height="20" as="geometry" />
+          <mxGeometry x="460" y="815" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="610" y="355" width="110" height="20" as="geometry" />
+          <mxGeometry x="580" y="820" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;endSize=3;targetPerimeterSpacing=0;strokeColor=#999999;" edge="1" parent="ULPh5TiRYHjVxuxjEs3z-4">
           <mxGeometry relative="1" as="geometry">
@@ -416,31 +416,31 @@
           <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-7" value="势能场格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="80" height="20" as="geometry" />
+          <mxGeometry x="490" y="785" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-8" value="势能场边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="80" height="20" as="geometry" />
+          <mxGeometry x="490" y="815" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="490" y="380" width="20" height="20" as="geometry" />
+          <mxGeometry x="460" y="845" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-10" value="暂不可达格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="80" height="20" as="geometry" />
+          <mxGeometry x="490" y="845" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490" y="410" width="20" height="20" as="geometry" />
+          <mxGeometry x="460" y="875" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-12" value="障碍物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="410" width="80" height="20" as="geometry" />
+          <mxGeometry x="490" y="875" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-13" value="目标点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="385" width="70" height="20" as="geometry" />
+          <mxGeometry x="620" y="850" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="620" y="387.73" width="14.53" height="14.53" as="geometry" />
+          <mxGeometry x="590" y="852.73" width="14.53" height="14.53" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="610" y="321.25" width="110" height="20" as="geometry" />
+          <mxGeometry x="580" y="786.25" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=6;sourcePerimeterSpacing=0;endArrow=classicThin;endFill=1;endSize=3;targetPerimeterSpacing=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="ULPh5TiRYHjVxuxjEs3z-15">
           <mxGeometry relative="1" as="geometry">
