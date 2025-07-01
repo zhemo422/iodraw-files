@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="k6HO21tpTeA2WuysmRgW">
-    <mxGraphModel dx="1744" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1018" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,9 +397,6 @@
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="450" y="770" width="240" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="460" y="785" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="815" width="20" height="20" as="geometry" />
         </mxCell>
@@ -414,9 +411,6 @@
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-6" value="可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-4">
           <mxGeometry x="40" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-7" value="势能场格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="785" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-8" value="势能场边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="815" width="80" height="20" as="geometry" />
@@ -597,6 +591,15 @@
             <mxPoint x="700" y="599.74" as="sourcePoint" />
             <mxPoint x="740" y="599.4300000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="97.5" y="766.25" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-66">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-7" value="势能场格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-66">
+          <mxGeometry x="30" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
