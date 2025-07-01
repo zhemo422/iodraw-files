@@ -412,14 +412,14 @@
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-6" value="可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-4">
           <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-8" value="势能场边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-8" value="边界状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="253.75" y="766.25" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="460" y="845" width="20" height="20" as="geometry" />
+          <mxGeometry x="352.74" y="766.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-10" value="暂不可达格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="845" width="80" height="20" as="geometry" />
+          <mxGeometry x="382.74" y="766.25" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="460" y="875" width="20" height="20" as="geometry" />
