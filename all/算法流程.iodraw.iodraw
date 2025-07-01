@@ -598,7 +598,7 @@
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-66">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-7" value="势能场格点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-66">
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-7" value="以确定状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-66">
           <mxGeometry x="30" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
