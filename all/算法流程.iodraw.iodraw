@@ -397,9 +397,6 @@
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="477.27" y="310" width="240" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="223.75" y="766.25" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="560" y="843.75" width="110" height="20" as="geometry" />
         </mxCell>
@@ -411,9 +408,6 @@
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-6" value="可行路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-4">
           <mxGeometry x="40" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-8" value="边界状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="253.75" y="766.25" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-13" value="目标点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="898.75" width="70" height="20" as="geometry" />
@@ -581,7 +575,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-66" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="97.5" y="766.25" width="110" height="20" as="geometry" />
+          <mxGeometry x="30" y="740" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-66">
           <mxGeometry width="20" height="20" as="geometry" />
@@ -605,6 +599,15 @@
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-10" value="为探索状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-68">
+          <mxGeometry x="30" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="223.75" y="766.25" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-69">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-8" value="边界状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULPh5TiRYHjVxuxjEs3z-69">
           <mxGeometry x="30" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
