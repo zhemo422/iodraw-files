@@ -395,10 +395,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="450" y="770" width="240" height="135" as="geometry" />
+          <mxGeometry x="477.27" y="310" width="240" height="135" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="815" width="20" height="20" as="geometry" />
+          <mxGeometry x="223.75" y="766.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="580" y="820" width="110" height="20" as="geometry" />
@@ -413,7 +413,7 @@
           <mxGeometry x="40" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-8" value="势能场边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="815" width="80" height="20" as="geometry" />
+          <mxGeometry x="253.75" y="766.25" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="460" y="845" width="20" height="20" as="geometry" />
