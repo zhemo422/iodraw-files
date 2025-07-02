@@ -1270,12 +1270,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BcjRuX_-ngv-ft6yzano-148" value="（a）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="690" width="80" height="30" as="geometry" />
+          <mxGeometry x="-213.75" y="690" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcjRuX_-ngv-ft6yzano-149" value="（b）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="690" width="80" height="30" as="geometry" />
+          <mxGeometry x="26.25" y="690" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BcjRuX_-ngv-ft6yzano-150" value="（c）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266.25" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BcjRuX_-ngv-ft6yzano-151" value="（d）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="690" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
