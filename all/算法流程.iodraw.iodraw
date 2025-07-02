@@ -1251,7 +1251,7 @@
         <mxCell id="1VqGAfZs0yRYlQ7MKAGP-186" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="50.625" y="777.26" width="116.87500000000001" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BcjRuX_-ngv-ft6yzano-155" value="$$\phi_{0}=0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BcjRuX_-ngv-ft6yzano-155" value="$$\D_{0}=0$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-153.12" y="680" width="106.25" height="30" as="geometry" />
         </mxCell>
       </root>
