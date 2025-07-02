@@ -1251,8 +1251,8 @@
         <mxCell id="1VqGAfZs0yRYlQ7MKAGP-186" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="50.625" y="777.26" width="116.87500000000001" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BcjRuX_-ngv-ft6yzano-155" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="650" width="60" height="30" as="geometry" />
+        <mxCell id="BcjRuX_-ngv-ft6yzano-155" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;$$\phi_{0}$$=0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-106.25" y="700" width="106.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
