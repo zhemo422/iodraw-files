@@ -1794,8 +1794,8 @@
         <mxCell id="dTh_tuGid37SViknQZuu-5" value="搜寻路径" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="612.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dTh_tuGid37SViknQZuu-6" value="搜寻路径" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="394" y="622.5" width="60" height="30" as="geometry" />
+        <mxCell id="dTh_tuGid37SViknQZuu-6" value="更新边界" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="612.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
