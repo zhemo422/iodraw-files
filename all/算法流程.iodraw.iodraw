@@ -1246,7 +1246,7 @@
           <mxGeometry x="31.875000000000004" width="74.375" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1VqGAfZs0yRYlQ7MKAGP-185" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1VqGAfZs0yRYlQ7MKAGP-183">
-          <mxGeometry width="7" height="7" as="geometry" />
+          <mxGeometry x="4" y="6" width="7" height="7" as="geometry" />
         </mxCell>
         <mxCell id="1VqGAfZs0yRYlQ7MKAGP-186" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="50.625" y="777.26" width="116.87500000000001" height="20" as="geometry" />
