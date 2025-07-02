@@ -1777,8 +1777,11 @@
         </mxCell>
         <mxCell id="TulbFU66boe_BlyuliZA-205" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="533" y="450.31" as="sourcePoint" />
+            <mxPoint x="780" y="500" as="sourcePoint" />
             <mxPoint x="280" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
