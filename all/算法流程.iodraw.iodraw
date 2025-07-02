@@ -1788,6 +1788,12 @@
         <mxCell id="dTh_tuGid37SViknQZuu-2" value="确定格点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="139.62" y="610" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dTh_tuGid37SViknQZuu-4" value="确定格点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTh_tuGid37SViknQZuu-5" value="确定格点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="159.62" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
