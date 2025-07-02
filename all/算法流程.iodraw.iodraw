@@ -1775,10 +1775,10 @@
         <mxCell id="TulbFU66boe_BlyuliZA-204" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;$$l_{3}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Romans;" vertex="1" parent="1">
           <mxGeometry x="554.01" y="642.5" width="32.74" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TulbFU66boe_BlyuliZA-205" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="TulbFU66boe_BlyuliZA-205" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="403" y="609.74" as="sourcePoint" />
-            <mxPoint x="443" y="609.4300000000001" as="targetPoint" />
+            <mxPoint x="533" y="450.31" as="sourcePoint" />
+            <mxPoint x="280" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
