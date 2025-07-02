@@ -568,7 +568,7 @@
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ULPh5TiRYHjVxuxjEs3z-74" vertex="1">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ULPh5TiRYHjVxuxjEs3z-7" value="已确定状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ULPh5TiRYHjVxuxjEs3z-74" vertex="1">
+        <mxCell id="ULPh5TiRYHjVxuxjEs3z-7" value="确定状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ULPh5TiRYHjVxuxjEs3z-74" vertex="1">
           <mxGeometry x="30" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-67" value="" style="group" parent="ULPh5TiRYHjVxuxjEs3z-75" vertex="1" connectable="0">
@@ -616,7 +616,7 @@
         <mxCell id="9ZiYih5SHYbmA0KRoQKP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="9ZiYih5SHYbmA0KRoQKP-2">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9ZiYih5SHYbmA0KRoQKP-4" value="已确定状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9ZiYih5SHYbmA0KRoQKP-2">
+        <mxCell id="9ZiYih5SHYbmA0KRoQKP-4" value="最短边界状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9ZiYih5SHYbmA0KRoQKP-2">
           <mxGeometry x="30" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ULPh5TiRYHjVxuxjEs3z-77" value="（a）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
