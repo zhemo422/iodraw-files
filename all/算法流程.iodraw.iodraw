@@ -626,7 +626,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PUuCW0aefSvP5VpteaBE" name="第 2 页">
-    <mxGraphModel dx="1098" dy="98" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1242" dy="201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1222,7 +1222,7 @@
           <mxGeometry width="19.43272727272727" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1VqGAfZs0yRYlQ7MKAGP-176" value="障碍物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1VqGAfZs0yRYlQ7MKAGP-174">
-          <mxGeometry x="29.149090909090905" width="68.01454545454544" height="20" as="geometry" />
+          <mxGeometry x="19.429090909090903" width="68.01454545454544" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1VqGAfZs0yRYlQ7MKAGP-177" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="305.63" y="740" width="104.38" height="20" as="geometry" />
