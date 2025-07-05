@@ -2986,7 +2986,7 @@
           <mxGeometry x="-0.34000000000003183" y="40" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-55" value="势能场" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="550" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="335" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.317;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-55" target="IOZlNujHi3B9070DYuYm-43">
           <mxGeometry relative="1" as="geometry">
