@@ -2910,7 +2910,7 @@
           <mxGeometry x="360" y="455" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-43" value="二维网格仿真环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="140" height="140" as="geometry" />
+          <mxGeometry x="580" y="296" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-54" value="&lt;b&gt;仿真环境构建&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-0.34000000000003183" y="40" width="143" height="30" as="geometry" />
