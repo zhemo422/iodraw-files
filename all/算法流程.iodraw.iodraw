@@ -2779,7 +2779,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nfvuru2UmkR7XUScXxKA" name="第 7 页">
-    <mxGraphModel dx="842" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="488" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2946,7 +2946,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-43" value="二维网格仿真环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="610" y="270" width="120" height="120" as="geometry" />
+          <mxGeometry x="580" y="289" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-45" target="IOZlNujHi3B9070DYuYm-49">
           <mxGeometry relative="1" as="geometry" />
@@ -3004,11 +3004,12 @@
         <mxCell id="O0WUFo3lWISyqRYi8uYJ-5" value="障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="460" y="329" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O0WUFo3lWISyqRYi8uYJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0WUFo3lWISyqRYi8uYJ-5">
+        <mxCell id="O0WUFo3lWISyqRYi8uYJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="O0WUFo3lWISyqRYi8uYJ-5" target="IOZlNujHi3B9070DYuYm-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="349" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="349" />
+              <mxPoint x="570" y="349" />
+              <mxPoint x="570" y="379" />
             </Array>
           </mxGeometry>
         </mxCell>
