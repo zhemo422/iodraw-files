@@ -2328,7 +2328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FXKTvQHERYhGtC5rjHyc" name="第 5 页">
-    <mxGraphModel dx="981" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="807" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2547,9 +2547,6 @@
         </mxCell>
         <mxCell id="L7qL6EqnSOgZH-5TeG4G-73" value="(a)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-190" y="170" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qzpatrxl5YXJVoWxwI-e-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.7227608534447303;endAngle=0.028475552085603983;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-216.25" y="23.75" width="232.5" height="232.5" as="geometry" />
         </mxCell>
         <mxCell id="Qzpatrxl5YXJVoWxwI-e-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.7227608534447303;endAngle=0.028475552085603983;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="23.75" y="23.75" width="232.5" height="232.5" as="geometry" />
