@@ -3215,6 +3215,12 @@
         <mxCell id="VuRjc14iCUZWC5v7du9P-19" value="局部观察野" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="525" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VuRjc14iCUZWC5v7du9P-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VuRjc14iCUZWC5v7du9P-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="480" as="sourcePoint" />
+            <mxPoint x="320" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
