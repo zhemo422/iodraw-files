@@ -2893,7 +2893,7 @@
         <mxCell id="O0WUFo3lWISyqRYi8uYJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-35" target="IOZlNujHi3B9070DYuYm-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-35" value="风险势能场" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="IOZlNujHi3B9070DYuYm-35" value="风险势能属性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-37">
@@ -2901,8 +2901,8 @@
             <mxPoint x="540" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-37" value="距离势能场" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="80" height="40" as="geometry" />
+        <mxCell id="IOZlNujHi3B9070DYuYm-37" value="距离势能属性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="455" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-43" target="IOZlNujHi3B9070DYuYm-45">
           <mxGeometry relative="1" as="geometry">
@@ -2988,7 +2988,7 @@
           <mxGeometry x="-0.34000000000003183" y="40" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O0WUFo3lWISyqRYi8uYJ-1" value="障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="310" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
