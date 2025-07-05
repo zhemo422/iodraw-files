@@ -2789,7 +2789,7 @@
         <mxCell id="IOZlNujHi3B9070DYuYm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-5" target="IOZlNujHi3B9070DYuYm-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-5" value="$$RIO计算$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="IOZlNujHi3B9070DYuYm-5" value="$$RIO=\sum RV*C_{i}$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="145" y="240" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-6" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
