@@ -2890,11 +2890,6 @@
         <mxCell id="IOZlNujHi3B9070DYuYm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-11" target="IOZlNujHi3B9070DYuYm-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="335" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-35" value="风险势能场" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
