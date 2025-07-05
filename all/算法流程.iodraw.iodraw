@@ -2899,7 +2899,7 @@
         <mxCell id="IOZlNujHi3B9070DYuYm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-37" target="IOZlNujHi3B9070DYuYm-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-37" value="势能场" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="IOZlNujHi3B9070DYuYm-37" value="场" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-43" target="IOZlNujHi3B9070DYuYm-45">
@@ -2939,7 +2939,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-43" value="二维网格仿真环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="240" width="120" height="120" as="geometry" />
+          <mxGeometry x="680" y="260" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-45" target="IOZlNujHi3B9070DYuYm-49">
           <mxGeometry relative="1" as="geometry" />
