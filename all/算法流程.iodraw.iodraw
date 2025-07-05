@@ -2779,7 +2779,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nfvuru2UmkR7XUScXxKA" name="第 7 页">
-    <mxGraphModel dx="842" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="407" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2997,7 +2997,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O0WUFo3lWISyqRYi8uYJ-5" value="障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="460" y="337" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="329" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0WUFo3lWISyqRYi8uYJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O0WUFo3lWISyqRYi8uYJ-5" target="IOZlNujHi3B9070DYuYm-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
