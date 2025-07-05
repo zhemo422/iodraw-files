@@ -2875,7 +2875,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-29" value="障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="IOZlNujHi3B9070DYuYm-29" value="不可通行海域" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-30" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
