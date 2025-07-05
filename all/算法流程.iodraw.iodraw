@@ -2779,7 +2779,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nfvuru2UmkR7XUScXxKA" name="第 7 页">
-    <mxGraphModel dx="1018" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1845" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2984,6 +2984,11 @@
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-23" value="" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;fontSize=15;" vertex="1" parent="IOZlNujHi3B9070DYuYm-21">
           <mxGeometry y="23.334444444444447" width="70" height="23.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="cyTbSCHWJEDnq--9VWZh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="cyTbSCHWJEDnq--9VWZh-19" source="IOZlNujHi3B9070DYuYm-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-24" value="北极地图数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="cyTbSCHWJEDnq--9VWZh-19">
           <mxGeometry y="70" width="150" height="20" as="geometry" />
