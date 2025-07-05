@@ -2634,7 +2634,7 @@
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-86" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-560" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0eMrwaLYv5s7PxhSfrm-87" value="$$x_{1}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-86">
+        <mxCell id="E0eMrwaLYv5s7PxhSfrm-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-86">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-86">
@@ -2643,7 +2643,7 @@
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-89" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-520" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0eMrwaLYv5s7PxhSfrm-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-89">
+        <mxCell id="E0eMrwaLYv5s7PxhSfrm-90" value="$$x_{1}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-89">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-89">
