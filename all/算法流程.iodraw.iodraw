@@ -2971,7 +2971,7 @@
           <mxGeometry x="30" y="30" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="cyTbSCHWJEDnq--9VWZh-18" value="二维网格划分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry y="520" width="150" height="20" as="geometry" />
+          <mxGeometry x="30" y="520" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cyTbSCHWJEDnq--9VWZh-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry y="360" width="150" height="90" as="geometry" />
