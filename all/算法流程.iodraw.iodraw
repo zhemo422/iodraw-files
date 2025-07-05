@@ -2434,8 +2434,8 @@
             <mxPoint x="97.50223304703357" y="57.50223304703362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L7qL6EqnSOgZH-5TeG4G-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="137" y="71" width="60" height="30" as="geometry" />
+        <mxCell id="L7qL6EqnSOgZH-5TeG4G-1" value="$$target$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="186" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
