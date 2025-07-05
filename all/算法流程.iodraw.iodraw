@@ -2849,7 +2849,7 @@
         <mxCell id="IOZlNujHi3B9070DYuYm-23" value="" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;dashed=1;fontSize=15;" vertex="1" parent="IOZlNujHi3B9070DYuYm-21">
           <mxGeometry y="23.334444444444447" width="70" height="23.333333333333332" as="geometry" />
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-24" value="格网经纬度数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="IOZlNujHi3B9070DYuYm-24" value="北极格网经纬度数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="10.000000000000002" y="439" width="122.33" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-32">
