@@ -2555,7 +2555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BUca1I3n3BeWH2HQiAWZ" name="第 6 页">
-    <mxGraphModel dx="2021" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1288" dy="348" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2643,11 +2643,11 @@
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-89" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-520" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0eMrwaLYv5s7PxhSfrm-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="E0eMrwaLYv5s7PxhSfrm-89" vertex="1">
-          <mxGeometry width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" parent="E0eMrwaLYv5s7PxhSfrm-89" vertex="1">
           <mxGeometry x="13.75" y="13.75" width="12.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E0eMrwaLYv5s7PxhSfrm-90" value="$$x_{4}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="E0eMrwaLYv5s7PxhSfrm-89" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-92" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-560" y="40" width="40" height="40" as="geometry" />
