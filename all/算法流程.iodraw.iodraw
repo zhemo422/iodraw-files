@@ -2551,6 +2551,9 @@
         <mxCell id="Qzpatrxl5YXJVoWxwI-e-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.7227608534447303;endAngle=0.028475552085603983;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-216.25" y="23.75" width="232.5" height="232.5" as="geometry" />
         </mxCell>
+        <mxCell id="Qzpatrxl5YXJVoWxwI-e-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.7227608534447303;endAngle=0.028475552085603983;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="23.75" y="23.75" width="232.5" height="232.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
