@@ -2789,7 +2789,7 @@
         <mxCell id="IOZlNujHi3B9070DYuYm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-5" target="IOZlNujHi3B9070DYuYm-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-5" value="RIO计算准则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="IOZlNujHi3B9070DYuYm-5" value="RIO计算准则" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="145" y="240" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-6" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
@@ -2884,7 +2884,7 @@
         <mxCell id="O0WUFo3lWISyqRYi8uYJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-35" target="O0WUFo3lWISyqRYi8uYJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOZlNujHi3B9070DYuYm-35" value="通航属性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="IOZlNujHi3B9070DYuYm-35" value="网格通航判断" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-37" target="IOZlNujHi3B9070DYuYm-43">
