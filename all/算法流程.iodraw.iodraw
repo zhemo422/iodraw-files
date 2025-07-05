@@ -3211,6 +3211,9 @@
         <mxCell id="VuRjc14iCUZWC5v7du9P-18" value="二维网格数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="565" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="VuRjc14iCUZWC5v7du9P-19" value="静态障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="525" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
