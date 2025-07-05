@@ -2555,7 +2555,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BUca1I3n3BeWH2HQiAWZ" name="第 6 页">
-    <mxGraphModel dx="1111" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1234" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2673,8 +2673,11 @@
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-111" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-110">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0eMrwaLYv5s7PxhSfrm-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-110">
+        <mxCell id="E0eMrwaLYv5s7PxhSfrm-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-110">
           <mxGeometry x="13.75" y="13.75" width="12.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E0eMrwaLYv5s7PxhSfrm-131" value="$$x_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="E0eMrwaLYv5s7PxhSfrm-110">
+          <mxGeometry x="6.25" y="29" width="20" as="geometry" />
         </mxCell>
         <mxCell id="E0eMrwaLYv5s7PxhSfrm-113" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-440" width="40" height="40" as="geometry" />
@@ -2711,9 +2714,6 @@
             <mxPoint x="-429.76776695296564" y="60.23223304703424" as="sourcePoint" />
             <mxPoint x="-395.76776695296564" y="94.23223304703424" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="E0eMrwaLYv5s7PxhSfrm-131" value="$$x_{1}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-516" y="29" width="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
