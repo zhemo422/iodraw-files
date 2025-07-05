@@ -2876,7 +2876,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-29" value="风险势能属性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOZlNujHi3B9070DYuYm-30" value="" style="group;fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="200" y="80" width="100" height="100" as="geometry" />
@@ -2987,13 +2987,16 @@
         <mxCell id="IOZlNujHi3B9070DYuYm-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;PPO算法+精准距离场算法&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-0.34000000000003183" y="40" width="143" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="O0WUFo3lWISyqRYi8uYJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O0WUFo3lWISyqRYi8uYJ-1" target="O0WUFo3lWISyqRYi8uYJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O0WUFo3lWISyqRYi8uYJ-1" value="静态障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="375" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O0WUFo3lWISyqRYi8uYJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IOZlNujHi3B9070DYuYm-23" target="O0WUFo3lWISyqRYi8uYJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O0WUFo3lWISyqRYi8uYJ-5" value="静态障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="O0WUFo3lWISyqRYi8uYJ-5" value="障碍物" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="460" y="335" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
