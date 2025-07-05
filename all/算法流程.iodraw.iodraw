@@ -3103,7 +3103,7 @@
         <mxCell id="O1tQPfNzEdy8-HJH8QxW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1tQPfNzEdy8-HJH8QxW-28" target="O1tQPfNzEdy8-HJH8QxW-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1tQPfNzEdy8-HJH8QxW-28" value="网格通航判断" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="O1tQPfNzEdy8-HJH8QxW-28" value="不可通航判断" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O1tQPfNzEdy8-HJH8QxW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1tQPfNzEdy8-HJH8QxW-30" target="O1tQPfNzEdy8-HJH8QxW-31">
