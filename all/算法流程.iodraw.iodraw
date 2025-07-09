@@ -3232,11 +3232,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A1NDEQQAlOZSvrpdgl6M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="A1NDEQQAlOZSvrpdgl6M-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="220.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A1NDEQQAlOZSvrpdgl6M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="A1NDEQQAlOZSvrpdgl6M-3" target="A1NDEQQAlOZSvrpdgl6M-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3327,7 +3322,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1NDEQQAlOZSvrpdgl6M-28" value="不可通航网格" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1NDEQQAlOZSvrpdgl6M-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A1NDEQQAlOZSvrpdgl6M-30" target="A1NDEQQAlOZSvrpdgl6M-31">
           <mxGeometry relative="1" as="geometry">
@@ -3338,7 +3333,7 @@
           <mxGeometry x="360" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1NDEQQAlOZSvrpdgl6M-31" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;二维网格仿真环境&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="299" width="100" height="100" as="geometry" />
+          <mxGeometry x="580" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="A1NDEQQAlOZSvrpdgl6M-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A1NDEQQAlOZSvrpdgl6M-33" target="A1NDEQQAlOZSvrpdgl6M-35">
           <mxGeometry relative="1" as="geometry" />
@@ -3354,7 +3349,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A1NDEQQAlOZSvrpdgl6M-35" value="障碍物属性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="329" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1NDEQQAlOZSvrpdgl6M-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A1NDEQQAlOZSvrpdgl6M-35" target="A1NDEQQAlOZSvrpdgl6M-31">
           <mxGeometry relative="1" as="geometry">
