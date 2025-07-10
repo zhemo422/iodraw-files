@@ -3507,7 +3507,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GAyDniBY8TmXM6PpAbfJ" name="第 11 页">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3526,8 +3526,8 @@
         <mxCell id="LbOz9WMLucJrqYkza1vb-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;原始RIO数据，这里的障碍物和海冰都是白色，后续会划分&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="747.51" y="535" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LbOz9WMLucJrqYkza1vb-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;原始RIO数据，这里的障碍物和海冰都是白色，后续会划分&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="757.51" y="545" width="380" height="30" as="geometry" />
+        <mxCell id="LbOz9WMLucJrqYkza1vb-8" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;由前两种数据叠加而来，绘制为3D&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1295.56" y="525" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
