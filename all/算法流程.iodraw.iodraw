@@ -3467,11 +3467,14 @@
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-7" value="奖励塑形技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GhF_KdJhTlZe2uMpFlgD-9" value="PPO算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="GhF_KdJhTlZe2uMpFlgD-9" value="EDF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="535" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-10" value="PDF（ours）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="535" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GhF_KdJhTlZe2uMpFlgD-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
