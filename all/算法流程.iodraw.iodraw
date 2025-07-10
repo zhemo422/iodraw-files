@@ -3458,8 +3458,8 @@
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-2" value="DQN算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GhF_KdJhTlZe2uMpFlgD-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="GhF_KdJhTlZe2uMpFlgD-4" value="深度强化学习算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
