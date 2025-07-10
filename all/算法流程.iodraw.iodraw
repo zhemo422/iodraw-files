@@ -3461,6 +3461,9 @@
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-4" value="深度强化学习算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="300" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GhF_KdJhTlZe2uMpFlgD-5" value="奖励塑形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
