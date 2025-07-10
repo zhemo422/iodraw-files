@@ -3450,19 +3450,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="140" height="250" as="geometry" />
+          <mxGeometry x="310" y="300" width="140" height="220" as="geometry" />
         </mxCell>
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-1" value="PPO算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-2" value="DQN算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-4" value="深度强化学习算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GhF_KdJhTlZe2uMpFlgD-5" value="奖励塑形技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
