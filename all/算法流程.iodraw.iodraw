@@ -3541,13 +3541,16 @@
           <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5ZpDAbWhszzqcMx4-IAz-2" value="Critic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="570" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5ZpDAbWhszzqcMx4-IAz-3" value="env" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5ZpDAbWhszzqcMx4-IAz-4" value="env" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V6nWStxVfjJNx7CNX4MR-1" value="样本池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
