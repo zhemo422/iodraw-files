@@ -3538,7 +3538,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V6nWStxVfjJNx7CNX4MR-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="200" height="270" as="geometry" />
+          <mxGeometry x="230" y="160" width="130" height="270" as="geometry" />
         </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="260" height="270" as="geometry" />
@@ -3592,7 +3592,7 @@
         </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-16" value="增强奖励、状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V6nWStxVfjJNx7CNX4MR-11">
           <mxGeometry x="-0.1201" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5ZpDAbWhszzqcMx4-IAz-3" value="环境核心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
