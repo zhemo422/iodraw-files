@@ -3553,7 +3553,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V6nWStxVfjJNx7CNX4MR-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V6nWStxVfjJNx7CNX4MR-25">
+        <mxCell id="V6nWStxVfjJNx7CNX4MR-26" value="最优策略" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V6nWStxVfjJNx7CNX4MR-25">
           <mxGeometry x="0.016" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3634,8 +3634,16 @@
         <mxCell id="5ZpDAbWhszzqcMx4-IAz-4" value="奖励塑形器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="V6nWStxVfjJNx7CNX4MR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6nWStxVfjJNx7CNX4MR-17" target="V6nWStxVfjJNx7CNX4MR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-17" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V6nWStxVfjJNx7CNX4MR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V6nWStxVfjJNx7CNX4MR-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-24" value="航线生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="320" width="80" height="40" as="geometry" />
