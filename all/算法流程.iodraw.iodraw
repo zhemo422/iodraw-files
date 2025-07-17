@@ -3622,37 +3622,7 @@
           <mxGeometry x="250" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-17" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="250" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6nWStxVfjJNx7CNX4MR-18" value="Critic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="250" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="V6nWStxVfjJNx7CNX4MR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6nWStxVfjJNx7CNX4MR-23" target="V6nWStxVfjJNx7CNX4MR-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V6nWStxVfjJNx7CNX4MR-20" value="样本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V6nWStxVfjJNx7CNX4MR-19">
-          <mxGeometry x="0.2103" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V6nWStxVfjJNx7CNX4MR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6nWStxVfjJNx7CNX4MR-23" target="V6nWStxVfjJNx7CNX4MR-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V6nWStxVfjJNx7CNX4MR-22" value="样本" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V6nWStxVfjJNx7CNX4MR-21">
-          <mxGeometry x="0.3949" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V6nWStxVfjJNx7CNX4MR-23" value="样本池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry y="190" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
