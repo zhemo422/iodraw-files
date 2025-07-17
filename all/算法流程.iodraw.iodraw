@@ -3562,8 +3562,15 @@
         <mxCell id="5ZpDAbWhszzqcMx4-IAz-2" value="Critic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="V6nWStxVfjJNx7CNX4MR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZpDAbWhszzqcMx4-IAz-3" target="V6nWStxVfjJNx7CNX4MR-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5ZpDAbWhszzqcMx4-IAz-3" value="环境核心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5ZpDAbWhszzqcMx4-IAz-4" value="奖励塑形器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
@@ -3583,7 +3590,7 @@
         <mxCell id="V6nWStxVfjJNx7CNX4MR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6nWStxVfjJNx7CNX4MR-1" target="5ZpDAbWhszzqcMx4-IAz-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="370" />
+              <mxPoint x="480" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
