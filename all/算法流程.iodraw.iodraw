@@ -3622,7 +3622,10 @@
           <mxGeometry x="250" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-17" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="190" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V6nWStxVfjJNx7CNX4MR-24" value="航线生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
