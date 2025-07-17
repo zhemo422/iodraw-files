@@ -3637,12 +3637,22 @@
         <mxCell id="V6nWStxVfjJNx7CNX4MR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6nWStxVfjJNx7CNX4MR-17" target="V6nWStxVfjJNx7CNX4MR-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="V6nWStxVfjJNx7CNX4MR-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V6nWStxVfjJNx7CNX4MR-27">
+          <mxGeometry x="-0.2143" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-17" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V6nWStxVfjJNx7CNX4MR-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6nWStxVfjJNx7CNX4MR-29" value="最优航线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V6nWStxVfjJNx7CNX4MR-28">
+          <mxGeometry x="-0.1978" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V6nWStxVfjJNx7CNX4MR-24" value="航线生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
