@@ -3688,7 +3688,7 @@
           <mxGeometry x="80" y="200" width="100" height="230" as="geometry" />
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="160" width="260" height="270" as="geometry" />
+          <mxGeometry x="380" y="160" width="310" height="270" as="geometry" />
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQcLo8yh9Led2BZSDfzI-8" target="HQcLo8yh9Led2BZSDfzI-14">
           <mxGeometry relative="1" as="geometry" />
@@ -3730,11 +3730,12 @@
         <mxCell id="HQcLo8yh9Led2BZSDfzI-11" value="Critic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HQcLo8yh9Led2BZSDfzI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQcLo8yh9Led2BZSDfzI-22" target="HQcLo8yh9Led2BZSDfzI-19">
+        <mxCell id="HQcLo8yh9Led2BZSDfzI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="HQcLo8yh9Led2BZSDfzI-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="400" />
             </Array>
+            <mxPoint x="430" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-13" value="增强奖励、状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HQcLo8yh9Led2BZSDfzI-12">
@@ -3785,7 +3786,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-22" value="奖励塑形器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="250" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQcLo8yh9Led2BZSDfzI-25" target="HQcLo8yh9Led2BZSDfzI-28">
           <mxGeometry relative="1" as="geometry" />
