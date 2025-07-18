@@ -3780,11 +3780,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQcLo8yh9Led2BZSDfzI-22" target="HQcLo8yh9Led2BZSDfzI-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="400" />
+              <mxPoint x="460" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-34" value="增强奖励、状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HQcLo8yh9Led2BZSDfzI-33">
           <mxGeometry x="0.219" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-22" value="奖励塑形器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
