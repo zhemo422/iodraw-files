@@ -3765,12 +3765,13 @@
         <mxCell id="HQcLo8yh9Led2BZSDfzI-19" value="样本池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HQcLo8yh9Led2BZSDfzI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HQcLo8yh9Led2BZSDfzI-14" target="HQcLo8yh9Led2BZSDfzI-22">
+        <mxCell id="HQcLo8yh9Led2BZSDfzI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQcLo8yh9Led2BZSDfzI-14" target="HQcLo8yh9Led2BZSDfzI-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="280" as="sourcePoint" />
             <mxPoint x="530" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="400" />
+              <mxPoint x="360" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3826,7 +3827,7 @@
           <mxGeometry x="430" y="160" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-31" value="预测器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="60" height="20" as="geometry" />
+          <mxGeometry x="80" y="160" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
