@@ -3730,12 +3730,9 @@
         <mxCell id="HQcLo8yh9Led2BZSDfzI-11" value="Critic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HQcLo8yh9Led2BZSDfzI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HQcLo8yh9Led2BZSDfzI-19">
+        <mxCell id="HQcLo8yh9Led2BZSDfzI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HQcLo8yh9Led2BZSDfzI-22" target="HQcLo8yh9Led2BZSDfzI-19">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="470" />
-              <mxPoint x="480" y="390" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="554" y="470" as="sourcePoint" />
             <mxPoint x="644" y="470" as="targetPoint" />
           </mxGeometry>
