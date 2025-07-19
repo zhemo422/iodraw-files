@@ -3735,7 +3735,7 @@
         <mxCell id="HQcLo8yh9Led2BZSDfzI-11" value="Critic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="600" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HQcLo8yh9Led2BZSDfzI-14" value="环境核心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="HQcLo8yh9Led2BZSDfzI-14" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;仿真环境&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="240" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HQcLo8yh9Led2BZSDfzI-19" target="HQcLo8yh9Led2BZSDfzI-11" edge="1">
@@ -3818,9 +3818,6 @@
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-28" value="航线生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="90" y="340" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HQcLo8yh9Led2BZSDfzI-29" value="仿真环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="200" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQcLo8yh9Led2BZSDfzI-30" value="训练器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="160" width="60" height="20" as="geometry" />
