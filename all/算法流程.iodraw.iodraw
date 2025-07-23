@@ -3892,6 +3892,18 @@
         <mxCell id="8vowG73S-sif3ywa_i42-260" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8vowG73S-sif3ywa_i42-268" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vowG73S-sif3ywa_i42-269" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8vowG73S-sif3ywa_i42-268">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8vowG73S-sif3ywa_i42-270" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="8vowG73S-sif3ywa_i42-268" source="8vowG73S-sif3ywa_i42-271" target="8vowG73S-sif3ywa_i42-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vowG73S-sif3ywa_i42-271" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8vowG73S-sif3ywa_i42-268">
+          <mxGeometry x="26.25" y="26.25" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
