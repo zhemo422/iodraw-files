@@ -4387,13 +4387,13 @@
             <mxPoint x="10" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vowG73S-sif3ywa_i42-247" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8vowG73S-sif3ywa_i42-247" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vowG73S-sif3ywa_i42-248" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8vowG73S-sif3ywa_i42-248" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8vowG73S-sif3ywa_i42-249" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8vowG73S-sif3ywa_i42-249" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
