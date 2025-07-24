@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hK5ewtRWDut_AzrFz-0R-1" value="Group" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="215" width="140" height="270" as="geometry" />
+          <mxGeometry x="420" y="215" width="140" height="270" as="geometry" />
         </mxCell>
         <mxCell id="hK5ewtRWDut_AzrFz-0R-34" value="" style="group" vertex="1" connectable="0" parent="hK5ewtRWDut_AzrFz-0R-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -96,7 +96,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hK5ewtRWDut_AzrFz-0R-11" value="Link" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="215" width="140" height="270" as="geometry" />
+          <mxGeometry x="850" y="215" width="140" height="270" as="geometry" />
         </mxCell>
         <mxCell id="hK5ewtRWDut_AzrFz-0R-37" value="" style="group" vertex="1" connectable="0" parent="hK5ewtRWDut_AzrFz-0R-11">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -139,7 +139,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hK5ewtRWDut_AzrFz-0R-21" value="link_goto" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="245" width="140" height="210" as="geometry" />
+          <mxGeometry x="640" y="245" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="hK5ewtRWDut_AzrFz-0R-40" value="" style="group" vertex="1" connectable="0" parent="hK5ewtRWDut_AzrFz-0R-21">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
