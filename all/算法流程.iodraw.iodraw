@@ -3972,7 +3972,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ps6UesEr-VzVcvSYaJwz-5" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.ship" vertex="1" parent="1">
-          <mxGeometry x="370" y="450" width="105" height="60" as="geometry" />
+          <mxGeometry x="350" y="450" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ps6UesEr-VzVcvSYaJwz-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
