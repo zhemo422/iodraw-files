@@ -420,7 +420,7 @@
         <mxCell id="mTa9au8HHGKDAXkQIsRf-17" value="pk" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mTa9au8HHGKDAXkQIsRf-15">
           <mxGeometry x="110" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mTa9au8HHGKDAXkQIsRf-18" value="short_url" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mTa9au8HHGKDAXkQIsRf-14">
+        <mxCell id="mTa9au8HHGKDAXkQIsRf-18" value="full_short_url" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mTa9au8HHGKDAXkQIsRf-14">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mTa9au8HHGKDAXkQIsRf-19" value="Date" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="mTa9au8HHGKDAXkQIsRf-14">
