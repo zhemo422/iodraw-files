@@ -214,7 +214,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cZC0lGljm3E_B01eVsYr-14" value="user_group" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="200" width="140" height="240" as="geometry" />
+          <mxGeometry x="760" y="215" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="cZC0lGljm3E_B01eVsYr-15" value="" style="group" vertex="1" connectable="0" parent="cZC0lGljm3E_B01eVsYr-14">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -348,9 +348,9 @@
         <mxCell id="hVOE5C2oAE-N-rqSxFLy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cZC0lGljm3E_B01eVsYr-22" target="hVOE5C2oAE-N-rqSxFLy-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="759" y="320" />
-              <mxPoint x="759" y="340" />
-              <mxPoint x="620" y="340" />
+              <mxPoint x="760" y="320" />
+              <mxPoint x="750" y="320" />
+              <mxPoint x="750" y="335" />
             </Array>
             <mxPoint x="490" y="345" as="sourcePoint" />
             <mxPoint x="350" y="345" as="targetPoint" />
