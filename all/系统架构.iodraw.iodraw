@@ -175,7 +175,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cZC0lGljm3E_B01eVsYr-2" value="User" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZC0lGljm3E_B01eVsYr-2" value="user" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="cZC0lGljm3E_B01eVsYr-3" value="" style="group" vertex="1" connectable="0" parent="cZC0lGljm3E_B01eVsYr-2">
@@ -245,7 +245,7 @@
         <mxCell id="cZC0lGljm3E_B01eVsYr-25" value="update_time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="cZC0lGljm3E_B01eVsYr-22">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9c9RfymA5vkqI6HdA_Rt-1" value="ShortLinkGroup" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9c9RfymA5vkqI6HdA_Rt-1" value="short_link_group" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="585" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9c9RfymA5vkqI6HdA_Rt-2" value="" style="group" vertex="1" connectable="0" parent="9c9RfymA5vkqI6HdA_Rt-1">
