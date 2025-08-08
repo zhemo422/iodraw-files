@@ -252,7 +252,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9c9RfymA5vkqI6HdA_Rt-1" value="short_link_group" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="640" width="140" height="240" as="geometry" />
+          <mxGeometry x="200" y="670" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9c9RfymA5vkqI6HdA_Rt-2" value="" style="group" vertex="1" connectable="0" parent="9c9RfymA5vkqI6HdA_Rt-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -409,7 +409,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mTa9au8HHGKDAXkQIsRf-14" value="link_goto" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="467" y="700" width="140" height="210" as="geometry" />
+          <mxGeometry x="480" y="700" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="mTa9au8HHGKDAXkQIsRf-15" value="" style="group" vertex="1" connectable="0" parent="mTa9au8HHGKDAXkQIsRf-14">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
