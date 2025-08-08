@@ -465,7 +465,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZK5sabWWC3W8eHedVb_I-1" value="link_goto" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="450" width="140" height="240" as="geometry" />
+          <mxGeometry x="480" y="960" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ZK5sabWWC3W8eHedVb_I-2" value="" style="group" vertex="1" connectable="0" parent="ZK5sabWWC3W8eHedVb_I-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
