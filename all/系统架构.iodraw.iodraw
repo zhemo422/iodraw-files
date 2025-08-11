@@ -541,7 +541,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EltqNXVikAP5G2FxxbCz-1" value="SK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="510" width="30" height="30" as="geometry" />
+          <mxGeometry x="550" y="150" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
