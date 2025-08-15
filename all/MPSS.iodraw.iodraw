@@ -321,6 +321,12 @@
         <mxCell id="JCYf1XEZA7aq61rtk9eo-1" value="优先探查价值最高的点：路径最短" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="485" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JCYf1XEZA7aq61rtk9eo-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JCYf1XEZA7aq61rtk9eo-1" target="De_DHJxzYnF96ut2iz-I-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="390" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
