@@ -137,7 +137,7 @@
           <mxGeometry x="590" y="500" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ED4JNMOuQVD3hqLgDDZc-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="320" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ED4JNMOuQVD3hqLgDDZc-2" value="Goal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="230" width="40" height="40" as="geometry" />
@@ -147,6 +147,9 @@
             <mxPoint x="346" y="410" as="sourcePoint" />
             <mxPoint x="334" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ED4JNMOuQVD3hqLgDDZc-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="315" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
