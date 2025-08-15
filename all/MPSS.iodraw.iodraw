@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6nwVlYEF19xJBinaC9Bl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6nwVlYEF19xJBinaC9Bl-1" target="6nwVlYEF19xJBinaC9Bl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nwVlYEF19xJBinaC9Bl-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="40" height="40" as="geometry" />
         </mxCell>
@@ -30,9 +33,6 @@
         </mxCell>
         <mxCell id="6nwVlYEF19xJBinaC9Bl-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="300" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6nwVlYEF19xJBinaC9Bl-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="530" y="360" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6nwVlYEF19xJBinaC9Bl-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="420" y="140" width="40" height="40" as="geometry" />
