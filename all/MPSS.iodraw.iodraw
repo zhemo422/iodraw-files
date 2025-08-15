@@ -321,8 +321,8 @@
         <mxCell id="shTeHp2ik__3tQ0iOfjV-35" value="浅层树：直接探查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="270" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4UcJ0Kbg8SGQUbq2ny9Q-2" value="浅层树：直接探查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="110" height="30" as="geometry" />
+        <mxCell id="4UcJ0Kbg8SGQUbq2ny9Q-2" value="深层树：保留探查进度（枢轴点）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
