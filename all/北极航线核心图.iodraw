@@ -206,16 +206,16 @@
           <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-2" value="Critic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-3" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-4" value="样本池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-5" value="奖励增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-6" value="预测网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
