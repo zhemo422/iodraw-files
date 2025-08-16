@@ -253,6 +253,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGiAxDArM7UCJ_ER3vOL-3" target="LGiAxDArM7UCJ_ER3vOL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-3" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -282,9 +285,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGiAxDArM7UCJ_ER3vOL-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LGiAxDArM7UCJ_ER3vOL-10">
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-19" value="增强奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LGiAxDArM7UCJ_ER3vOL-10">
           <mxGeometry x="-0.5228" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-5" value="奖励增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
