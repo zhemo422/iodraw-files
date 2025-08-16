@@ -211,7 +211,7 @@
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-18" value="原始状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LGiAxDArM7UCJ_ER3vOL-8">
           <mxGeometry x="-0.7372" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGiAxDArM7UCJ_ER3vOL-1" target="LGiAxDArM7UCJ_ER3vOL-5">
@@ -223,7 +223,7 @@
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-17" value="原始奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LGiAxDArM7UCJ_ER3vOL-9">
           <mxGeometry x="-0.635" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-1" value="仿真环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -259,6 +259,11 @@
               <mxPoint x="490" y="200" />
               <mxPoint x="70" y="200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-21" value="模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LGiAxDArM7UCJ_ER3vOL-20">
+          <mxGeometry x="-0.1269" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-3" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
