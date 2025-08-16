@@ -369,7 +369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v_NlD-M-vXMJ0_sdvChP" name="第 3 页">
-    <mxGraphModel dx="488" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="581" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -526,18 +526,6 @@
         <mxCell id="D1QUlRWj5Khx5hV0vujW-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="650" y="480" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="D1QUlRWj5Khx5hV0vujW-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="600" y="720" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D1QUlRWj5Khx5hV0vujW-68" value="起点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="720" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D1QUlRWj5Khx5hV0vujW-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="600" y="750" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D1QUlRWj5Khx5hV0vujW-70" value="终点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="750" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="D1QUlRWj5Khx5hV0vujW-72" value="最大状态价值方向" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="780" width="60" height="20" as="geometry" />
         </mxCell>
@@ -555,6 +543,24 @@
             <mxPoint x="680" y="789.86" as="sourcePoint" />
             <mxPoint x="700" y="789.86" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="720" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="D1QUlRWj5Khx5hV0vujW-78">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-68" value="起点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D1QUlRWj5Khx5hV0vujW-78">
+          <mxGeometry x="20" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-79" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="750" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="D1QUlRWj5Khx5hV0vujW-79">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-70" value="终点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D1QUlRWj5Khx5hV0vujW-79">
+          <mxGeometry x="20" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
