@@ -229,11 +229,11 @@
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-1" value="仿真环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGiAxDArM7UCJ_ER3vOL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGiAxDArM7UCJ_ER3vOL-2" target="LGiAxDArM7UCJ_ER3vOL-3">
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGiAxDArM7UCJ_ER3vOL-2" target="LGiAxDArM7UCJ_ER3vOL-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="160" />
-              <mxPoint x="520" y="160" />
+              <mxPoint x="740" y="200" />
+              <mxPoint x="550" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
