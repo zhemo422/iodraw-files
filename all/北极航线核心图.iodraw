@@ -538,11 +538,14 @@
         <mxCell id="D1QUlRWj5Khx5hV0vujW-70" value="终点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="750" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D1QUlRWj5Khx5hV0vujW-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="610" y="760" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="D1QUlRWj5Khx5hV0vujW-72" value="终点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="760" width="60" height="20" as="geometry" />
+          <mxGeometry x="620" y="780" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="890" as="sourcePoint" />
+            <mxPoint x="620" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
