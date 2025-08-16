@@ -526,12 +526,12 @@
         <mxCell id="D1QUlRWj5Khx5hV0vujW-61" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="400" y="480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D1QUlRWj5Khx5hV0vujW-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D1QUlRWj5Khx5hV0vujW-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="460" as="sourcePoint" />
             <mxPoint x="190" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="630" />
+              <mxPoint x="190" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
