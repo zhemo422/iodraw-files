@@ -209,11 +209,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LGiAxDArM7UCJ_ER3vOL-8">
+          <mxGeometry x="-0.7372" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGiAxDArM7UCJ_ER3vOL-1" target="LGiAxDArM7UCJ_ER3vOL-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="450" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-17" value="原始奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LGiAxDArM7UCJ_ER3vOL-9">
+          <mxGeometry x="-0.635" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-1" value="仿真环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -237,6 +247,11 @@
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGiAxDArM7UCJ_ER3vOL-3" target="LGiAxDArM7UCJ_ER3vOL-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-16" value="动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LGiAxDArM7UCJ_ER3vOL-15">
+          <mxGeometry x="-0.0511" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-3" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
