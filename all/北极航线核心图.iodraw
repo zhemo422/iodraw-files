@@ -198,7 +198,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yQlq4h6Vum6-YIR0VoDe" name="第 2 页">
-    <mxGraphModel dx="1845" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,7 +319,7 @@
             <mxPoint x="15" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGiAxDArM7UCJ_ER3vOL-5" value="奖励增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-5" value="奖励增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGiAxDArM7UCJ_ER3vOL-6" target="LGiAxDArM7UCJ_ER3vOL-1">
@@ -356,7 +356,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGiAxDArM7UCJ_ER3vOL-7" value="航线生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-7" value="航线生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-32" value="训练器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
