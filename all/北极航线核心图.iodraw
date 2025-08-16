@@ -524,7 +524,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D1QUlRWj5Khx5hV0vujW-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="650" y="480" width="120" height="120" as="geometry" />
+          <mxGeometry x="594" y="694" width="146" height="146" as="geometry" />
         </mxCell>
         <mxCell id="D1QUlRWj5Khx5hV0vujW-72" value="最大状态价值方向" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="780" width="60" height="20" as="geometry" />
