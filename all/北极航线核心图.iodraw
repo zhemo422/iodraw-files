@@ -571,7 +571,7 @@
         <mxCell id="D1QUlRWj5Khx5hV0vujW-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D1QUlRWj5Khx5hV0vujW-81">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D1QUlRWj5Khx5hV0vujW-86" value="起点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-86" value="障碍物" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="750" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D1QUlRWj5Khx5hV0vujW-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
