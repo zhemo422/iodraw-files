@@ -220,7 +220,7 @@
         <mxCell id="LGiAxDArM7UCJ_ER3vOL-6" value="预测网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGiAxDArM7UCJ_ER3vOL-7" value="预测网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGiAxDArM7UCJ_ER3vOL-7" value="航线生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
