@@ -541,7 +541,7 @@
         <mxCell id="D1QUlRWj5Khx5hV0vujW-72" value="终点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="780" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D1QUlRWj5Khx5hV0vujW-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="D1QUlRWj5Khx5hV0vujW-73" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="840" as="sourcePoint" />
             <mxPoint x="620" y="840" as="targetPoint" />
