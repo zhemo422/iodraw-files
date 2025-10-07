@@ -960,7 +960,7 @@
         <mxCell id="exXJMmeVe1a5cVRt91Cn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.548;exitY=1.069;exitDx=0;exitDy=0;exitPerimeter=0;" parent="exXJMmeVe1a5cVRt91Cn-1" source="exXJMmeVe1a5cVRt91Cn-44" target="exXJMmeVe1a5cVRt91Cn-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="exXJMmeVe1a5cVRt91Cn-46" value="坐标和奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="exXJMmeVe1a5cVRt91Cn-45" vertex="1" connectable="0">
+        <mxCell id="exXJMmeVe1a5cVRt91Cn-46" value="Coordinates and original rewards" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="exXJMmeVe1a5cVRt91Cn-45" vertex="1" connectable="0">
           <mxGeometry x="0.5555" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
