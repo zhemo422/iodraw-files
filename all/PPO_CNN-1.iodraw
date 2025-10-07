@@ -791,7 +791,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="算法框架副本" id="6W9bqFbWxHVPz0PIAlJ_">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="581" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="exXJMmeVe1a5cVRt91Cn-0" />
         <mxCell id="exXJMmeVe1a5cVRt91Cn-1" parent="exXJMmeVe1a5cVRt91Cn-0" />
@@ -836,7 +836,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exXJMmeVe1a5cVRt91Cn-10" value="动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="exXJMmeVe1a5cVRt91Cn-9" vertex="1" connectable="0">
+        <mxCell id="exXJMmeVe1a5cVRt91Cn-10" value="Action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="exXJMmeVe1a5cVRt91Cn-9" vertex="1" connectable="0">
           <mxGeometry x="-0.3829" y="2" relative="1" as="geometry">
             <mxPoint x="-60" y="-2" as="offset" />
           </mxGeometry>
@@ -977,7 +977,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exXJMmeVe1a5cVRt91Cn-49" value="状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="exXJMmeVe1a5cVRt91Cn-48" vertex="1" connectable="0">
+        <mxCell id="exXJMmeVe1a5cVRt91Cn-49" value="S" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="exXJMmeVe1a5cVRt91Cn-48" vertex="1" connectable="0">
           <mxGeometry x="-0.5732" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
