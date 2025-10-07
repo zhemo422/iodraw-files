@@ -882,7 +882,7 @@
         <mxCell id="exXJMmeVe1a5cVRt91Cn-20" value="精准距离场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="exXJMmeVe1a5cVRt91Cn-1" vertex="1">
           <mxGeometry x="360" y="790" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="exXJMmeVe1a5cVRt91Cn-21" value="&lt;b&gt;仿真环境模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="exXJMmeVe1a5cVRt91Cn-1" vertex="1">
+        <mxCell id="exXJMmeVe1a5cVRt91Cn-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;仿真环境模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="exXJMmeVe1a5cVRt91Cn-1" vertex="1">
           <mxGeometry x="320" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exXJMmeVe1a5cVRt91Cn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="exXJMmeVe1a5cVRt91Cn-1" source="exXJMmeVe1a5cVRt91Cn-24" target="exXJMmeVe1a5cVRt91Cn-17" edge="1">
