@@ -1423,12 +1423,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y6-YFE5TRH2dKheERdVZ" name="第 9 页">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FvBPgoWi0a5lBi2niub--1" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.ship" vertex="1" parent="1">
-          <mxGeometry x="361" y="420" width="105" height="60" as="geometry" />
+          <mxGeometry x="361" y="400" width="119" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
