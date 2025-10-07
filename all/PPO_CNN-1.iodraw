@@ -848,7 +848,7 @@
         <mxCell id="exXJMmeVe1a5cVRt91Cn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="exXJMmeVe1a5cVRt91Cn-1" source="exXJMmeVe1a5cVRt91Cn-14" target="exXJMmeVe1a5cVRt91Cn-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="exXJMmeVe1a5cVRt91Cn-13" value="状态和增强奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="exXJMmeVe1a5cVRt91Cn-12" vertex="1" connectable="0">
+        <mxCell id="exXJMmeVe1a5cVRt91Cn-13" value="Status and enhanced rewards" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="exXJMmeVe1a5cVRt91Cn-12" vertex="1" connectable="0">
           <mxGeometry x="0.1048" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="16" as="offset" />
           </mxGeometry>
