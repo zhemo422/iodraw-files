@@ -769,7 +769,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-109" value="&lt;b&gt;强化学习算法框架&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-109" value="&lt;b&gt;强化学习基础&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="679.9200000000001" y="520" width="123.08" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" edge="1">
