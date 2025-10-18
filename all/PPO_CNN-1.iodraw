@@ -687,7 +687,7 @@
         <mxCell id="cmhUF0PfYejIG34CYFhx-14" value="精准距离场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="790" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-67" value="&lt;b&gt;仿真环境部分&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-67" value="&lt;b&gt;仿真环境模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cmhUF0PfYejIG34CYFhx-68" target="cmhUF0PfYejIG34CYFhx-13" edge="1">
@@ -701,7 +701,7 @@
         <mxCell id="cmhUF0PfYejIG34CYFhx-68" value="安全势能场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="880" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-72" value="&lt;b&gt;奖励增强&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-72" value="&lt;b&gt;奖励增强&lt;/b&gt;&lt;b&gt;部分&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="740" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-91" value="" style="group" parent="1" vertex="1" connectable="0">
