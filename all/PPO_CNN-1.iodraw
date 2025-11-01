@@ -1330,7 +1330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-13" value="综合势能场" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="510" y="820" width="80" height="70" as="geometry" />
+          <mxGeometry x="510" y="830" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cmhUF0PfYejIG34CYFhx-14" target="cmhUF0PfYejIG34CYFhx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
