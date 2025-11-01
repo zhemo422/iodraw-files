@@ -592,8 +592,8 @@
         <mxCell id="pZ8LGlASaxGfvk_MWqiz-54" value="Critic net output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-300" y="610" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WTd0BLcZG8BvUBMnfTZY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="WTd0BLcZG8BvUBMnfTZY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
