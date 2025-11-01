@@ -1436,6 +1436,9 @@
             <mxPoint x="54" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0fwbXffigB-ZSe3XPP7X-1" value="精准距离场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
