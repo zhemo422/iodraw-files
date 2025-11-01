@@ -453,7 +453,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eSl1CAZ4_Q-hlvZvX8x3" name="算法网络架构">
-    <mxGraphModel dx="1845" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1315" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -570,8 +570,18 @@
         <mxCell id="pZ8LGlASaxGfvk_MWqiz-45" value="Linear： 512 * 256&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="430" width="870" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pZ8LGlASaxGfvk_MWqiz-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pZ8LGlASaxGfvk_MWqiz-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pZ8LGlASaxGfvk_MWqiz-47" value="Linear： 256 * A&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="540" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTd0BLcZG8BvUBMnfTZY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pZ8LGlASaxGfvk_MWqiz-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pZ8LGlASaxGfvk_MWqiz-49" value="Linear： 256 * 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="540" width="400" height="60" as="geometry" />
