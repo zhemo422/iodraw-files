@@ -1276,7 +1276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gCaTnfmYo0Bzg0GblGFE" name="算法框架">
-    <mxGraphModel dx="698" dy="98" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="842" dy="201" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1368,7 +1368,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-108" value="增强奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-107" vertex="1" connectable="0">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-108" value="状态/增强奖励/动作/新动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-107" vertex="1" connectable="0">
           <mxGeometry x="-0.5962" y="3" relative="1" as="geometry">
             <mxPoint x="26" y="3" as="offset" />
           </mxGeometry>
