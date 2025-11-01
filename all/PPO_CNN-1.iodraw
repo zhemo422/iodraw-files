@@ -1307,7 +1307,7 @@
         <mxCell id="cmhUF0PfYejIG34CYFhx-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmhUF0PfYejIG34CYFhx-6" target="cmhUF0PfYejIG34CYFhx-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-116" value="状态和增强奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-115" vertex="1" connectable="0">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-116" value="轨迹回放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-115" vertex="1" connectable="0">
           <mxGeometry x="0.1048" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="16" as="offset" />
           </mxGeometry>
