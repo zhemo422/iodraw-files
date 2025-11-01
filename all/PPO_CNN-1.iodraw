@@ -1444,6 +1444,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GjGvzUiCqNbhF__-_7xA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="360" height="440" as="geometry" />
+        </mxCell>
         <mxCell id="GjGvzUiCqNbhF__-_7xA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GjGvzUiCqNbhF__-_7xA-43" target="GjGvzUiCqNbhF__-_7xA-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1575,21 +1578,6 @@
         </mxCell>
         <mxCell id="GjGvzUiCqNbhF__-_7xA-46" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="679.9200000000001" y="520" width="123.08" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GjGvzUiCqNbhF__-_7xA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GjGvzUiCqNbhF__-_7xA-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="675" as="sourcePoint" />
-            <mxPoint x="814.9999999999998" y="890" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="740" y="670" />
-              <mxPoint x="740" y="890" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GjGvzUiCqNbhF__-_7xA-48" value="状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GjGvzUiCqNbhF__-_7xA-47">
-          <mxGeometry x="-0.5732" relative="1" as="geometry">
-            <mxPoint x="10" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
