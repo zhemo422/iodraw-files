@@ -1249,6 +1249,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cmhUF0PfYejIG34CYFhx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeColor=#82b366;strokeWidth=3;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="280" y="520" width="400" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" edge="1" target="cmhUF0PfYejIG34CYFhx-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="545" y="675" as="sourcePoint" />
@@ -1262,9 +1265,6 @@
           <mxGeometry x="-0.5732" relative="1" as="geometry">
             <mxPoint x="54" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeColor=#82b366;strokeWidth=3;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="280" y="520" width="400" height="220" as="geometry" />
         </mxCell>
         <mxCell id="DfuJEXO9CkNsDYF8prwB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cmhUF0PfYejIG34CYFhx-71" target="cmhUF0PfYejIG34CYFhx-14">
           <mxGeometry relative="1" as="geometry">
@@ -1438,7 +1438,7 @@
         <mxCell id="cmhUF0PfYejIG34CYFhx-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" target="cmhUF0PfYejIG34CYFhx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-106" value="状态/原始奖励" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-104" vertex="1" connectable="0">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-106" value="状态/原始奖励/动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-104" vertex="1" connectable="0">
           <mxGeometry x="0.5555" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
