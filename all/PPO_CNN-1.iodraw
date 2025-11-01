@@ -453,7 +453,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eSl1CAZ4_Q-hlvZvX8x3" name="算法网络架构">
-    <mxGraphModel dx="2263" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2263" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -568,7 +568,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pZ8LGlASaxGfvk_MWqiz-45" value="Linear： 512 * 256&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="430" width="870" height="60" as="geometry" />
+          <mxGeometry x="-320" y="430" width="880" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WTd0BLcZG8BvUBMnfTZY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pZ8LGlASaxGfvk_MWqiz-47">
           <mxGeometry relative="1" as="geometry">
@@ -591,6 +591,9 @@
         </mxCell>
         <mxCell id="pZ8LGlASaxGfvk_MWqiz-54" value="Critic net 输出：状态价值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-300" y="610" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WTd0BLcZG8BvUBMnfTZY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-60" width="870" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
