@@ -586,7 +586,7 @@
         <mxCell id="pZ8LGlASaxGfvk_MWqiz-49" value="Linear： 256 * 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="540" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pZ8LGlASaxGfvk_MWqiz-53" value="Actor net output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="pZ8LGlASaxGfvk_MWqiz-53" value="Actor net 输出：动作概率分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="610" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pZ8LGlASaxGfvk_MWqiz-54" value="Critic net 输出：状态价值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
