@@ -1440,7 +1440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GxddOUrSAsoUVIz8ISqG" name="基本框架">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="698" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1452,6 +1452,11 @@
             <Array as="points">
               <mxPoint x="500" y="650" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GjGvzUiCqNbhF__-_7xA-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GjGvzUiCqNbhF__-_7xA-2">
+          <mxGeometry x="0.4053" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GjGvzUiCqNbhF__-_7xA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeColor=#82b366;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
