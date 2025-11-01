@@ -1276,7 +1276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gCaTnfmYo0Bzg0GblGFE" name="算法框架">
-    <mxGraphModel dx="1221" dy="471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="698" dy="98" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1469,7 +1469,7 @@
         <mxCell id="cmhUF0PfYejIG34CYFhx-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" target="cmhUF0PfYejIG34CYFhx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-106" value="状态/原始奖励/动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-104" vertex="1" connectable="0">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-106" value="状态/动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-104" vertex="1" connectable="0">
           <mxGeometry x="0.5555" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
