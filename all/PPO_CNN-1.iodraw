@@ -1561,7 +1561,7 @@
         <mxCell id="GjGvzUiCqNbhF__-_7xA-43" value="网格化仿真环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GjGvzUiCqNbhF__-_7xA-25">
           <mxGeometry y="80" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GjGvzUiCqNbhF__-_7xA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GjGvzUiCqNbhF__-_7xA-43">
+        <mxCell id="GjGvzUiCqNbhF__-_7xA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="GjGvzUiCqNbhF__-_7xA-43" target="GjGvzUiCqNbhF__-_7xA-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="880" as="targetPoint" />
           </mxGeometry>
