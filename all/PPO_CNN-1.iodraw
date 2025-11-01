@@ -1589,7 +1589,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GjGvzUiCqNbhF__-_7xA-45" value="状态/奖励/动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GjGvzUiCqNbhF__-_7xA-44">
+        <mxCell id="GjGvzUiCqNbhF__-_7xA-45" value="状态/奖励/动作/新动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GjGvzUiCqNbhF__-_7xA-44">
           <mxGeometry x="0.5555" relative="1" as="geometry">
             <mxPoint x="-199" y="-155" as="offset" />
           </mxGeometry>
