@@ -1257,7 +1257,7 @@
             <mxPoint x="300" y="810" as="targetPoint" />
             <Array as="points">
               <mxPoint x="500" y="640" />
-              <mxPoint x="400" y="640" />
+              <mxPoint x="370" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1355,7 +1355,7 @@
         </mxCell>
         <mxCell id="0fwbXffigB-ZSe3XPP7X-4" value="加权融合法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cmhUF0PfYejIG34CYFhx-98">
           <mxGeometry x="0.5439" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-68" value="安全势能场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
