@@ -1276,14 +1276,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gCaTnfmYo0Bzg0GblGFE" name="算法框架">
-    <mxGraphModel dx="1018" dy="326" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1221" dy="471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cmhUF0PfYejIG34CYFhx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeColor=#82b366;strokeWidth=3;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="280" y="520" width="400" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" edge="1" target="cmhUF0PfYejIG34CYFhx-4">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" target="cmhUF0PfYejIG34CYFhx-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="545" y="675" as="sourcePoint" />
             <mxPoint x="814.9999999999998" y="890" as="targetPoint" />
@@ -1297,7 +1297,7 @@
             <mxPoint x="119" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DfuJEXO9CkNsDYF8prwB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cmhUF0PfYejIG34CYFhx-71" target="cmhUF0PfYejIG34CYFhx-14">
+        <mxCell id="DfuJEXO9CkNsDYF8prwB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" target="cmhUF0PfYejIG34CYFhx-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="810" as="targetPoint" />
             <Array as="points">
@@ -1306,7 +1306,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fwbXffigB-ZSe3XPP7X-3" value="精准距离场算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DfuJEXO9CkNsDYF8prwB-2">
+        <mxCell id="0fwbXffigB-ZSe3XPP7X-3" value="精准距离场算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DfuJEXO9CkNsDYF8prwB-2" vertex="1" connectable="0">
           <mxGeometry x="0.0879" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="41" as="offset" />
           </mxGeometry>
@@ -1368,7 +1368,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-108" value="状态/增强奖励/动作/新状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-107" vertex="1" connectable="0">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-108" value="轨迹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-107" vertex="1" connectable="0">
           <mxGeometry x="-0.5962" y="3" relative="1" as="geometry">
             <mxPoint x="26" y="3" as="offset" />
           </mxGeometry>
@@ -1398,7 +1398,7 @@
             <mxPoint x="2" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fwbXffigB-ZSe3XPP7X-4" value="加权融合法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cmhUF0PfYejIG34CYFhx-98">
+        <mxCell id="0fwbXffigB-ZSe3XPP7X-4" value="加权融合法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cmhUF0PfYejIG34CYFhx-98" vertex="1" connectable="0">
           <mxGeometry x="0.5439" y="2" relative="1" as="geometry">
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
