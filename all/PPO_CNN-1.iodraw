@@ -1026,7 +1026,7 @@
           <mxGeometry x="-330" y="650" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-20" value="32 * 64" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="-90" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="-330" y="690" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-21" value="观察野&lt;div&gt;2 * L * H&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="40" y="680" width="80" height="40" as="geometry" />
@@ -1041,7 +1041,10 @@
           <mxGeometry x="400" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-26" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 16px; letter-spacing: 0.064px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;全连接层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="-250" y="655" width="60" height="30" as="geometry" />
+          <mxGeometry x="-250" y="655" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y1W4DSdL28SkZ5L2sIip-27" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 16px; letter-spacing: 0.064px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;全连接层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+          <mxGeometry x="-250" y="695" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
