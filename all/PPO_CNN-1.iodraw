@@ -820,7 +820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="算法网络架构中文 的副本" id="fdwHuTGRHNbGTy6rgcwm">
-    <mxGraphModel dx="1641" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2008" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="3dkB56BX6HDgNji2cCRo-0" />
         <mxCell id="3dkB56BX6HDgNji2cCRo-1" parent="3dkB56BX6HDgNji2cCRo-0" />
@@ -1028,7 +1028,7 @@
         <mxCell id="y1W4DSdL28SkZ5L2sIip-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="-330" y="690" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y1W4DSdL28SkZ5L2sIip-21" value="观察野&lt;div&gt;2 * L * H&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+        <mxCell id="y1W4DSdL28SkZ5L2sIip-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="-330" y="730" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#b85450;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
@@ -1045,6 +1045,9 @@
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-27" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 16px; letter-spacing: 0.064px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;卷积层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="-250" y="695" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y1W4DSdL28SkZ5L2sIip-28" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 16px; letter-spacing: 0.064px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;状态分量&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+          <mxGeometry x="-250" y="735" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
