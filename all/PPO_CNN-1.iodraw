@@ -956,8 +956,8 @@
         <mxCell id="3dkB56BX6HDgNji2cCRo-43" value="256 * 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="-320" y="540" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3dkB56BX6HDgNji2cCRo-46" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$S_{t}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="-320" y="-30" width="880" height="30" as="geometry" />
+        <mxCell id="3dkB56BX6HDgNji2cCRo-46" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$S_{t}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+          <mxGeometry x="-320" y="-40" width="880" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="3dkB56BX6HDgNji2cCRo-1" source="3dkB56BX6HDgNji2cCRo-6">
           <mxGeometry relative="1" as="geometry">
