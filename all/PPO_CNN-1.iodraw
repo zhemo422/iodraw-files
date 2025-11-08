@@ -969,7 +969,7 @@
         <mxCell id="3dkB56BX6HDgNji2cCRo-44" value="Actor net 输出：动作概率分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="390" y="610" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3dkB56BX6HDgNji2cCRo-45" value="Critic net 输出：状态价值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+        <mxCell id="3dkB56BX6HDgNji2cCRo-45" value="Critic 网络输出头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="-300" y="610" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-46" value="状态&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$S_{t}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
