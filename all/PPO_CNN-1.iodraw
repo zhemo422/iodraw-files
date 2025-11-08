@@ -842,7 +842,7 @@
         <mxCell id="3dkB56BX6HDgNji2cCRo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3dkB56BX6HDgNji2cCRo-1" source="3dkB56BX6HDgNji2cCRo-8" target="3dkB56BX6HDgNji2cCRo-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3dkB56BX6HDgNji2cCRo-8" value="相对终点位置&lt;div&gt;&lt;span style=&quot;font-family: Poppins-Medium; background-color: rgb(255, 255, 102);&quot;&gt;B * 2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+        <mxCell id="3dkB56BX6HDgNji2cCRo-8" value="相对终点位置&lt;div&gt;&lt;span style=&quot;font-family: Poppins-Medium; background-color: rgb(255, 230, 204);&quot;&gt;B * 2&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="-170" y="20" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3dkB56BX6HDgNji2cCRo-1" source="3dkB56BX6HDgNji2cCRo-10" target="3dkB56BX6HDgNji2cCRo-24">
