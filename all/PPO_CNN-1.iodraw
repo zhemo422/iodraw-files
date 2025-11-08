@@ -820,7 +820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="算法网络架构中文 的副本" id="fdwHuTGRHNbGTy6rgcwm">
-    <mxGraphModel dx="2571" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1669" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="3dkB56BX6HDgNji2cCRo-0" />
         <mxCell id="3dkB56BX6HDgNji2cCRo-1" parent="3dkB56BX6HDgNji2cCRo-0" />
@@ -1003,9 +1003,6 @@
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.926;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="3dkB56BX6HDgNji2cCRo-1" source="3dkB56BX6HDgNji2cCRo-17" target="3dkB56BX6HDgNji2cCRo-46">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y1W4DSdL28SkZ5L2sIip-0" value="B * 32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="-240" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
