@@ -699,7 +699,7 @@
         <mxCell id="qUQQBXT72sGiw6LFAiP8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qUQQBXT72sGiw6LFAiP8-1" source="qUQQBXT72sGiw6LFAiP8-20" target="qUQQBXT72sGiw6LFAiP8-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qUQQBXT72sGiw6LFAiP8-20" value="Linear： 320 * 512" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
+        <mxCell id="qUQQBXT72sGiw6LFAiP8-20" value="320 * 512" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
           <mxGeometry x="-320" y="340" width="880" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qUQQBXT72sGiw6LFAiP8-21" value="B * 32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
@@ -762,7 +762,7 @@
         <mxCell id="qUQQBXT72sGiw6LFAiP8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qUQQBXT72sGiw6LFAiP8-1" source="qUQQBXT72sGiw6LFAiP8-36" target="qUQQBXT72sGiw6LFAiP8-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qUQQBXT72sGiw6LFAiP8-36" value="Linear： 512 * 256&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
+        <mxCell id="qUQQBXT72sGiw6LFAiP8-36" value="512 * 256&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
           <mxGeometry x="-320" y="430" width="880" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qUQQBXT72sGiw6LFAiP8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qUQQBXT72sGiw6LFAiP8-1" source="qUQQBXT72sGiw6LFAiP8-38">
@@ -770,7 +770,7 @@
             <mxPoint x="360" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qUQQBXT72sGiw6LFAiP8-38" value="Linear： 256 * A&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
+        <mxCell id="qUQQBXT72sGiw6LFAiP8-38" value="256 * A&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
           <mxGeometry x="160" y="540" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qUQQBXT72sGiw6LFAiP8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qUQQBXT72sGiw6LFAiP8-1" source="qUQQBXT72sGiw6LFAiP8-40">
@@ -778,7 +778,7 @@
             <mxPoint x="-120" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qUQQBXT72sGiw6LFAiP8-40" value="Linear： 256 * 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
+        <mxCell id="qUQQBXT72sGiw6LFAiP8-40" value="256 * 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
           <mxGeometry x="-320" y="540" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qUQQBXT72sGiw6LFAiP8-41" value="Actor net 输出：动作概率分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qUQQBXT72sGiw6LFAiP8-1">
