@@ -919,7 +919,7 @@
         <mxCell id="3dkB56BX6HDgNji2cCRo-27" value="B * 16" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y1W4DSdL28SkZ5L2sIip-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3dkB56BX6HDgNji2cCRo-1" source="3dkB56BX6HDgNji2cCRo-28" target="y1W4DSdL28SkZ5L2sIip-8">
+        <mxCell id="y1W4DSdL28SkZ5L2sIip-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3dkB56BX6HDgNji2cCRo-1" source="3dkB56BX6HDgNji2cCRo-28" target="y1W4DSdL28SkZ5L2sIip-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-28" value="B * 16" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
@@ -998,7 +998,7 @@
           <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-8" value="32 * 32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="435" y="180" width="125" height="60" as="geometry" />
+          <mxGeometry x="430" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3dkB56BX6HDgNji2cCRo-1" source="y1W4DSdL28SkZ5L2sIip-2">
           <mxGeometry relative="1" as="geometry">
