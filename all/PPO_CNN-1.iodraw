@@ -1357,6 +1357,9 @@
             <mxPoint x="-1" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1Hiim5UasWYcBupici2e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmhUF0PfYejIG34CYFhx-6" target="cmhUF0PfYejIG34CYFhx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-6" value="轨迹池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="815" y="860" width="90" height="80" as="geometry" />
         </mxCell>
