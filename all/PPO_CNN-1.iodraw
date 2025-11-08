@@ -820,7 +820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="算法网络架构中文 的副本" id="fdwHuTGRHNbGTy6rgcwm">
-    <mxGraphModel dx="1669" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2048" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="3dkB56BX6HDgNji2cCRo-0" />
         <mxCell id="3dkB56BX6HDgNji2cCRo-1" parent="3dkB56BX6HDgNji2cCRo-0" />
@@ -966,7 +966,7 @@
         <mxCell id="3dkB56BX6HDgNji2cCRo-43" value="256 * 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="-320" y="540" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3dkB56BX6HDgNji2cCRo-44" value="Actor net 输出：动作概率分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+        <mxCell id="3dkB56BX6HDgNji2cCRo-44" value="Actor 网络输出头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
           <mxGeometry x="390" y="610" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-45" value="Critic 网络输出头" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
