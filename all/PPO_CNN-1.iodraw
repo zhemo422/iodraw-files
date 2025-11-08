@@ -1358,7 +1358,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Hiim5UasWYcBupici2e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cmhUF0PfYejIG34CYFhx-6" target="cmhUF0PfYejIG34CYFhx-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="900" />
+              <mxPoint x="738" y="693" />
+              <mxPoint x="860" y="693" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Hiim5UasWYcBupici2e-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1Hiim5UasWYcBupici2e-2">
+          <mxGeometry x="-0.165" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-6" value="轨迹池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="815" y="860" width="90" height="80" as="geometry" />
