@@ -828,10 +828,10 @@
           <mxGeometry x="-330" y="90" width="900" height="410" as="geometry" />
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#9673a6;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="-330" y="520" width="430" height="130" as="geometry" />
+          <mxGeometry x="-330" y="520" width="430" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#82b366;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="140" y="520" width="430" height="130" as="geometry" />
+          <mxGeometry x="140" y="520" width="430" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3dkB56BX6HDgNji2cCRo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3dkB56BX6HDgNji2cCRo-1" source="3dkB56BX6HDgNji2cCRo-6" target="3dkB56BX6HDgNji2cCRo-20">
           <mxGeometry relative="1" as="geometry" />
@@ -1048,7 +1048,7 @@
           <mxGeometry x="280" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#9673a6;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="-320" y="530" width="430" height="130" as="geometry" />
+          <mxGeometry x="400" y="680" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
