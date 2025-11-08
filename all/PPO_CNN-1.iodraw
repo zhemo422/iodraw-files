@@ -1039,7 +1039,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y1W4DSdL28SkZ5L2sIip-19" value="32 * 32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
-          <mxGeometry x="-160" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y1W4DSdL28SkZ5L2sIip-20" value="32 * 64" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+          <mxGeometry x="-160" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y1W4DSdL28SkZ5L2sIip-21" value="观察野&lt;div&gt;2 * L * H&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3dkB56BX6HDgNji2cCRo-1">
+          <mxGeometry x="20" y="680" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
