@@ -1933,7 +1933,7 @@
         <mxCell id="cmhUF0PfYejIG34CYFhx-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" target="cmhUF0PfYejIG34CYFhx-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-106" value="状态和动作" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="cmhUF0PfYejIG34CYFhx-104" vertex="1" connectable="0">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-106" value="状态和动作" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;html=1;labelBackgroundColor=default;labelBorderColor=none;textDirection=ltr;" parent="cmhUF0PfYejIG34CYFhx-104" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="25" as="offset" />
           </mxGeometry>
