@@ -1207,10 +1207,10 @@
         <mxCell id="87FrdOXBAPx6qO43OmQk-40" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="87FrdOXBAPx6qO43OmQk-1">
           <mxGeometry x="-320" y="430" width="880" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87FrdOXBAPx6qO43OmQk-41" value="256 * A&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="87FrdOXBAPx6qO43OmQk-1">
+        <mxCell id="87FrdOXBAPx6qO43OmQk-41" value="256 * A&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="87FrdOXBAPx6qO43OmQk-1">
           <mxGeometry x="160" y="540" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="87FrdOXBAPx6qO43OmQk-42" value="256 * 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="87FrdOXBAPx6qO43OmQk-1">
+        <mxCell id="87FrdOXBAPx6qO43OmQk-42" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="87FrdOXBAPx6qO43OmQk-1">
           <mxGeometry x="-320" y="540" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87FrdOXBAPx6qO43OmQk-43" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$S_{t}$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="87FrdOXBAPx6qO43OmQk-1">
