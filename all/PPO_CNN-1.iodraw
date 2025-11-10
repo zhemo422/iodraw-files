@@ -1802,9 +1802,9 @@
         <mxCell id="cmhUF0PfYejIG34CYFhx-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmhUF0PfYejIG34CYFhx-6" target="cmhUF0PfYejIG34CYFhx-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-116" value="轨迹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="cmhUF0PfYejIG34CYFhx-115" vertex="1" connectable="0">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-116" value="轨迹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;textDirection=vertical-lr;" parent="cmhUF0PfYejIG34CYFhx-115" vertex="1" connectable="0">
           <mxGeometry x="0.1048" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="16" as="offset" />
+            <mxPoint x="-11" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Hiim5UasWYcBupici2e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmhUF0PfYejIG34CYFhx-6" target="cmhUF0PfYejIG34CYFhx-4" edge="1">
@@ -1816,7 +1816,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Hiim5UasWYcBupici2e-3" value="轨迹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="1Hiim5UasWYcBupici2e-2" vertex="1" connectable="0">
+        <mxCell id="1Hiim5UasWYcBupici2e-3" value="轨迹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;textDirection=vertical-lr;" parent="1Hiim5UasWYcBupici2e-2" vertex="1" connectable="0">
           <mxGeometry x="-0.165" y="-1" relative="1" as="geometry">
             <mxPoint x="-9" y="1" as="offset" />
           </mxGeometry>
