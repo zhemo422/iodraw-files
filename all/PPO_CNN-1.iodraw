@@ -1848,7 +1848,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-14" value="精准距离场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-14" value="精准距离场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="330" y="810" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-67" value="&lt;b&gt;仿真环境模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1927,7 +1927,7 @@
         <mxCell id="cmhUF0PfYejIG34CYFhx-64" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="cmhUF0PfYejIG34CYFhx-66" vertex="1">
           <mxGeometry x="60" y="60" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-71" value="网格化仿真环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="cmhUF0PfYejIG34CYFhx-91" vertex="1">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-71" value="网格化仿真环境" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="cmhUF0PfYejIG34CYFhx-91" vertex="1">
           <mxGeometry y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cmhUF0PfYejIG34CYFhx-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cmhUF0PfYejIG34CYFhx-71" target="cmhUF0PfYejIG34CYFhx-13" edge="1">
