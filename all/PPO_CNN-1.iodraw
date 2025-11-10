@@ -1726,7 +1726,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gCaTnfmYo0Bzg0GblGFE" name="算法框架">
-    <mxGraphModel dx="488" dy="-52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="842" dy="201" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1742,7 +1742,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cmhUF0PfYejIG34CYFhx-111" value="状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cmhUF0PfYejIG34CYFhx-110" vertex="1" connectable="0">
+        <mxCell id="cmhUF0PfYejIG34CYFhx-111" value="状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="cmhUF0PfYejIG34CYFhx-110" vertex="1" connectable="0">
           <mxGeometry x="-0.5732" relative="1" as="geometry">
             <mxPoint x="119" y="10" as="offset" />
           </mxGeometry>
