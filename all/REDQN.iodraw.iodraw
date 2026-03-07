@@ -76,6 +76,16 @@
             <mxPoint y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwPu6R-Y2PmBDciGApk9-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="709.6190708705358" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-23" value="$$R_i$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hwPu6R-Y2PmBDciGApk9-22">
+          <mxGeometry x="-0.2581" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-19" value="$$R_i=||f(s_t)-f(s_t)^`||^2$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="150" height="30" as="geometry" />
         </mxCell>
