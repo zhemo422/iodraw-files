@@ -12,6 +12,9 @@
             <mxPoint x="-16" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwPu6R-Y2PmBDciGApk9-1" target="hwPu6R-Y2PmBDciGApk9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-1" value="目标网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
         </mxCell>
@@ -71,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="260" width="80" height="30" as="geometry" />
+          <mxGeometry x="500" y="260" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
