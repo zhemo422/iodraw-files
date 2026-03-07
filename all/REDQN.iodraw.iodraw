@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hwPu6R-Y2PmBDciGApk9-1" value="目标网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="270" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-2" value="预测网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="80" height="40" as="geometry" />
@@ -16,10 +16,15 @@
             <mxPoint x="270" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-6" value="$$S_t$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hwPu6R-Y2PmBDciGApk9-3">
+          <mxGeometry x="-0.1071" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="259.71" as="sourcePoint" />
-            <mxPoint x="280" y="259.71" as="targetPoint" />
+            <mxPoint x="190" y="219.70999999999998" as="sourcePoint" />
+            <mxPoint x="270" y="219.70999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-5" value="$$S_t$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hwPu6R-Y2PmBDciGApk9-4">
