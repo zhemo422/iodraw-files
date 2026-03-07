@@ -76,7 +76,7 @@
             <mxPoint y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hwPu6R-Y2PmBDciGApk9-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-19" value="$$R_i=||f(s_t)-f(s_t)^`||^2$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
