@@ -18,7 +18,7 @@
         <mxCell id="hwPu6R-Y2PmBDciGApk9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwPu6R-Y2PmBDciGApk9-2" target="hwPu6R-Y2PmBDciGApk9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hwPu6R-Y2PmBDciGApk9-12" value="$$f(s_t)^`$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hwPu6R-Y2PmBDciGApk9-9">
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-12" value="$$f(s_t)^&quot;$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hwPu6R-Y2PmBDciGApk9-9">
           <mxGeometry x="0.3628" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
