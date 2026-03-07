@@ -48,6 +48,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwPu6R-Y2PmBDciGApk9-7" target="hwPu6R-Y2PmBDciGApk9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwPu6R-Y2PmBDciGApk9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-7" value="优化器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="260" width="60" height="30" as="geometry" />
         </mxCell>
