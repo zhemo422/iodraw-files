@@ -51,6 +51,11 @@
         <mxCell id="hwPu6R-Y2PmBDciGApk9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwPu6R-Y2PmBDciGApk9-7" target="hwPu6R-Y2PmBDciGApk9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hwPu6R-Y2PmBDciGApk9-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hwPu6R-Y2PmBDciGApk9-13">
+          <mxGeometry x="-0.2445" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwPu6R-Y2PmBDciGApk9-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="275" as="targetPoint" />
@@ -66,13 +71,13 @@
         </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hwPu6R-Y2PmBDciGApk9-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="160" as="sourcePoint" />
+            <mxPoint x="320" y="180" as="sourcePoint" />
             <mxPoint x="340" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hwPu6R-Y2PmBDciGApk9-17" value="随机初始化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hwPu6R-Y2PmBDciGApk9-16">
           <mxGeometry x="-0.3476" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
