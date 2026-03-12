@@ -96,7 +96,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JsaTzbtk1gw8LXcKuY9N" name=" 强化学习理论">
-    <mxGraphModel dx="698" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="698" dy="498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,12 +126,12 @@
         </mxCell>
         <mxCell id="2AzHmSqXd--BMZ1FWhHp-11" value="$$R_{t+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-3">
           <mxGeometry x="-0.3486" y="-2" relative="1" as="geometry">
-            <mxPoint y="-3" as="offset" />
+            <mxPoint x="18" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2AzHmSqXd--BMZ1FWhHp-12" value="$$R_{t}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-3">
           <mxGeometry x="0.1868" relative="1" as="geometry">
-            <mxPoint y="-12" as="offset" />
+            <mxPoint x="10" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2AzHmSqXd--BMZ1FWhHp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="2AzHmSqXd--BMZ1FWhHp-2" target="2AzHmSqXd--BMZ1FWhHp-1">
@@ -144,12 +144,12 @@
         </mxCell>
         <mxCell id="2AzHmSqXd--BMZ1FWhHp-10" value="$$S_{t+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-4">
           <mxGeometry x="-0.1841" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2AzHmSqXd--BMZ1FWhHp-14" value="$$S_{t}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-4">
           <mxGeometry x="0.0997" y="-1" relative="1" as="geometry">
-            <mxPoint y="-15" as="offset" />
+            <mxPoint x="-11" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2AzHmSqXd--BMZ1FWhHp-2" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
