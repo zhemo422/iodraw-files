@@ -147,6 +147,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-14" value="$$S_{t}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-4">
+          <mxGeometry x="0.0997" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2AzHmSqXd--BMZ1FWhHp-2" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
         </mxCell>
