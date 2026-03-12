@@ -124,9 +124,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-3">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-11" value="$$R_{t+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-3">
           <mxGeometry x="-0.3486" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2AzHmSqXd--BMZ1FWhHp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="2AzHmSqXd--BMZ1FWhHp-2" target="2AzHmSqXd--BMZ1FWhHp-1">
