@@ -342,7 +342,7 @@
         <mxCell id="xCHfqSx62poKqBt55xn7-7" value="仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gIIJB4vo-6gT6vQlCloC-23" value="RND好奇心机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gIIJB4vo-6gT6vQlCloC-23" value="外在奖励生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
