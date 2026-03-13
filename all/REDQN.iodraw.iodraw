@@ -341,7 +341,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-35">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-36" value="$$max_{a} Q(s&#39;,a&#39;;\theta^{-})$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-35">
           <mxGeometry x="0.033" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
