@@ -178,7 +178,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7H64vrXhek-saMyijEYn-1" value="前向模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="50" height="80" as="geometry" />
+          <mxGeometry x="180" y="280" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7H64vrXhek-saMyijEYn-3" value="features" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="40" height="80" as="geometry" />
@@ -206,8 +206,8 @@
         </mxCell>
         <mxCell id="7H64vrXhek-saMyijEYn-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="7H64vrXhek-saMyijEYn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="185" y="410" as="sourcePoint" />
-            <mxPoint x="270" y="270" as="targetPoint" />
+            <mxPoint x="205" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7H64vrXhek-saMyijEYn-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -234,6 +234,13 @@
             <mxPoint x="380.12" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QThv6rGCx0M6OYa0saAN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7H64vrXhek-saMyijEYn-18" target="QThv6rGCx0M6OYa0saAN-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7H64vrXhek-saMyijEYn-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\phi(s_{t+1})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="40" height="30" as="geometry" />
         </mxCell>
@@ -241,12 +248,12 @@
           <mxGeometry x="360" y="230" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-2" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\hat \phi(s_{t+1})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165" y="230" width="40" height="30" as="geometry" />
+          <mxGeometry x="185" y="230" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="184.83000000000004" y="280" as="sourcePoint" />
-            <mxPoint x="185.12" y="250" as="targetPoint" />
+            <mxPoint x="204.83000000000004" y="280" as="sourcePoint" />
+            <mxPoint x="205.12" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-4" value="逆向模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
