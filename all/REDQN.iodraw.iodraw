@@ -318,14 +318,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjNdUvgpE1VVl8Gv2p1w" name="第 5 页">
-    <mxGraphModel dx="842" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="842" dy="601" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xCHfqSx62poKqBt55xn7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-2" target="xCHfqSx62poKqBt55xn7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xCHfqSx62poKqBt55xn7-5" value="N步复制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xCHfqSx62poKqBt55xn7-4">
+        <mxCell id="xCHfqSx62poKqBt55xn7-5" value="每N步复制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xCHfqSx62poKqBt55xn7-4">
           <mxGeometry x="-0.0766" relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
@@ -391,13 +391,12 @@
         <mxCell id="xCHfqSx62poKqBt55xn7-6" value="多维度动态优先级缓冲池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-7">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-7" target="xCHfqSx62poKqBt55xn7-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="200" />
               <mxPoint x="240" y="271" />
-              <mxPoint x="320" y="271" />
             </Array>
           </mxGeometry>
         </mxCell>
