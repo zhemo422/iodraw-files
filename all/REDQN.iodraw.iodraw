@@ -339,11 +339,17 @@
         <mxCell id="xCHfqSx62poKqBt55xn7-6" value="多维度动态优先级缓冲池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-7" target="xCHfqSx62poKqBt55xn7-2">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="270" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-28" value="$$S_t$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-27">
+          <mxGeometry x="-0.055" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCHfqSx62poKqBt55xn7-7" value="仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
