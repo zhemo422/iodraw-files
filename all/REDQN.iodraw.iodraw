@@ -234,7 +234,7 @@
             <mxPoint x="380.12" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7H64vrXhek-saMyijEYn-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\phi(s_{t})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7H64vrXhek-saMyijEYn-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\phi(s_{t+1})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\phi(s_{t})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -250,7 +250,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-4" value="逆向模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="160" width="50" height="40" as="geometry" />
+          <mxGeometry x="355" y="160" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="QThv6rGCx0M6OYa0saAN-4" source="QThv6rGCx0M6OYa0saAN-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -259,12 +259,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\hat \phi(s_{t+1})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="110" width="40" height="30" as="geometry" />
+          <mxGeometry x="360" y="110" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="334.83000000000004" y="160" as="sourcePoint" />
-            <mxPoint x="335.12" y="130" as="targetPoint" />
+            <mxPoint x="379.83000000000004" y="160" as="sourcePoint" />
+            <mxPoint x="380.12" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
