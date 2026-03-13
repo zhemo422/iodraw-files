@@ -318,7 +318,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjNdUvgpE1VVl8Gv2p1w" name="第 5 页">
-    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="488" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,6 +386,11 @@
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-43" value="$$r$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u5UE-b4Q1Aoe_oij9DVH-42" vertex="1" connectable="0">
           <mxGeometry x="-0.0254" relative="1" as="geometry">
             <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnnMkqffWEAcLsj2pOJM-1" value="$$r$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-42">
+          <mxGeometry x="0.0082" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCHfqSx62poKqBt55xn7-6" value="多维度动态优先级缓冲池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
