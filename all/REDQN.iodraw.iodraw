@@ -475,7 +475,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-33" value="$$Q(s,a)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-23">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-33" value="$$Q(s,a；)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-23">
           <mxGeometry x="-0.116" y="-1" relative="1" as="geometry">
             <mxPoint x="24" as="offset" />
           </mxGeometry>
