@@ -453,7 +453,7 @@
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-34" value="$$\nabla&amp;nbsp;\theta&amp;nbsp;$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-24">
           <mxGeometry x="-0.0423" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u5UE-b4Q1Aoe_oij9DVH-22" target="xCHfqSx62poKqBt55xn7-3">
@@ -477,7 +477,7 @@
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-33" value="$$Q(s,a)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-23">
           <mxGeometry x="-0.116" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.925;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-3" target="u5UE-b4Q1Aoe_oij9DVH-22">
