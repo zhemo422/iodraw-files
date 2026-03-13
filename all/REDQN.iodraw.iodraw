@@ -357,9 +357,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-37">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-38" value="$$s,a$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-37">
           <mxGeometry x="-0.2948" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCHfqSx62poKqBt55xn7-6" value="多维度动态优先级缓冲池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
