@@ -177,8 +177,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7H64vrXhek-saMyijEYn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="7H64vrXhek-saMyijEYn-1" value="前向模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7H64vrXhek-saMyijEYn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
