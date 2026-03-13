@@ -462,9 +462,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-32" value="$${s,a,r&#39;,s&#39;}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-31">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-32" value="$$r^i$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-31">
           <mxGeometry x="0.269" y="-3" relative="1" as="geometry">
-            <mxPoint y="50" as="offset" />
+            <mxPoint x="-29" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-45" value="RND内在奖励生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
