@@ -430,6 +430,14 @@
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-21" value="$$R_i=||f(s_t)-f(s_t)^`||^2$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="500" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u5UE-b4Q1Aoe_oij9DVH-22" target="xCHfqSx62poKqBt55xn7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="210" />
+              <mxPoint x="340" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-22" value="DQN Loss 函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="240" height="50" as="geometry" />
         </mxCell>
@@ -440,6 +448,9 @@
               <mxPoint x="375" y="230" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.925;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-3" target="u5UE-b4Q1Aoe_oij9DVH-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
