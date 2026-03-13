@@ -389,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xCHfqSx62poKqBt55xn7-6" value="多维度动态优先级缓冲池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="240" height="80" as="geometry" />
+          <mxGeometry x="320" y="430" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-7">
           <mxGeometry relative="1" as="geometry">
@@ -405,7 +405,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xCHfqSx62poKqBt55xn7-7" value="仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="140" width="90" height="220" as="geometry" />
+          <mxGeometry x="70" y="140" width="90" height="220" as="geometry" />
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="460" width="290" height="220" as="geometry" />
