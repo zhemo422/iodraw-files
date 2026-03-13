@@ -470,6 +470,15 @@
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-45" value="RND内在奖励生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-6" target="xCHfqSx62poKqBt55xn7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="470" />
+              <mxPoint x="580" y="530" />
+              <mxPoint x="440" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
