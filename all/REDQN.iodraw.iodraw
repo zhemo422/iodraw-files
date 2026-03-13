@@ -177,9 +177,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7H64vrXhek-saMyijEYn-11" value="" style="rounded=0;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="270" width="170" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="7H64vrXhek-saMyijEYn-1" value="前向模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="50" height="80" as="geometry" />
         </mxCell>
@@ -206,9 +203,6 @@
             <mxPoint x="320" y="340" as="sourcePoint" />
             <mxPoint x="360" y="340" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7H64vrXhek-saMyijEYn-12" value="逆向模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7H64vrXhek-saMyijEYn-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="7H64vrXhek-saMyijEYn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
