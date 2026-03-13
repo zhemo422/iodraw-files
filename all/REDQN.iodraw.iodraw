@@ -336,14 +336,14 @@
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-3" target="u5UE-b4Q1Aoe_oij9DVH-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="230" />
-              <mxPoint x="540" y="230" />
+              <mxPoint x="550" y="220" />
+              <mxPoint x="550" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-36" value="$$max_{a} Q(s&#39;,a&#39;;\theta^{-})$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-35">
           <mxGeometry x="0.033" y="-1" relative="1" as="geometry">
-            <mxPoint x="-31" as="offset" />
+            <mxPoint x="-51" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCHfqSx62poKqBt55xn7-3" value="目标网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
