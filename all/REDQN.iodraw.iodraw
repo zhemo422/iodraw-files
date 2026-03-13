@@ -240,8 +240,8 @@
             <mxPoint x="380.12" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7H64vrXhek-saMyijEYn-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="7H64vrXhek-saMyijEYn-18" value="$$&lt;span style=&quot;color: rgb(17, 17, 51); font-family: KaTeX_Math; letter-spacing: 0.064px; text-align: start; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ϕ(s_t)&lt;/font&gt;&lt;/span&gt;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
