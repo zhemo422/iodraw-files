@@ -214,11 +214,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QThv6rGCx0M6OYa0saAN-18" value="$$a_{t}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7H64vrXhek-saMyijEYn-13">
-          <mxGeometry x="-0.421" y="2" relative="1" as="geometry">
-            <mxPoint x="2" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7H64vrXhek-saMyijEYn-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="299.71" y="410" as="sourcePoint" />
