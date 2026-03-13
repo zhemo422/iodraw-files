@@ -431,7 +431,15 @@
           <mxGeometry x="90" y="500" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-22" value="DQN Loss 函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="140" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.228;entryY=0.946;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-2" target="u5UE-b4Q1Aoe_oij9DVH-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="230" />
+              <mxPoint x="375" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
