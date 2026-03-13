@@ -96,11 +96,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JsaTzbtk1gw8LXcKuY9N" name=" 强化学习理论">
-    <mxGraphModel dx="698" dy="498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1221" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2AzHmSqXd--BMZ1FWhHp-1" target="2AzHmSqXd--BMZ1FWhHp-2">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2AzHmSqXd--BMZ1FWhHp-1" target="2AzHmSqXd--BMZ1FWhHp-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="310" />
@@ -108,15 +108,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-6" value="$$A_t$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-5">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-6" value="$$A_t$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2AzHmSqXd--BMZ1FWhHp-5" vertex="1" connectable="0">
           <mxGeometry x="-0.0468" y="2" relative="1" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-1" value="智能体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-1" value="智能体" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="2AzHmSqXd--BMZ1FWhHp-2" target="2AzHmSqXd--BMZ1FWhHp-1">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="2AzHmSqXd--BMZ1FWhHp-2" target="2AzHmSqXd--BMZ1FWhHp-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="455" />
@@ -124,17 +124,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-11" value="$$R_{t+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-3">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-11" value="$$R_{t+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2AzHmSqXd--BMZ1FWhHp-3" vertex="1" connectable="0">
           <mxGeometry x="-0.3486" y="-2" relative="1" as="geometry">
             <mxPoint x="18" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-12" value="$$R_{t}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-3">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-12" value="$$R_{t}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2AzHmSqXd--BMZ1FWhHp-3" vertex="1" connectable="0">
           <mxGeometry x="0.1868" relative="1" as="geometry">
             <mxPoint x="10" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="2AzHmSqXd--BMZ1FWhHp-2" target="2AzHmSqXd--BMZ1FWhHp-1">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="2AzHmSqXd--BMZ1FWhHp-2" target="2AzHmSqXd--BMZ1FWhHp-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="485" />
@@ -142,20 +142,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-10" value="$$S_{t+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-4">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-10" value="$$S_{t+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2AzHmSqXd--BMZ1FWhHp-4" vertex="1" connectable="0">
           <mxGeometry x="-0.1841" y="2" relative="1" as="geometry">
             <mxPoint x="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-14" value="$$S_{t}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AzHmSqXd--BMZ1FWhHp-4">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-14" value="$$S_{t}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2AzHmSqXd--BMZ1FWhHp-4" vertex="1" connectable="0">
           <mxGeometry x="0.0997" y="-1" relative="1" as="geometry">
             <mxPoint x="-11" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-2" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-2" value="环境" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2AzHmSqXd--BMZ1FWhHp-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2AzHmSqXd--BMZ1FWhHp-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="390" as="sourcePoint" />
             <mxPoint x="260" y="390" as="targetPoint" />
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fG9m6Hfbe--LhcHZer0D" name="深度Q学习方法">
-    <mxGraphModel dx="605" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,7 +240,7 @@
             <mxPoint x="380.12" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7H64vrXhek-saMyijEYn-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 15.3px; text-align: left; background-color: rgb(246, 248, 250);&quot;&gt;$$\phi&lt;/span&gt;&lt;span style=&quot;background-color: rgb(246, 248, 250); font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 15.3px; text-align: left;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7H64vrXhek-saMyijEYn-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 15.3px; text-align: left; background-color: rgb(246, 248, 250);&quot;&gt;$$S_t&lt;/span&gt;&lt;span style=&quot;background-color: rgb(246, 248, 250); font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, monospace; font-size: 15.3px; text-align: left;&quot;&gt;$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
