@@ -318,7 +318,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjNdUvgpE1VVl8Gv2p1w" name="第 5 页">
-    <mxGraphModel dx="1018" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="581" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,12 +457,14 @@
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="u5UE-b4Q1Aoe_oij9DVH-45" target="xCHfqSx62poKqBt55xn7-6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="320" y="460" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-32" value="$${s,a,r&#39;,s&#39;}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-31">
           <mxGeometry x="0.269" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-45" value="RND内在奖励生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
