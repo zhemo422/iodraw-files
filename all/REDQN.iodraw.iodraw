@@ -451,6 +451,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-34" value="$$\nabla&amp;nbsp;\theta&amp;nbsp;$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-24">
+          <mxGeometry x="-0.0423" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u5UE-b4Q1Aoe_oij9DVH-22" target="xCHfqSx62poKqBt55xn7-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
