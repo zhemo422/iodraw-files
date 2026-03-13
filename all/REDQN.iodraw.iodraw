@@ -277,7 +277,7 @@
             <mxPoint x="420" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QThv6rGCx0M6OYa0saAN-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\hat \phi(s_{t+1})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QThv6rGCx0M6OYa0saAN-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\hata(s_{t+1})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -286,8 +286,16 @@
             <mxPoint x="380.12" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QThv6rGCx0M6OYa0saAN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QThv6rGCx0M6OYa0saAN-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QThv6rGCx0M6OYa0saAN-9" value="-" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="172.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="QThv6rGCx0M6OYa0saAN-14" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;$$\hat \phi(s_{t+1})$$&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="110" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
