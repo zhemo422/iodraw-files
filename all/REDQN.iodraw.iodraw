@@ -470,6 +470,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-23">
+          <mxGeometry x="-0.116" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.925;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-3" target="u5UE-b4Q1Aoe_oij9DVH-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -497,7 +502,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-31">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-32" value="$${s,a,r,s}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-31">
           <mxGeometry x="0.269" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
