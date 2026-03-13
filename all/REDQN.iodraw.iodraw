@@ -472,17 +472,18 @@
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-22" value="DQN Loss 函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-2" target="u5UE-b4Q1Aoe_oij9DVH-22">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-2" target="u5UE-b4Q1Aoe_oij9DVH-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="210" />
-              <mxPoint x="380" y="210" />
+              <mxPoint x="420" y="250" />
+              <mxPoint x="420" y="215" />
+              <mxPoint x="440" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-33" value="$$Q(s,a;\theta)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-23">
           <mxGeometry x="-0.116" y="-1" relative="1" as="geometry">
-            <mxPoint x="-11" y="2" as="offset" />
+            <mxPoint x="-31" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-2" target="xCHfqSx62poKqBt55xn7-7">
