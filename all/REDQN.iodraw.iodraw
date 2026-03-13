@@ -318,7 +318,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjNdUvgpE1VVl8Gv2p1w" name="第 5 页">
-    <mxGraphModel dx="1525" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2048" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,7 +505,7 @@
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-34" value="$$\nabla&amp;nbsp;\theta&amp;nbsp;$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-24">
           <mxGeometry x="-0.0423" relative="1" as="geometry">
-            <mxPoint x="-10" as="offset" />
+            <mxPoint x="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-22" value="DQN Loss 函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
