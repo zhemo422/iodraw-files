@@ -219,7 +219,7 @@
             <mxPoint x="299.71" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QThv6rGCx0M6OYa0saAN-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7H64vrXhek-saMyijEYn-14">
+        <mxCell id="QThv6rGCx0M6OYa0saAN-17" value="$$s_{t+1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7H64vrXhek-saMyijEYn-14">
           <mxGeometry x="-0.0552" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
