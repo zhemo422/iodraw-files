@@ -550,7 +550,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-44" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-65.00000000000023" y="540" width="80" height="80" as="geometry" />
+          <mxGeometry x="-65" y="590" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
