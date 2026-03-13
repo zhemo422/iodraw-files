@@ -460,11 +460,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="u5UE-b4Q1Aoe_oij9DVH-45" target="xCHfqSx62poKqBt55xn7-6">
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u5UE-b4Q1Aoe_oij9DVH-45" target="xCHfqSx62poKqBt55xn7-6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="460" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-32" value="$$r^i$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u5UE-b4Q1Aoe_oij9DVH-31">
@@ -473,7 +471,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u5UE-b4Q1Aoe_oij9DVH-45" value="RND内在奖励生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-7" target="xCHfqSx62poKqBt55xn7-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
