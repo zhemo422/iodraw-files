@@ -375,6 +375,9 @@
             <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="u5UE-b4Q1Aoe_oij9DVH-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xCHfqSx62poKqBt55xn7-6" target="u5UE-b4Q1Aoe_oij9DVH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xCHfqSx62poKqBt55xn7-6" value="多维度动态优先级缓冲池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="240" height="80" as="geometry" />
         </mxCell>
