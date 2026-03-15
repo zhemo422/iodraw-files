@@ -648,7 +648,7 @@
           <mxGeometry x="440" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-5" value="马尔可夫模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="380" width="90" height="40" as="geometry" />
+          <mxGeometry x="560" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-8" value="网格化仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="80" height="40" as="geometry" />
