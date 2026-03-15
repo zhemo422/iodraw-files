@@ -629,7 +629,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5HWOkslPXIfKT7AwinXw-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="580" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="580" width="256" height="240" as="geometry" />
