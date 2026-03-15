@@ -707,13 +707,13 @@
         <mxCell id="5HWOkslPXIfKT7AwinXw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-23" target="5HWOkslPXIfKT7AwinXw-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5HWOkslPXIfKT7AwinXw-23" value="风险势能场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5HWOkslPXIfKT7AwinXw-23" value="风险势能场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-24" target="5HWOkslPXIfKT7AwinXw-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5HWOkslPXIfKT7AwinXw-24" value="距离势能场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5HWOkslPXIfKT7AwinXw-24" value="距离势能场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-25" target="5HWOkslPXIfKT7AwinXw-28">
@@ -722,10 +722,10 @@
         <mxCell id="5HWOkslPXIfKT7AwinXw-25" value="动态加权势能场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="374" y="690" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5HWOkslPXIfKT7AwinXw-28" value="近端优化算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5HWOkslPXIfKT7AwinXw-28" value="近端优化算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="376" y="760" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5HWOkslPXIfKT7AwinXw-35" value="深度Q学习算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5HWOkslPXIfKT7AwinXw-35" value="深度Q学习算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="705" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-36" target="5HWOkslPXIfKT7AwinXw-37">
