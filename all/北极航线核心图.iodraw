@@ -628,6 +628,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5HWOkslPXIfKT7AwinXw-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="580" width="256" height="240" as="geometry" />
         </mxCell>
@@ -715,7 +718,7 @@
           <mxGeometry x="376" y="760" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-35" value="深度Q学习算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-36" target="5HWOkslPXIfKT7AwinXw-37">
           <mxGeometry relative="1" as="geometry" />
@@ -724,13 +727,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-36" value="RND好奇心模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="620" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-37" target="5HWOkslPXIfKT7AwinXw-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-37" value="多维动态优先级缓冲池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="770" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
