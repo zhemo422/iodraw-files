@@ -715,13 +715,13 @@
           <mxGeometry x="376" y="760" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-35" value="深度Q学习算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="670" width="80" height="40" as="geometry" />
+          <mxGeometry x="710" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-36" value="RND好奇心模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="650" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-37" value="多维动态优先级缓冲池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="670" width="80" height="40" as="geometry" />
+          <mxGeometry x="770" y="610" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
