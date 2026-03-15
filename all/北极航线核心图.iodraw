@@ -718,7 +718,7 @@
           <mxGeometry x="376" y="760" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-35" value="深度Q学习算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="705" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-36" target="5HWOkslPXIfKT7AwinXw-37">
           <mxGeometry relative="1" as="geometry" />
@@ -727,13 +727,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-36" value="RND好奇心模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="625" y="620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-37" target="5HWOkslPXIfKT7AwinXw-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-37" value="多维动态优先级缓冲池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="775" y="620" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
