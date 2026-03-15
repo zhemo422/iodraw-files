@@ -678,10 +678,10 @@
           <mxGeometry x="455" y="340" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-23" value="风险势能场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-24" value="风险势能场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="610" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
