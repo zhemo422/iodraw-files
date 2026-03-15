@@ -628,6 +628,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5HWOkslPXIfKT7AwinXw-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="580" width="230" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="370" width="590" height="180" as="geometry" />
         </mxCell>
@@ -705,9 +708,6 @@
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-28" value="近端优化算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="760" width="76" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5HWOkslPXIfKT7AwinXw-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
