@@ -629,10 +629,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5HWOkslPXIfKT7AwinXw-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="580" width="240" height="240" as="geometry" />
+          <mxGeometry x="294" y="580" width="246" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-18" target="5HWOkslPXIfKT7AwinXw-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="560" />
+              <mxPoint x="414" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="370" width="590" height="180" as="geometry" />
@@ -708,6 +713,9 @@
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-28" value="近端优化算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="760" width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5HWOkslPXIfKT7AwinXw-35" value="风险势能场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
