@@ -634,6 +634,9 @@
         <mxCell id="5HWOkslPXIfKT7AwinXw-2" value="海冰厚度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5HWOkslPXIfKT7AwinXw-4" value="航线风险评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
