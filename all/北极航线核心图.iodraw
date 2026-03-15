@@ -694,8 +694,8 @@
         <mxCell id="5HWOkslPXIfKT7AwinXw-25" value="动态加权复合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5HWOkslPXIfKT7AwinXw-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="5HWOkslPXIfKT7AwinXw-28" value="近端优化算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="770" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
