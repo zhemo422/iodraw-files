@@ -724,7 +724,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5HWOkslPXIfKT7AwinXw-36" target="5HWOkslPXIfKT7AwinXw-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-36" value="RND好奇心模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="620" width="80" height="40" as="geometry" />
@@ -733,7 +737,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5HWOkslPXIfKT7AwinXw-37" value="多维动态优先级缓冲池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="775" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="785" y="620" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
