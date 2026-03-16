@@ -284,11 +284,16 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-7" value="主要研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlLvfIbjQb9XpAmiMgqm-10" target="nlLvfIbjQb9XpAmiMgqm-18">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlLvfIbjQb9XpAmiMgqm-10" target="nlLvfIbjQb9XpAmiMgqm-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlLvfIbjQb9XpAmiMgqm-10" target="nlLvfIbjQb9XpAmiMgqm-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="530" />
+              <mxPoint x="520" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="180" height="200" as="geometry" />
