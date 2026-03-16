@@ -308,10 +308,10 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-20" value="动态势能的奖励塑形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="620" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-21" value="势能场构建方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="620" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-22" value="航线平滑与经纬度转换方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-22" value="近端优化算法框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="680" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-23" value="北极航道仿真环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
