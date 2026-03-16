@@ -93,8 +93,14 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-26" value="路径平滑与经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-28" target="-Tg8kSwyV6C7uGB9eNc2-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-28" target="-Tg8kSwyV6C7uGB9eNc2-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="435" />
+              <mxPoint x="400" y="480" />
+              <mxPoint x="395" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-28" value="北极航道仿真环境构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="70" height="90" as="geometry" />
