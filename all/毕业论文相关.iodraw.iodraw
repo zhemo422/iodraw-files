@@ -95,7 +95,7 @@
           <mxGeometry x="660" y="410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-24" value="好奇心机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="460" width="100" height="40" as="geometry" />
+          <mxGeometry x="700" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-25" value="基于势能场的奖励塑形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="480" width="100" height="40" as="geometry" />
@@ -131,12 +131,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-37" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-38" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-39" value="基于势能场的奖励塑形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-39" value="动态加权机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="490" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
