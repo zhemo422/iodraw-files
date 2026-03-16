@@ -381,17 +381,14 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="920" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-56" value="第五章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-56" value="第六章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-57" value="总结与展望" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="950" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-58" value="全文总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-58" value="参考文献" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="980" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-59" value="未来展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="980" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
