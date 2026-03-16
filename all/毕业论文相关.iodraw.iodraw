@@ -339,7 +339,7 @@
           <mxGeometry x="440" y="720" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="800" width="180" height="120" as="geometry" />
+          <mxGeometry x="270" y="800" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-32" value="第五章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="800" width="80" height="30" as="geometry" />
@@ -348,10 +348,10 @@
           <mxGeometry x="270" y="830" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-36" value="全文总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="870" width="60" height="30" as="geometry" />
+          <mxGeometry x="285" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-38" value="未来展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="870" width="70" height="30" as="geometry" />
+          <mxGeometry x="375" y="860" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
