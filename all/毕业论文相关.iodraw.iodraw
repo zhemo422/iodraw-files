@@ -339,19 +339,16 @@
           <mxGeometry x="440" y="720" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="800" width="180" height="200" as="geometry" />
+          <mxGeometry x="270" y="800" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-32" value="第五章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="800" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-33" value="北极仿真环境构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="830" width="160" height="30" as="geometry" />
+          <mxGeometry x="270" y="830" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-36" value="航线平滑与经纬度转换方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="920" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-37" value="北极航道仿真环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="960" width="160" height="30" as="geometry" />
+          <mxGeometry x="280" y="870" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
