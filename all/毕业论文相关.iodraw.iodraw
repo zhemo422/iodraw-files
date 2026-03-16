@@ -329,7 +329,7 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-27" value="RND好奇心机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="620" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-28" value="北极航道风险评估方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-28" value="多维动态优先级缓冲池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="620" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-29" value="深度Q学习方法框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
