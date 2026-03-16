@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="150" width="500" height="220" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-2" value="总体研究目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="120" height="80" as="geometry" />
@@ -48,6 +48,12 @@
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-17" value="少量低频次的高价值样本的未能得到多次训练，导致算法效率较低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-19" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="300" as="sourcePoint" />
+            <mxPoint x="540" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
