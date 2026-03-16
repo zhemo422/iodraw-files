@@ -95,7 +95,7 @@
           <mxGeometry x="660" y="410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-24" value="好奇心机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="410" width="100" height="40" as="geometry" />
+          <mxGeometry x="530" y="410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-25" value="基于势能场的奖励塑形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="480" width="100" height="40" as="geometry" />
@@ -119,6 +119,16 @@
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-29" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="564" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-36" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="130" as="sourcePoint" />
+            <mxPoint x="400" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="140" />
+              <mxPoint x="400" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
