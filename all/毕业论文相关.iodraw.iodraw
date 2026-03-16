@@ -90,8 +90,8 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-28" value="北极航道仿真环境构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-29" value="北极航道仿真环境构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="510" width="60" height="40" as="geometry" />
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-29" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="510" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
