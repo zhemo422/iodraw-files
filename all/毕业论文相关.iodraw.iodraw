@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="q4Zrpio251xa9Hf7q1WD">
-    <mxGraphModel dx="2048" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-37" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="410" width="110" height="60" as="geometry" />
+          <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-38" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="410" width="110" height="60" as="geometry" />
@@ -177,13 +177,13 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-39" target="-Tg8kSwyV6C7uGB9eNc2-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="480" />
-              <mxPoint x="620" y="480" />
+              <mxPoint x="630" y="480" />
+              <mxPoint x="630" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-39" value="动态加权机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="490" width="40" height="130" as="geometry" />
+          <mxGeometry x="610" y="490" width="40" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-42" target="-Tg8kSwyV6C7uGB9eNc2-39">
           <mxGeometry relative="1" as="geometry">
