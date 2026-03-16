@@ -130,8 +130,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-37" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="504" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-38" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="514" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
