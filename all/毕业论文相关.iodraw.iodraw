@@ -257,6 +257,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="180" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-42" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlLvfIbjQb9XpAmiMgqm-10" target="nlLvfIbjQb9XpAmiMgqm-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="270" as="sourcePoint" />
@@ -318,9 +321,6 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-16" value="北极航道仿真环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="470" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="560" width="180" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-18" value="第三章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="560" width="80" height="30" as="geometry" />
         </mxCell>
@@ -336,11 +336,11 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-22" value="近端优化算法框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="680" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-23" value="REPPO算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="720" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="560" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-23" value="REPPO算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="720" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-25" value="第四章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="560" width="80" height="30" as="geometry" />
