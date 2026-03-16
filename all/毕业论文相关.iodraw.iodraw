@@ -305,7 +305,7 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-19" value="北极仿真环境构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="590" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-20" value="马尔可夫过程及建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-20" value="基于势能的奖励塑形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="620" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-21" value="北极航道风险评估方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
