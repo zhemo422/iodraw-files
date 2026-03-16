@@ -281,10 +281,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="100" width="180" height="180" as="geometry" />
+          <mxGeometry x="270" y="110" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-2" value="第一章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="80" height="30" as="geometry" />
+          <mxGeometry x="320" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-3" value="绪论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="130" width="80" height="30" as="geometry" />
@@ -321,7 +321,7 @@
           <mxGeometry x="320" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-12" value="北极仿真环境构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="160" height="30" as="geometry" />
+          <mxGeometry x="280" y="330" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-13" value="马尔可夫过程及建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="70" height="50" as="geometry" />
