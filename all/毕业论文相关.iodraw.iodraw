@@ -267,16 +267,10 @@
           <mxGeometry x="280" y="140" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-5" value="文献综述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="180" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-6" value="图搜索的确定性方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="200" width="70" height="50" as="geometry" />
+          <mxGeometry x="280" y="180" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-7" value="启发式搜索方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="310" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-8" value="奖励稀疏问题解决方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309" y="320" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
