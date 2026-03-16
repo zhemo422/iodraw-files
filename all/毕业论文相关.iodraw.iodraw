@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="q4Zrpio251xa9Hf7q1WD">
-    <mxGraphModel dx="698" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="120" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-5" value="&lt;span style=&quot;color: rgb(17, 17, 51); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 16px; letter-spacing: 0.064px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;构建&quot;环境建模-奖励设计-学习优化&quot;三位一体的技术体系，系统性突破极地智能航行决策的关键技术障碍，为北极航道提供可配置、高鲁棒性的智能规划工具，同时深化复杂环境下多目标强化学习的理论认知。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="40" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
