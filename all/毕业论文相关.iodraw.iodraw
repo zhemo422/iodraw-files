@@ -13,6 +13,9 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-4" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
