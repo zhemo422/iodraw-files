@@ -81,8 +81,8 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-24" value="好奇心机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="420" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-25" value="好奇心机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="500" width="100" height="40" as="geometry" />
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-25" value="基于势能场的奖励塑形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
