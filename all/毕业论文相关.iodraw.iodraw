@@ -28,8 +28,8 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-10" value="稀疏奖励挑战" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-11" value="稀疏奖励挑战" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-11" value="样本利用率低" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
