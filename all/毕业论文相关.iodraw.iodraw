@@ -257,8 +257,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlLvfIbjQb9XpAmiMgqm-24" target="nlLvfIbjQb9XpAmiMgqm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="560" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nlLvfIbjQb9XpAmiMgqm-17" target="nlLvfIbjQb9XpAmiMgqm-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="560" width="180" height="200" as="geometry" />
@@ -289,7 +295,7 @@
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-51" value="提供仿真环境" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nlLvfIbjQb9XpAmiMgqm-48">
           <mxGeometry x="-0.1658" y="2" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-6" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nlLvfIbjQb9XpAmiMgqm-10" target="nlLvfIbjQb9XpAmiMgqm-25">
