@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="150" width="530" height="220" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-2" value="总体研究目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="50" width="50" height="80" as="geometry" />
+          <mxGeometry x="214" y="50" width="46" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-3" value="研究问题与挑战" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="50" height="230" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-26" value="路径平滑与网格-经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="570" width="210" height="40" as="geometry" />
+          <mxGeometry x="290" y="574" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-28" target="-Tg8kSwyV6C7uGB9eNc2-26">
           <mxGeometry relative="1" as="geometry">
