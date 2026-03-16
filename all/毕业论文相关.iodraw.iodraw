@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_ovl6JSl4ZfEEQApqd5U" name="第 2 页">
-    <mxGraphModel dx="1436" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,7 +335,7 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-18" value="第三章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="560" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-19" value="&lt;font face=&quot;Helvetica&quot;&gt;基于动态势能奖励塑形的DQL算法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-19" value="&lt;font face=&quot;Helvetica&quot;&gt;基于动态势能奖励塑形的DQL算法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="584" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-20" value="动态势能的奖励塑形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -387,7 +387,7 @@
           <mxGeometry x="375" y="860" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="920" width="180" height="68" as="geometry" />
+          <mxGeometry x="270" y="920" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-56" value="第六章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="920" width="80" height="30" as="geometry" />
