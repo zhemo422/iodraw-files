@@ -37,7 +37,7 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-13" target="-Tg8kSwyV6C7uGB9eNc2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-15" value="根据北极航道相关数据，搭建一个适用于深度强化学习方法的训练环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-15" value="根据北极航道相关数据，搭建一个适用于深度强化学习方法的训练环境，并将" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-16" value="北极航道仿真环境构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
