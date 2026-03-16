@@ -41,7 +41,10 @@
           <mxGeometry x="280" y="260" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-16" value="北极航道规划环境中，大部分环境奖励为负数，且有效奖励稀少。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="100" height="110" as="geometry" />
+          <mxGeometry x="520" y="260" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
