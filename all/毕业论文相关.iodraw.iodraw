@@ -40,8 +40,8 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-15" value="使用深度强化学习方法训练需要一个符合马尔可夫性质的仿真环境，同时该环境还需要符合北极基本环境，并可以直观输出航线轨迹。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-16" value="北极航道仿真环境构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="260" width="90" height="40" as="geometry" />
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-16" value="北极航道规划环境中，大部分环境奖励为负数，且有效奖励稀少。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
