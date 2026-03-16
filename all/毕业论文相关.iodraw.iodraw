@@ -17,34 +17,34 @@
           <mxGeometry x="280" y="40" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-8" value="北极航道深度强化学习算法的应用问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="200" height="40" as="geometry" />
+          <mxGeometry x="290" y="160" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-9" value="北极航道深度强化学习算法的失效问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="240" height="40" as="geometry" />
+          <mxGeometry x="530" y="160" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-10" value="稀疏奖励挑战" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-12" value="适用于DQL算法的仿真环境建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="210" width="100" height="40" as="geometry" />
+          <mxGeometry x="290" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-13" value="可视化北极航线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="410" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-13" target="-Tg8kSwyV6C7uGB9eNc2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-15" value="使用深度强化学习方法训练需要一个符合马尔可夫性质的仿真环境，同时该环境还需要符合北极基本环境，并可以直观输出航线轨迹。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="210" height="100" as="geometry" />
+          <mxGeometry x="290" y="260" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-16" value="北极航道规划环境中，大部分环境奖励为负数，且有效奖励稀少。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="120" height="100" as="geometry" />
+          <mxGeometry x="530" y="260" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-17" value="少量低频次的高价值样本的未能得到多次训练，导致算法效率较低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="260" width="100" height="100" as="geometry" />
+          <mxGeometry x="670" y="260" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
