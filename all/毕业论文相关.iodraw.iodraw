@@ -23,7 +23,7 @@
           <mxGeometry x="520" y="160" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-10" value="稀疏奖励挑战" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="210" width="80" height="40" as="geometry" />
@@ -43,7 +43,7 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-16" value="北极航道规划环境中，大部分环境奖励为负数，且有效奖励稀少。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="260" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-17" value="少量低频次的高价值样本的未能得到多次训练，导致算法效率较低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="260" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
