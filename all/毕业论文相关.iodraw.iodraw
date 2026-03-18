@@ -28,7 +28,7 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-8" value="北极航道深度强化学习算法的&lt;b&gt;应用&lt;/b&gt;问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="160" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-9" value="北极航道深度强化学习算法的&lt;b&gt;失效&lt;/b&gt;问题" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-9" value="北极航道深度强化学习&lt;b&gt;算法的失效问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="160" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-10" value="稀疏奖励挑战" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
