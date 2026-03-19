@@ -52,7 +52,7 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-16" value="北极航道规划环境中，大部分环境奖励为负数，且&lt;b&gt;有效奖励稀少&lt;/b&gt;。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="260" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-17" value="少量低频次的&lt;b&gt;高价值样本未能得到多次利用&lt;/b&gt;，导致DRL算法效率较低" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-17" value="&lt;b&gt;高探索价值样本未能得到多次利用&lt;/b&gt;，导致DRL算法效率较低" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="260" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-19" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-5" target="-Tg8kSwyV6C7uGB9eNc2-8" edge="1">
