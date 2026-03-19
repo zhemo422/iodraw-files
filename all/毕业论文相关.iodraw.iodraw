@@ -217,7 +217,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9EnEufU5Ga7jDB8_Ipib-1" value="先验知识场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=10;" vertex="1" connectable="0" parent="-Tg8kSwyV6C7uGB9eNc2-54">
+        <mxCell id="9EnEufU5Ga7jDB8_Ipib-1" value="先验知识场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=11;" vertex="1" connectable="0" parent="-Tg8kSwyV6C7uGB9eNc2-54">
           <mxGeometry x="-0.0057" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -242,7 +242,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9EnEufU5Ga7jDB8_Ipib-2" value="通用场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=10;" vertex="1" connectable="0" parent="-Tg8kSwyV6C7uGB9eNc2-56">
+        <mxCell id="9EnEufU5Ga7jDB8_Ipib-2" value="通用场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=11;" vertex="1" connectable="0" parent="-Tg8kSwyV6C7uGB9eNc2-56">
           <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
