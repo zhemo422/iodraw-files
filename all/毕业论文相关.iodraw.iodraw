@@ -141,7 +141,7 @@
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-26" target="-Tg8kSwyV6C7uGB9eNc2-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-26" value="路径平滑与网格-经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="-Tg8kSwyV6C7uGB9eNc2-26" value="路径平滑与网格-经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="290" y="574" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="-Tg8kSwyV6C7uGB9eNc2-28" target="-Tg8kSwyV6C7uGB9eNc2-26" edge="1">
