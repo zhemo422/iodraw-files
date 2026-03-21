@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="q4Zrpio251xa9Hf7q1WD">
-    <mxGraphModel dx="407" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,10 +32,10 @@
           <mxGeometry x="290" y="160" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-9" value="北极航道深度强化学习算法的&lt;b&gt;效果问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="160" width="240" height="40" as="geometry" />
+          <mxGeometry x="540" y="160" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-10" value="稀疏奖励挑战" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="210" width="100" height="40" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="290" y="260" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-16" value="北极航道规划环境中，大部分环境奖励为负数，且&lt;b&gt;有效奖励稀少&lt;/b&gt;。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="260" width="120" height="100" as="geometry" />
+          <mxGeometry x="540" y="260" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-17" value="&lt;b&gt;高探索价值样本未能得到多次利用&lt;/b&gt;，导致DRL算法效率较低" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="260" width="100" height="100" as="geometry" />
@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-37" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-38" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="700" y="410" width="100" height="60" as="geometry" />
