@@ -366,7 +366,7 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-19" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px;&quot;&gt;基于动态势能奖励塑形的DQL算法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="140" y="584" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-20" value="动态势能的奖励塑形" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-20" value="动态势能的奖励塑形" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="620" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-21" value="势能场构建方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
@@ -384,10 +384,10 @@
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-26" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px;&quot;&gt;基于好奇心算法和动态优先级缓冲区的DRL算法&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="440" y="584" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-27" value="RND好奇心机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-27" value="RND好奇心机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="440" y="620" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nlLvfIbjQb9XpAmiMgqm-28" value="多维动态优先级缓冲池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="nlLvfIbjQb9XpAmiMgqm-28" value="多维动态优先级缓冲池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="530" y="620" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-29" value="深度Q学习方法框架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
