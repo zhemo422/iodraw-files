@@ -263,7 +263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_ovl6JSl4ZfEEQApqd5U" name="第 2 页">
-    <mxGraphModel dx="1436" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="581" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,10 +409,10 @@
           <mxGeometry x="270" y="830" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-36" value="全文总结" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="285" y="860" width="60" height="30" as="geometry" />
+          <mxGeometry x="285" y="860" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-38" value="未来展望" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="375" y="860" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="860" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nlLvfIbjQb9XpAmiMgqm-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="270" y="920" width="180" height="50" as="geometry" />
