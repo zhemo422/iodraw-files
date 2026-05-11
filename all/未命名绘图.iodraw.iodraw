@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-13" value="归一化势能场构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4G8atb_StjcXuQycnQU2-11">
           <mxGeometry x="-0.0078" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oaQpYAlrQesyvgH_zJT--2" value="船舶风险数据RIO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-14" value="归一化势能场构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4G8atb_StjcXuQycnQU2-12">
           <mxGeometry x="-0.2744" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="&amp;nbsp;相对目标点距离DIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -36,7 +36,7 @@
           <mxGeometry x="580" y="540" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-9" value="融合势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="260" width="80" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
