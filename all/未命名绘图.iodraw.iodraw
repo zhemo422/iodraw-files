@@ -10,8 +10,11 @@
         <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="&amp;nbsp;相对目标点距离" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-3" value="&amp;nbsp;相对目标点距离" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="410" width="120" height="80" as="geometry" />
+        <mxCell id="4G8atb_StjcXuQycnQU2-3" value="距离势能厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4G8atb_StjcXuQycnQU2-4" value="距离势能厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
