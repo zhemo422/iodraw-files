@@ -54,7 +54,7 @@
           <mxGeometry x="369" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="500" width="120" height="85" as="geometry" />
+          <mxGeometry x="360" y="500" width="91" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-9" value="融合势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="260" width="50" height="200" as="geometry" />
