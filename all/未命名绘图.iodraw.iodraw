@@ -23,7 +23,7 @@
             <mxPoint x="15" y="54" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="船舶相对最短距离DIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="船舶相对最短距离" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-3" target="4G8atb_StjcXuQycnQU2-9">
@@ -92,7 +92,10 @@
           <mxGeometry x="547" y="505" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-29" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$RIO(s)$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="227" y="290" width="56" height="30" as="geometry" />
+          <mxGeometry x="227" y="280" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4G8atb_StjcXuQycnQU2-31" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$\phi(s) _{risk}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="290" width="56" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
