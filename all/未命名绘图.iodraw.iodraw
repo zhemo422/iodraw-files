@@ -26,8 +26,19 @@
         <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="&amp;nbsp;相对目标点距离DIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="400" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4G8atb_StjcXuQycnQU2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-3" target="4G8atb_StjcXuQycnQU2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4G8atb_StjcXuQycnQU2-17" value="加权融合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4G8atb_StjcXuQycnQU2-16">
+          <mxGeometry x="0.6831" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-3" value="距离势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4G8atb_StjcXuQycnQU2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-4" target="4G8atb_StjcXuQycnQU2-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-4" value="风险势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="260" width="90" height="60" as="geometry" />
