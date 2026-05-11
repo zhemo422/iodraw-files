@@ -56,12 +56,12 @@
         <mxCell id="4G8atb_StjcXuQycnQU2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-6" target="4G8atb_StjcXuQycnQU2-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="500" />
+              <mxPoint x="700" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="475" width="90" height="60" as="geometry" />
+          <mxGeometry x="490" y="480" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-9" target="4G8atb_StjcXuQycnQU2-18">
           <mxGeometry relative="1" as="geometry">
@@ -74,7 +74,7 @@
           <mxGeometry x="540" y="300" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-18" value="奖励塑形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="400" width="80" height="90" as="geometry" />
+          <mxGeometry x="660" y="390" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
