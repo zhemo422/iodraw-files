@@ -9,22 +9,22 @@
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-13" value="归一化势能场构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4G8atb_StjcXuQycnQU2-11">
           <mxGeometry x="-0.0078" y="-3" relative="1" as="geometry">
-            <mxPoint y="7" as="offset" />
+            <mxPoint y="57" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oaQpYAlrQesyvgH_zJT--2" value="船舶风险数据RIO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="260" width="90" height="60" as="geometry" />
+          <mxGeometry x="210" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EBqdhtbC_gvQBZF1uEGS-1" target="4G8atb_StjcXuQycnQU2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-14" value="归一化势能场构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4G8atb_StjcXuQycnQU2-12">
           <mxGeometry x="-0.2744" y="1" relative="1" as="geometry">
-            <mxPoint x="17" y="11" as="offset" />
+            <mxPoint x="17" y="71" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="船舶相对最短距离DIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="400" width="90" height="60" as="geometry" />
+          <mxGeometry x="210" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-3" target="4G8atb_StjcXuQycnQU2-9">
           <mxGeometry relative="1" as="geometry">
@@ -39,7 +39,7 @@
             <mxPoint x="-1" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-3" value="距离势能场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="4G8atb_StjcXuQycnQU2-3" value="距离势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-4" target="4G8atb_StjcXuQycnQU2-9">
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-4" value="风险势能场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="4G8atb_StjcXuQycnQU2-4" value="风险势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-6" target="4G8atb_StjcXuQycnQU2-18">
