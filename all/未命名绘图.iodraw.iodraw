@@ -36,7 +36,7 @@
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-17" value="加权融合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4G8atb_StjcXuQycnQU2-16">
           <mxGeometry x="0.6831" y="1" relative="1" as="geometry">
-            <mxPoint x="4" y="21" as="offset" />
+            <mxPoint x="3" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-3" value="距离势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
