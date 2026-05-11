@@ -16,11 +16,11 @@
         <mxCell id="4G8atb_StjcXuQycnQU2-4" value="风险势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="420" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="555" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="4G8atb_StjcXuQycnQU2-9" value="融合势能场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
