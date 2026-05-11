@@ -8,13 +8,13 @@
           <mxGeometry x="160" y="280" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="&amp;nbsp;相对目标点距离DIS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="400" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-3" value="距离势能场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-4" value="风险势能场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="294" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="540" width="120" height="85" as="geometry" />
