@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-4" value="风险势能场$$$dis$$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4G8atb_StjcXuQycnQU2-4" value="风险势能场$$$F_dis$$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-6" target="4G8atb_StjcXuQycnQU2-18">
