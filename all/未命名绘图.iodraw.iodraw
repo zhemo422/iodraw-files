@@ -73,7 +73,7 @@
         <mxCell id="4G8atb_StjcXuQycnQU2-9" value="融合势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-18" value="奖励塑形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4G8atb_StjcXuQycnQU2-18" value="增强奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="390" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
