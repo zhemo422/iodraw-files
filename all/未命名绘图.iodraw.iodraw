@@ -23,7 +23,7 @@
             <mxPoint x="17" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="船舶相对距离DIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="船舶相对最短距离DIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-3" target="4G8atb_StjcXuQycnQU2-9">
