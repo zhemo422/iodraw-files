@@ -22,12 +22,6 @@
         <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="555" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="250" width="40" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
