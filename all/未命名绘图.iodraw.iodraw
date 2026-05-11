@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-14" value="归一化势能场构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4G8atb_StjcXuQycnQU2-12">
           <mxGeometry x="-0.2744" y="1" relative="1" as="geometry">
-            <mxPoint x="17" y="71" as="offset" />
+            <mxPoint x="5" y="51" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EBqdhtbC_gvQBZF1uEGS-1" value="船舶相对最短距离DIS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="480" width="90" height="60" as="geometry" />
+          <mxGeometry x="515" y="480" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4G8atb_StjcXuQycnQU2-9" target="4G8atb_StjcXuQycnQU2-18">
           <mxGeometry relative="1" as="geometry">
@@ -71,10 +71,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-9" value="融合势能场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="300" width="40" height="120" as="geometry" />
+          <mxGeometry x="540" y="300" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-18" value="奖励塑形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="390" width="80" height="90" as="geometry" />
+          <mxGeometry x="660" y="385" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
