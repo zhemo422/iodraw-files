@@ -88,7 +88,7 @@
           <mxGeometry x="227" y="420" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1m3y4g-Jhi2OvTPpo8r-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="475" width="70" height="70" as="geometry" />
+          <mxGeometry x="425" y="475" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1m3y4g-Jhi2OvTPpo8r-4" vertex="1">
           <mxGeometry width="70" height="70" as="geometry" />
@@ -114,7 +114,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a1m3y4g-Jhi2OvTPpo8r-9">
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-12" value="状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a1m3y4g-Jhi2OvTPpo8r-9">
           <mxGeometry x="0.0288" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
