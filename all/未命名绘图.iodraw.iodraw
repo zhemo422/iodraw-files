@@ -48,9 +48,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="475" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4G8atb_StjcXuQycnQU2-9" target="4G8atb_StjcXuQycnQU2-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -76,9 +73,6 @@
         <mxCell id="4G8atb_StjcXuQycnQU2-25" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$r_{shaped}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="672" y="427" width="56" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4G8atb_StjcXuQycnQU2-27" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$r_{env}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="547" y="505" width="56" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4G8atb_StjcXuQycnQU2-29" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$RIO(s)$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="227" y="280" width="56" height="30" as="geometry" />
         </mxCell>
@@ -86,7 +80,16 @@
           <mxGeometry x="227" y="420" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1m3y4g-Jhi2OvTPpo8r-1" value="环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="50" y="470" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="475" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4G8atb_StjcXuQycnQU2-6" value="环境原始奖励&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="a1m3y4g-Jhi2OvTPpo8r-4" vertex="1">
+          <mxGeometry width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4G8atb_StjcXuQycnQU2-27" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$r_{env}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="a1m3y4g-Jhi2OvTPpo8r-4" vertex="1">
+          <mxGeometry x="7" y="30" width="56" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
