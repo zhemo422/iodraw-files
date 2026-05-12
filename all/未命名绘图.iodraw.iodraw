@@ -120,11 +120,6 @@
         <mxCell id="a1m3y4g-Jhi2OvTPpo8r-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1m3y4g-Jhi2OvTPpo8r-6" target="a1m3y4g-Jhi2OvTPpo8r-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-11" value="动作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a1m3y4g-Jhi2OvTPpo8r-10">
-          <mxGeometry x="0.0103" y="1" relative="1" as="geometry">
-            <mxPoint x="6" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a1m3y4g-Jhi2OvTPpo8r-6" value="智能体" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="590" y="80" width="160" height="80" as="geometry" />
         </mxCell>
@@ -138,6 +133,15 @@
           <mxGeometry x="22" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1m3y4g-Jhi2OvTPpo8r-20" value="状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a1m3y4g-Jhi2OvTPpo8r-21">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="90" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-23" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$S$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a1m3y4g-Jhi2OvTPpo8r-22">
+          <mxGeometry x="22" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-24" value="动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a1m3y4g-Jhi2OvTPpo8r-22">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
       </root>
