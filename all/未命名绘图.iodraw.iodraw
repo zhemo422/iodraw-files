@@ -93,6 +93,9 @@
         <mxCell id="4G8atb_StjcXuQycnQU2-34" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;归一化势&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;能场构建&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="309" y="450" width="41" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-1" value="船舶风险数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="505" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
