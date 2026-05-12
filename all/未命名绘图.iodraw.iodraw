@@ -119,7 +119,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-5" value="环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-5" value="环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1m3y4g-Jhi2OvTPpo8r-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1m3y4g-Jhi2OvTPpo8r-6" target="a1m3y4g-Jhi2OvTPpo8r-5">
@@ -130,11 +130,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-6" value="智能体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-6" value="智能体" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="590" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-13" value="奖励增强模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="110" height="30" as="geometry" />
+        <mxCell id="a1m3y4g-Jhi2OvTPpo8r-13" value="奖励增强模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="580" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
