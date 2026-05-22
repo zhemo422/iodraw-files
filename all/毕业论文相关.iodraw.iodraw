@@ -415,8 +415,19 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-38" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1500" y="400" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-40" target="VXNA18bIOhO1tqyZ9naS-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-40" value="动态加权机制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1410" y="480" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-42" target="VXNA18bIOhO1tqyZ9naS-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="580" />
+              <mxPoint x="1440" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-42" value="基于势能场的奖励塑形方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="590" width="150" height="40" as="geometry" />
