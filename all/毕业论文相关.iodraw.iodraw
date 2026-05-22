@@ -263,7 +263,7 @@
           <mxGeometry x="880" y="40" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-5" value="研究问题与挑战" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="880" y="140" width="60" height="230" as="geometry" />
+          <mxGeometry x="880" y="140" width="60" height="220" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-6" value="研究方法与内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="60" height="290" as="geometry" />
@@ -278,10 +278,10 @@
           <mxGeometry x="1320" y="150" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-10" value="稳定性差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="200" width="140" height="40" as="geometry" />
+          <mxGeometry x="1320" y="210" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="200" width="140" height="40" as="geometry" />
+          <mxGeometry x="1490" y="210" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-12" value="适用于DR L算法的仿真环境建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="210" width="160" height="40" as="geometry" />
@@ -293,13 +293,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-15" value="构建一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的北极航道仿真环境，并可以&lt;b&gt;直观输出航线轨迹和节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="260" width="320" height="90" as="geometry" />
+          <mxGeometry x="960" y="270" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="构建充足的&lt;b&gt;有效且稠密的&lt;/b&gt;奖励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="250" width="140" height="100" as="geometry" />
+          <mxGeometry x="1320" y="260" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-17" value="&lt;b&gt;充分利用&lt;/b&gt;高探索价值的样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="250" width="140" height="100" as="geometry" />
+          <mxGeometry x="1490" y="260" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-18" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-7" target="VXNA18bIOhO1tqyZ9naS-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
