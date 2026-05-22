@@ -338,7 +338,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-21" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;马尔可夫决策过程建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-21" value="&lt;span style=&quot;&quot;&gt;马尔可夫决策过程建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="960" y="410" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-23" target="VXNA18bIOhO1tqyZ9naS-34">
