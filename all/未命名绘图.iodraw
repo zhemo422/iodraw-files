@@ -7,7 +7,7 @@
         <mxCell id="oaQpYAlrQesyvgH_zJT--2" value="旨在解决深度强化学习算法在北极航道领域的应用问题和算法效果问题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="120" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s_SNJTIRLyKeyARlS0tG-1" value="工程化问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s_SNJTIRLyKeyARlS0tG-1" value="应用问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_SNJTIRLyKeyARlS0tG-2" value="算法效果问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
