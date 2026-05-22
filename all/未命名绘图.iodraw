@@ -19,7 +19,7 @@
         <mxCell id="s_SNJTIRLyKeyARlS0tG-4" value="可视化航线界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s_SNJTIRLyKeyARlS0tG-5" value="可视化航线界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s_SNJTIRLyKeyARlS0tG-5" value="样本利用效率问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_SNJTIRLyKeyARlS0tG-6" value="奖励稀疏问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
