@@ -295,7 +295,7 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-15" value="构建一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的北极航道仿真环境，并可以&lt;b&gt;直观输出航线轨迹和节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="250" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="北极航道规划环境中，大部分环境奖励为负数，且&lt;b&gt;有效奖励稀少&lt;/b&gt;。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="构建有效奖励充足的环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="250" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-17" value="&lt;b&gt;高探索价值样本未能得到多次利用&lt;/b&gt;，导致DRL算法效率较低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
