@@ -292,14 +292,14 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-13" target="VXNA18bIOhO1tqyZ9naS-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-15" value="使用深度强化学习方法规划北极航道需要依照&lt;b&gt;北极航道相关环境&lt;/b&gt;一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的仿真环境，并可以&lt;b&gt;直观输出航线轨迹&lt;/b&gt;。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-15" value="构建一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的北极航道仿真环境，并可以&lt;b&gt;直观输出航线轨迹和节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="250" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="北极航道规划环境中，大部分环境奖励为负数，且&lt;b&gt;有效奖励稀少&lt;/b&gt;。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="250" width="120" height="100" as="geometry" />
+          <mxGeometry x="1320" y="250" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-17" value="&lt;b&gt;高探索价值样本未能得到多次利用&lt;/b&gt;，导致DRL算法效率较低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="250" width="100" height="100" as="geometry" />
+          <mxGeometry x="1490" y="250" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-18" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-7" target="VXNA18bIOhO1tqyZ9naS-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
