@@ -295,10 +295,10 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-15" value="构建一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的北极航道仿真环境，并可以&lt;b&gt;直观输出航线轨迹和节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="250" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="构建充足的有效奖励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="构建充足的&lt;b&gt;有效且稠密的奖励&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="250" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-17" value="如何多次利用高探索价值的样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-17" value="多次利用高探索价值的样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="250" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-18" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-7" target="VXNA18bIOhO1tqyZ9naS-8">
