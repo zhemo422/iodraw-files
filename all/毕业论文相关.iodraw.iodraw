@@ -1,16 +1,16 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="q4Zrpio251xa9Hf7q1WD">
-    <mxGraphModel dx="1221" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1310" y="390" width="330" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="960" y="390" width="330" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="960" y="140" width="680" height="230" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -268,49 +268,49 @@
             <mxPoint y="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-4" value="研究目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-4" value="研究目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="880" y="40" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-5" value="研究问题与挑战" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-5" value="研究问题与挑战" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="880" y="140" width="60" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-6" value="研究方法与内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-6" value="研究方法与内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="880" y="390" width="60" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: rgb(218, 232, 252);&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 14px;&quot;&gt;本研究旨在解决深度强化学习算法&lt;b&gt;在北极航线规划领域的应用&lt;/b&gt;问题和在特定场景&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 14px;&quot;&gt;&lt;b&gt;深度强化学习&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;算法效果&lt;/b&gt;问题。&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: rgb(218, 232, 252);&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 14px;&quot;&gt;本研究旨在解决深度强化学习算法&lt;b&gt;在北极航线规划领域的应用&lt;/b&gt;问题和在特定场景&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 14px;&quot;&gt;&lt;b&gt;深度强化学习&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif, &amp;quot;Source Han Serif&amp;quot;; font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;算法效果&lt;/b&gt;问题。&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="950" y="40" width="690" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-8" value="算法的&lt;b&gt;应用问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-8" value="算法的&lt;b&gt;应用问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="150" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-9" value="算法的&lt;b&gt;效果问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-9" value="算法的&lt;b&gt;效果问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="150" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-10" value="DRL算法稳定性差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-10" value="DRL算法稳定性差" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="210" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1490" y="210" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-12" value="适用于DR L算法的仿真环境建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-12" value="适用于DR L算法的仿真环境建模" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="210" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-13" value="可被人类使用的航道规划系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-13" value="可被人类使用的航道规划系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="210" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-13" target="VXNA18bIOhO1tqyZ9naS-13">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VXNA18bIOhO1tqyZ9naS-13" target="VXNA18bIOhO1tqyZ9naS-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-15" value="构建一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的北极航道仿真环境，并可以&lt;b&gt;直观输出航线轨迹和节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-15" value="构建一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的北极航道仿真环境，并可以&lt;b&gt;直观输出航线轨迹和节点&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="270" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="构建充足的&lt;b&gt;有效且稠密的&lt;/b&gt;奖励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="构建充足的&lt;b&gt;有效且稠密的&lt;/b&gt;奖励" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="270" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-17" value="&lt;b&gt;充分利用&lt;/b&gt;高探索价值的样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-17" value="&lt;b&gt;充分利用&lt;/b&gt;高探索价值的样本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1490" y="270" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-18" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-7" target="VXNA18bIOhO1tqyZ9naS-8">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-18" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" parent="1" source="VXNA18bIOhO1tqyZ9naS-7" target="VXNA18bIOhO1tqyZ9naS-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1170" y="290" as="sourcePoint" />
             <mxPoint x="1210" y="290" as="targetPoint" />
@@ -320,7 +320,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-19" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-7" target="VXNA18bIOhO1tqyZ9naS-9">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-19" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" parent="1" source="VXNA18bIOhO1tqyZ9naS-7" target="VXNA18bIOhO1tqyZ9naS-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="120" as="sourcePoint" />
             <mxPoint x="1070" y="160" as="targetPoint" />
@@ -330,7 +330,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-21" target="VXNA18bIOhO1tqyZ9naS-34">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-21" target="VXNA18bIOhO1tqyZ9naS-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1090" y="420" />
@@ -338,10 +338,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-21" value="&lt;span style=&quot;&quot;&gt;马尔可夫决策过程建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-21" value="&lt;span style=&quot;&quot;&gt;马尔可夫决策过程建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="960" y="410" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-23" target="VXNA18bIOhO1tqyZ9naS-34">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-23" target="VXNA18bIOhO1tqyZ9naS-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1050" y="500" />
@@ -349,10 +349,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-23" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;北极航道风险评估体系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-23" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;北极航道风险评估体系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="960" y="460" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-25" target="VXNA18bIOhO1tqyZ9naS-38">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-25" target="VXNA18bIOhO1tqyZ9naS-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1610" y="480" />
@@ -360,10 +360,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-25" value="多维动态缓冲池" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-25" value="多维动态缓冲池" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1580" y="480" width="50" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-28" target="VXNA18bIOhO1tqyZ9naS-44">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-28" target="VXNA18bIOhO1tqyZ9naS-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1530" y="580" />
@@ -371,7 +371,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-28" target="VXNA18bIOhO1tqyZ9naS-25">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-28" target="VXNA18bIOhO1tqyZ9naS-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1605" y="580" />
@@ -379,10 +379,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-28" value="&lt;span style=&quot;&quot;&gt;好奇心机制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-28" value="&lt;span style=&quot;&quot;&gt;好奇心机制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1500" y="590" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-30" target="VXNA18bIOhO1tqyZ9naS-37">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-30" target="VXNA18bIOhO1tqyZ9naS-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1355" y="460" />
@@ -390,16 +390,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-30" value="近端优化算法框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-30" value="近端优化算法框架" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="480" width="70" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-32" target="VXNA18bIOhO1tqyZ9naS-35">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VXNA18bIOhO1tqyZ9naS-32" target="VXNA18bIOhO1tqyZ9naS-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-32" value="路径平滑与网格-经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-32" value="路径平滑与网格-经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="960" y="520" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-34" target="VXNA18bIOhO1tqyZ9naS-32">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-34" target="VXNA18bIOhO1tqyZ9naS-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1125" y="540" />
@@ -407,13 +407,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-34" value="北极航道&lt;div&gt;仿真环境&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-34" value="北极航道&lt;div&gt;仿真环境&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1160" y="410" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-35" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-35" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="590" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-36" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-15" target="VXNA18bIOhO1tqyZ9naS-34">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-36" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" parent="1" source="VXNA18bIOhO1tqyZ9naS-15" target="VXNA18bIOhO1tqyZ9naS-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="120" as="sourcePoint" />
             <mxPoint x="1070" y="160" as="targetPoint" />
@@ -423,13 +423,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-37" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-37" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1320" y="410" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-38" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-38" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1500" y="410" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-40" target="VXNA18bIOhO1tqyZ9naS-37">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-40" target="VXNA18bIOhO1tqyZ9naS-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1440" y="460" />
@@ -437,10 +437,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-40" value="动态加权机制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-40" value="动态加权机制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1410" y="480" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-42" target="VXNA18bIOhO1tqyZ9naS-40">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-42" target="VXNA18bIOhO1tqyZ9naS-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1440" y="580" />
@@ -448,10 +448,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-42" value="基于势能场的奖励塑形方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-42" value="基于势能场的奖励塑形方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1320" y="590" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-44" target="VXNA18bIOhO1tqyZ9naS-38">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VXNA18bIOhO1tqyZ9naS-44" target="VXNA18bIOhO1tqyZ9naS-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1520" y="460" />
@@ -459,10 +459,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-44" value="深度Q学习算法框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-44" value="深度Q学习算法框架" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1500" y="480" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-45" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-16" target="VXNA18bIOhO1tqyZ9naS-37">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-45" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" parent="1" source="VXNA18bIOhO1tqyZ9naS-16" target="VXNA18bIOhO1tqyZ9naS-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1295" y="360" as="sourcePoint" />
             <mxPoint x="1295" y="410" as="targetPoint" />
@@ -472,12 +472,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-46" value="先验知识场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=11;" vertex="1" connectable="0" parent="VXNA18bIOhO1tqyZ9naS-45">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-46" value="先验知识场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=11;" parent="VXNA18bIOhO1tqyZ9naS-45" vertex="1" connectable="0">
           <mxGeometry x="-0.0057" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-47" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-17" target="VXNA18bIOhO1tqyZ9naS-38">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-47" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" parent="1" source="VXNA18bIOhO1tqyZ9naS-17" target="VXNA18bIOhO1tqyZ9naS-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1305" y="370" as="sourcePoint" />
             <mxPoint x="1305" y="420" as="targetPoint" />
@@ -487,7 +487,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-48" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-16" target="VXNA18bIOhO1tqyZ9naS-38">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-48" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" parent="1" source="VXNA18bIOhO1tqyZ9naS-16" target="VXNA18bIOhO1tqyZ9naS-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1460" y="360" as="sourcePoint" />
             <mxPoint x="1460" y="410" as="targetPoint" />
@@ -497,19 +497,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-49" value="通用场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=11;" vertex="1" connectable="0" parent="VXNA18bIOhO1tqyZ9naS-48">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-49" value="通用场景" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=11;" parent="VXNA18bIOhO1tqyZ9naS-48" vertex="1" connectable="0">
           <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-50" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-50" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1280" y="544.58" as="sourcePoint" />
             <mxPoint x="1320" y="544.58" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-51" value="仿真&lt;div&gt;环境&lt;/div&gt;&lt;div&gt;支撑&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="VXNA18bIOhO1tqyZ9naS-50">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-51" value="仿真&lt;div&gt;环境&lt;/div&gt;&lt;div&gt;支撑&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="VXNA18bIOhO1tqyZ9naS-50" vertex="1" connectable="0">
           <mxGeometry x="-0.0961" relative="1" as="geometry">
             <mxPoint y="25" as="offset" />
           </mxGeometry>
