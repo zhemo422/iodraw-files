@@ -286,7 +286,7 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-9" value="算法的&lt;b&gt;效果问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="150" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-10" value="稳定性差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-10" value="DRL算法稳定性差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="210" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
