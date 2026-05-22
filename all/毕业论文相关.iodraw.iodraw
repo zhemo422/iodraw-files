@@ -394,7 +394,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-34" value="北极航道&lt;div&gt;仿真环境&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1160" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1160" y="400" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-35" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="590" width="320" height="40" as="geometry" />
