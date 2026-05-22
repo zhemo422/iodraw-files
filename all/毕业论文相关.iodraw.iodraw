@@ -286,14 +286,14 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-12" value="适用于DR L算法的仿真环境建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="200" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-13" value="可视化北极航线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="200" width="130" height="40" as="geometry" />
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-13" value="可以被船舶使用的航道规划系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="200" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-13" target="VXNA18bIOhO1tqyZ9naS-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-15" value="使用深度强化学习方法规划北极航道需要依照&lt;b&gt;北极航道相关环境&lt;/b&gt;一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的仿真环境，并可以&lt;b&gt;直观输出航线轨迹&lt;/b&gt;。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="250" width="210" height="100" as="geometry" />
+          <mxGeometry x="960" y="250" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-16" value="北极航道规划环境中，大部分环境奖励为负数，且&lt;b&gt;有效奖励稀少&lt;/b&gt;。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="250" width="120" height="100" as="geometry" />
