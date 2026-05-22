@@ -399,7 +399,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-34" value="北极航道&lt;div&gt;仿真环境&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1090" y="400" width="80" height="120" as="geometry" />
+          <mxGeometry x="1160" y="400" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-35" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="630" width="210" height="40" as="geometry" />
@@ -495,8 +495,8 @@
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-50" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1180" y="535" as="sourcePoint" />
-            <mxPoint x="1220" y="535" as="targetPoint" />
+            <mxPoint x="1280" y="544.58" as="sourcePoint" />
+            <mxPoint x="1320" y="544.58" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
