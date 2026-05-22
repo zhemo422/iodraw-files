@@ -278,10 +278,10 @@
           <mxGeometry x="1320" y="150" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-10" value="稀疏奖励挑战" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="1320" y="200" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="1490" y="200" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-12" value="适用于DR L算法的仿真环境建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="200" width="160" height="40" as="geometry" />
