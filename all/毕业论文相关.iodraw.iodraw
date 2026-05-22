@@ -339,7 +339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-21" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;马尔可夫决策过程建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="960" y="400" width="170" height="40" as="geometry" />
+          <mxGeometry x="960" y="410" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VXNA18bIOhO1tqyZ9naS-23" target="VXNA18bIOhO1tqyZ9naS-34">
           <mxGeometry relative="1" as="geometry">
@@ -408,7 +408,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-34" value="北极航道&lt;div&gt;仿真环境&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1160" y="400" width="120" height="100" as="geometry" />
+          <mxGeometry x="1160" y="410" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-35" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="590" width="320" height="40" as="geometry" />
@@ -424,7 +424,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-37" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="400" width="150" height="50" as="geometry" />
+          <mxGeometry x="1320" y="410" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-38" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1500" y="410" width="130" height="50" as="geometry" />
