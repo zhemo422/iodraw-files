@@ -10,7 +10,7 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="960" y="390" width="330" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#3498db;" parent="1" vertex="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#3498DB;" parent="1" vertex="1">
           <mxGeometry x="960" y="140" width="680" height="230" as="geometry" />
         </mxCell>
         <mxCell id="-Tg8kSwyV6C7uGB9eNc2-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -271,8 +271,8 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-4" value="研究目标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f74ad;strokeColor=#6c8ebf;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="880" y="40" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-5" value="研究问题与挑战" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#1e71a8;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="880" y="140" width="60" height="220" as="geometry" />
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-5" value="研究问题与挑战" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#3498DB;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="880" y="140" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-6" value="研究方法与内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="880" y="390" width="60" height="250" as="geometry" />
