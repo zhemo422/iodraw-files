@@ -524,7 +524,7 @@
           <mxGeometry x="1820" y="260" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-4" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="280" width="170" height="40" as="geometry" />
+          <mxGeometry x="1990" y="260" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
