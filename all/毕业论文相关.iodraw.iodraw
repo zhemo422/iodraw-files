@@ -292,7 +292,7 @@
         <mxCell id="VXNA18bIOhO1tqyZ9naS-11" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1490" y="210" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VXNA18bIOhO1tqyZ9naS-12" value="适用于DR L算法的仿真环境建模" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VXNA18bIOhO1tqyZ9naS-12" value="适用于DRL算法的仿真环境建模" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="210" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-13" value="可被人类使用的航道规划系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
