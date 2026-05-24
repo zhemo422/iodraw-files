@@ -1020,16 +1020,31 @@
           <mxGeometry x="270" y="30" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-25" target="_FRfILehAEUMzXQm0zE8-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="130" />
+              <mxPoint x="400" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-25" value="$$w(t) = w_{min}+(w_{max}-w_{min})e^{-\lambda \cdot t}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="60" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-4" target="_FRfILehAEUMzXQm0zE8-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="130" />
+              <mxPoint x="-40" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-5" target="_FRfILehAEUMzXQm0zE8-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="130" />
+              <mxPoint x="160" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
