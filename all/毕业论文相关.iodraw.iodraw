@@ -741,10 +741,10 @@
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-55" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;格网-经纬度转换方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2270" y="600" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-56" value="研究目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2074AD;strokeColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-56" value="研究目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3498DB;strokeColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1910" y="40" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-57" value="研究问题与挑战" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-57" value="研究问题与挑战" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1aa3aa;strokeColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1910" y="150" width="60" height="240" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-58" value="研究方法与内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
