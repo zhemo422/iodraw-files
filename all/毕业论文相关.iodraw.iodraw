@@ -1085,7 +1085,7 @@
         <mxCell id="79JKC0_fChla2RKUFdQx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-1" target="295eoNR8RFEqTLB_-Q5b-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="295eoNR8RFEqTLB_-Q5b-1" value="&lt;div&gt;计算样本均值&lt;span style=&quot;background-color: initial;&quot;&gt;$$\mu_j = \frac{1}{N} \sum_{i=1}^{N} \delta_{ij}$$&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="295eoNR8RFEqTLB_-Q5b-1" value="&lt;div&gt;样本维度均值&lt;span style=&quot;background-color: initial;&quot;&gt;$$\mu_j = \frac{1}{N} \sum_{i=1}^{N} \delta_{ij}$$&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-110" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-2" target="295eoNR8RFEqTLB_-Q5b-4">
@@ -1103,7 +1103,7 @@
         <mxCell id="295eoNR8RFEqTLB_-Q5b-4" value="非线性变换$$F_j = e^{S_j} - 1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-5">
+        <mxCell id="79JKC0_fChla2RKUFdQx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-5" target="79JKC0_fChla2RKUFdQx-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="440" as="targetPoint" />
           </mxGeometry>
@@ -1115,7 +1115,7 @@
           <mxGeometry x="340" y="65" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-9" value="多维加权$$P_i = \sum_{j} p_{ij} \cdot W_j$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="200" height="80" as="geometry" />
+          <mxGeometry x="340" y="320" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
