@@ -1120,8 +1120,8 @@
         <mxCell id="79JKC0_fChla2RKUFdQx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="79JKC0_fChla2RKUFdQx-10" target="295eoNR8RFEqTLB_-Q5b-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-10" value="内在奖励$$S_j = P(\delta_{ij} \geq \mu_j)$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-80" width="200" height="80" as="geometry" />
+        <mxCell id="79JKC0_fChla2RKUFdQx-10" value="内在奖励$$R_{t}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-80" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
