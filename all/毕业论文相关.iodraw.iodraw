@@ -1100,7 +1100,7 @@
         <mxCell id="79JKC0_fChla2RKUFdQx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-4" target="295eoNR8RFEqTLB_-Q5b-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="295eoNR8RFEqTLB_-Q5b-4" value="$$F_j = e^{S_j} - 1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="295eoNR8RFEqTLB_-Q5b-4" value="非线性变换$$F_j = e^{S_j} - 1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-5" target="295eoNR8RFEqTLB_-Q5b-6">
