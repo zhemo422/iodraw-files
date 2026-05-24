@@ -1010,8 +1010,8 @@
         <mxCell id="_FRfILehAEUMzXQm0zE8-24" value="动态权重&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="30" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-25" value="$$Φ_{dist}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="60" height="30" as="geometry" />
+        <mxCell id="_FRfILehAEUMzXQm0zE8-25" value="$$w(t) = w_{min}+(w_{max}-w{min})e^{-\lambda \cdot t}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
