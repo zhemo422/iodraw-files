@@ -536,7 +536,7 @@
           <mxGeometry x="2890" y="302.5" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-9" value="&lt;div style=&quot;text-align: start; font-size: 17px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 17px;&quot;&gt;提出一个在北极航线规划中带有&lt;b style=&quot;font-size: 17px;&quot;&gt;先验知识&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 17px;&quot;&gt;场景&lt;/b&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 17px;&quot;&gt;与&lt;b style=&quot;font-size: 17px;&quot;&gt;通用场景&lt;/b&gt;下有效的&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 17px;&quot;&gt;深度强化学习算法&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 17px;&quot;&gt;，并解决其&lt;b style=&quot;font-size: 17px;&quot;&gt;工程化部署&lt;/b&gt;问题。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="40" width="1240" height="80" as="geometry" />
+          <mxGeometry x="2000" y="40" width="1160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1920" y="410" width="1240" height="250" as="geometry" />
@@ -554,7 +554,7 @@
           <mxGeometry x="2580" y="170" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-18" value="如何构建一个&lt;b&gt;符合马尔可夫性质&lt;/b&gt;的&lt;b&gt;可工程化的&lt;/b&gt;北极航道仿真环境？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="302.5" width="320" height="60" as="geometry" />
+          <mxGeometry x="2000" y="302.5" width="510" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
