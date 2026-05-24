@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="3">
   <diagram name="第 1 页" id="q4Zrpio251xa9Hf7q1WD">
-    <mxGraphModel dx="1062" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -702,7 +702,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-49" value="&lt;span style=&quot;font-size: 17px; font-weight: normal;&quot;&gt;马尔可夫决策过程建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="455" width="180" height="30" as="geometry" />
+          <mxGeometry x="2020" y="450" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-50" target="qLr88L1x2lbQrVnI3Yfx-53">
           <mxGeometry relative="1" as="geometry">
