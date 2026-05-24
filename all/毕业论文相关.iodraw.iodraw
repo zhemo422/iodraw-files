@@ -1089,10 +1089,10 @@
           <mxGeometry x="80" y="80" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="295eoNR8RFEqTLB_-Q5b-4" value="$$F_j = e^{S_j} - 1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="200" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="295eoNR8RFEqTLB_-Q5b-5" value="$$W_j = \frac{F_j}{\sum_{k=1}^{N} F_k}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="320" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="295eoNR8RFEqTLB_-Q5b-6" value="$$P_i = \sum_{j} p_{ij} \cdot W_j$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="430" width="120" height="60" as="geometry" />
