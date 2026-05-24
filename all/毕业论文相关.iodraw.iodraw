@@ -518,7 +518,13 @@
           <mxGeometry x="1720" y="180" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-2" value="先验场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="380" width="170" height="40" as="geometry" />
+          <mxGeometry x="1920" y="180" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-3" value="DRL算法稳定性差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="260" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-4" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="430" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
