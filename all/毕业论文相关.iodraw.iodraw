@@ -979,7 +979,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-1" value="RIO数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-1" value="RIO数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-80" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-2" target="_FRfILehAEUMzXQm0zE8-5">
@@ -990,7 +990,7 @@
             <mxPoint x="-2" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-2" value="先验距离数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-2" value="先验距离数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="-80" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-6" target="_FRfILehAEUMzXQm0zE8-12">
@@ -1001,7 +1001,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-6" value="$$\Phi_{dynamic}(s) = w(t) \cdot \Phi_{dist}(s) + \left(w_{max} - w(t)\right) \cdot \Phi_{risk}(s)$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-6" value="$$\Phi_{dynamic}(s) = w(t) \cdot \Phi_{dist}(s) + \left(w_{max} - w(t)\right) \cdot \Phi_{risk}(s)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="140" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-12">
@@ -1014,10 +1014,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-12" value="$$R&#39;(s, a, s&#39;) = R_{env}(s, a, s&#39;) + \gamma \cdot \Phi_{dynamic}(s&#39;) - \Phi_{dynamic}(s)$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-12" value="$$R&#39;(s, a, s&#39;) = R_{env}(s, a, s&#39;) + \gamma \cdot \Phi_{dynamic}(s&#39;) - \Phi_{dynamic}(s)$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-40" y="250" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-13" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-13" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-5" value="距离势能场&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_FRfILehAEUMzXQm0zE8-13">
@@ -1026,7 +1026,7 @@
         <mxCell id="_FRfILehAEUMzXQm0zE8-11" value="$$Φ_{dist}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_FRfILehAEUMzXQm0zE8-13">
           <mxGeometry x="50" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-14" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-14" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-120" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-4" value="风险势能场&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_FRfILehAEUMzXQm0zE8-14">
@@ -1038,13 +1038,13 @@
         <mxCell id="_FRfILehAEUMzXQm0zE8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-15" target="_FRfILehAEUMzXQm0zE8-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-15" value="训练代数&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-15" value="训练代数&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="275" y="-80" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-23" value="$$t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="-50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-24" value="动态权重&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-24" value="动态权重&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="30" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-25" target="_FRfILehAEUMzXQm0zE8-6">
@@ -1083,13 +1083,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="295eoNR8RFEqTLB_-Q5b-1" value="$$\mu_j = \frac{1}{N} \sum_{i=1}^{N} \delta_{ij}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-40" width="210" height="90" as="geometry" />
+          <mxGeometry x="80" y="-50" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="295eoNR8RFEqTLB_-Q5b-2" value="$$S_j = \frac{\sum_{i=1}^{M} \delta_{ij} \cdot \mathbb{I}(\delta_{ij} &amp;gt; \mu_j)}{\sum_{i=1}^{N} \delta_{ij}}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="210" height="70" as="geometry" />
+          <mxGeometry x="80" y="80" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="295eoNR8RFEqTLB_-Q5b-4" value="$$F_j = e^{S_j} - 1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="220" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="295eoNR8RFEqTLB_-Q5b-5" value="$$W_j = \frac{F_j}{\sum_{k=1}^{N} F_k}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
