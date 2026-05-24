@@ -529,6 +529,12 @@
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-5" value="先验知识的利用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="240" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-7" value="构建充足的&lt;b&gt;有效且稠密的&lt;/b&gt;奖励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="360" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-8" value="&lt;b&gt;充分利用&lt;/b&gt;高探索价值的样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="360" width="170" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
