@@ -611,14 +611,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-35" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-35" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-8" target="qLr88L1x2lbQrVnI3Yfx-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3090.3999999999996" y="370" as="sourcePoint" />
             <mxPoint x="3089.9999999999995" y="428.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3090.3999999999996" y="400" />
-              <mxPoint x="3090.3999999999996" y="400" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
