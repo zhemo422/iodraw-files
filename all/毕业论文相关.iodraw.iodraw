@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="150" width="1250" height="230" as="geometry" />
+          <mxGeometry x="1920" y="150" width="1240" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1310" y="390" width="370" height="250" as="geometry" />
@@ -542,7 +542,7 @@
           <mxGeometry x="1920" y="40" width="1240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="410" width="900" height="250" as="geometry" />
+          <mxGeometry x="1920" y="410" width="1240" height="250" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-12" value="算法的&lt;b&gt;工程化部署问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1940" y="170" width="350" height="40" as="geometry" />
@@ -552,6 +552,9 @@
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-14" value="适配深度强化学习的仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-17" value="先验知识场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="170" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
