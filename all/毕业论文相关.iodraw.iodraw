@@ -975,7 +975,7 @@
           <mxGeometry x="-120" y="-80" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-2" value="先验距离数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-80" width="160" height="60" as="geometry" />
+          <mxGeometry x="80" y="-70" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-6" value="$$\Phi_{dynamic}(s) = w(t) \cdot \Phi_{dist}(s) + \left(w_{max} - w(t)\right) \cdot \Phi_{risk}(s)$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="140" width="640" height="60" as="geometry" />
@@ -1002,10 +1002,10 @@
           <mxGeometry x="50" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-15" value="训练代数&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-80" width="240" height="60" as="geometry" />
+          <mxGeometry x="280" y="-70" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-23" value="$$t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-50" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="-40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-24" value="动态权重&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="30" width="250" height="60" as="geometry" />
