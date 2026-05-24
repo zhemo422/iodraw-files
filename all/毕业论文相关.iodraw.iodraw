@@ -593,12 +593,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2550" y="565" as="sourcePoint" />
             <mxPoint x="2590" y="565" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="2405" y="410" />
+              <mxPoint x="2965" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-32" value="仿真&lt;div&gt;支持&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="qLr88L1x2lbQrVnI3Yfx-31">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-32" value="仿真支持" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="qLr88L1x2lbQrVnI3Yfx-31">
           <mxGeometry x="-0.0961" relative="1" as="geometry">
-            <mxPoint y="25" as="offset" />
+            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
