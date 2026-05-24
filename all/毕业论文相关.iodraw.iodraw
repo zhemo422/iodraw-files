@@ -934,6 +934,9 @@
         <mxCell id="CtBnG5C-O9TYeyKsu59z-4" value="投影平面WGS84转换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CtBnG5C-O9TYeyKsu59z-5" value="经纬度转换&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
