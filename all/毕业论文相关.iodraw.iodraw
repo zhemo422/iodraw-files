@@ -548,7 +548,10 @@
           <mxGeometry x="1960" y="170" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-13" value="可被人类使用的航道规划系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="220" width="140" height="40" as="geometry" />
+          <mxGeometry x="2140" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-14" value="可被人类使用的航道规划系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="230" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
