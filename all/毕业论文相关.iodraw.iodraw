@@ -1078,7 +1078,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hFYHeLrGFzE1xSBFQFjD" name="第 5 页">
-    <mxGraphModel dx="1018" dy="1126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1018" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1094,7 +1094,7 @@
         <mxCell id="79JKC0_fChla2RKUFdQx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-2" target="79JKC0_fChla2RKUFdQx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="295eoNR8RFEqTLB_-Q5b-2" value="&lt;div&gt;改进优势概率&lt;/div&gt;$$S_j = \frac{\sum_{i=1}^{M} \delta_{ij} \cdot \mathbb{I}(\delta_{ij} &amp;gt; \mu_j)}{\sum_{i=1}^{N} \delta_{ij}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="295eoNR8RFEqTLB_-Q5b-2" value="&lt;div&gt;改进优势概率&lt;/div&gt;$$S_j = \frac{\sum_{i=1}^{M} \delta_{ij} \cdot \mathbb{I}(\delta_{ij} &amp;gt; \mu_j)}{\sum_{i=1}^{N} \delta_{ij}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-4" target="295eoNR8RFEqTLB_-Q5b-5">
@@ -1116,6 +1116,9 @@
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-9" value="多维加权$$P_i = \sum_{j} p_{ij} \cdot W_j$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="79JKC0_fChla2RKUFdQx-10" value="优势概率$$S_j = P(\delta_{ij} \geq \mu_j)$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="75" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
