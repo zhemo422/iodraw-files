@@ -634,10 +634,10 @@
           <mxGeometry x="2920" y="520" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-49" value="&lt;span style=&quot;&quot;&gt;马尔可夫决策过程建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2020" y="450" width="170" height="40" as="geometry" />
+          <mxGeometry x="2020" y="450" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-50" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;北极航道风险评估体系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2020" y="510" width="170" height="40" as="geometry" />
+          <mxGeometry x="2020" y="510" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-51" value="路径平滑与网格-经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2110" y="570" width="320" height="40" as="geometry" />
