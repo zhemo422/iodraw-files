@@ -972,10 +972,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_FRfILehAEUMzXQm0zE8-1" value="RIO数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-80" width="160" height="80" as="geometry" />
+          <mxGeometry x="-120" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-2" value="先验距离数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-80" width="100" height="60" as="geometry" />
+          <mxGeometry x="120" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
