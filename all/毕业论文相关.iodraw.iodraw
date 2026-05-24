@@ -1094,6 +1094,11 @@
         <mxCell id="79JKC0_fChla2RKUFdQx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-2" target="79JKC0_fChla2RKUFdQx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="79JKC0_fChla2RKUFdQx-12" value="对比" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79JKC0_fChla2RKUFdQx-6">
+          <mxGeometry x="0.1685" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="295eoNR8RFEqTLB_-Q5b-2" value="&lt;div&gt;改进优势概率&lt;/div&gt;$$S_j = \frac{\sum_{i=1}^{M} \delta_{ij} \cdot \mathbb{I}(\delta_{ij} &amp;gt; \mu_j)}{\sum_{i=1}^{N} \delta_{ij}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="200" height="110" as="geometry" />
         </mxCell>
@@ -1119,6 +1124,11 @@
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="79JKC0_fChla2RKUFdQx-10" target="295eoNR8RFEqTLB_-Q5b-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79JKC0_fChla2RKUFdQx-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79JKC0_fChla2RKUFdQx-11">
+          <mxGeometry x="-0.1963" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-10" value="内在奖励$$R_{i}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-80" width="200" height="80" as="geometry" />
