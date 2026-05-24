@@ -514,6 +514,9 @@
             <mxPoint y="25" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-1" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="270" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
