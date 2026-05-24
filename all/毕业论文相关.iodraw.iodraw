@@ -569,7 +569,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2650" y="520" />
-              <mxPoint x="2710" y="520" />
+              <mxPoint x="2650" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -579,8 +579,19 @@
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-22" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2600" y="450" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-23" target="qLr88L1x2lbQrVnI3Yfx-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2770" y="520" />
+              <mxPoint x="2770" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-23" value="动态加权机制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2720" y="530" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-24" target="qLr88L1x2lbQrVnI3Yfx-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-24" value="基于势能场的奖励塑形方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2600" y="620" width="220" height="50" as="geometry" />
