@@ -1085,8 +1085,8 @@
         <mxCell id="79JKC0_fChla2RKUFdQx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-1" target="295eoNR8RFEqTLB_-Q5b-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="295eoNR8RFEqTLB_-Q5b-1" value="&lt;div&gt;计算样本均值&lt;/div&gt;$$\mu_j = \frac{1}{N} \sum_{i=1}^{N} \delta_{ij}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-40" width="200" height="80" as="geometry" />
+        <mxCell id="295eoNR8RFEqTLB_-Q5b-1" value="&lt;div&gt;计算样本均值&lt;span style=&quot;background-color: initial;&quot;&gt;$$\mu_j = \frac{1}{N} \sum_{i=1}^{N} \delta_{ij}$$&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-60" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-2" target="295eoNR8RFEqTLB_-Q5b-4">
           <mxGeometry relative="1" as="geometry" />
