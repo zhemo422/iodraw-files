@@ -640,19 +640,19 @@
           <mxGeometry x="2020" y="510" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-51" value="路径平滑方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="610" width="230" height="30" as="geometry" />
+          <mxGeometry x="2020" y="600" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-52" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2020" y="650" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-53" value="&lt;span style=&quot;font-weight: normal; font-size: 17px;&quot;&gt;适配深度强化学习&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="450" width="70" height="100" as="geometry" />
+          <mxGeometry x="2230" y="450" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-54" value="&lt;span style=&quot;font-weight: 400; font-size: 17px;&quot;&gt;工程化仿真环境&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="570" width="500" height="30" as="geometry" />
+          <mxGeometry x="2020" y="560" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-55" value="格网-经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="610" width="250" height="30" as="geometry" />
+          <mxGeometry x="2270" y="600" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
