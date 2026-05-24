@@ -975,7 +975,10 @@
           <mxGeometry x="-120" y="-80" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-2" value="先验距离数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-80" width="130" height="70" as="geometry" />
+          <mxGeometry x="120" y="-80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_FRfILehAEUMzXQm0zE8-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
