@@ -921,10 +921,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DEtx8g3EiWgfvmt16M9s" name="第 3 页">
-    <mxGraphModel dx="300" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CtBnG5C-O9TYeyKsu59z-1" value="┌────────┐    仿射变换     ┌────────┐   投影逆变换    ┌────────┐&#xa;│网格坐标 │ ────────────→ │投影平面 │ ───────────→ │经纬度   │&#xa;│ col    │               │  x     │               │  φ     │&#xa;│ row    │   [公式2.14]  │  y     │  WGS84转换    │  λ&#39;    │&#xa;└────────┘               └────────┘               └────────┘&#xa;                                                       │&#xa;                                                  经度规范化&#xa;                                                   [公式2.15/2.16]&#xa;                                                       │&#xa;                                                       ▼&#xa;                                                  接入RouteView" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="460" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
