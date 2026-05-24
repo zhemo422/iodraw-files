@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="3">
   <diagram name="第 1 页" id="q4Zrpio251xa9Hf7q1WD">
-    <mxGraphModel dx="740" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -713,7 +713,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-50" value="&lt;span style=&quot;font-weight: normal; font-size: 17px;&quot;&gt;北极航道风险评估体系&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="500" width="180" height="30" as="geometry" />
+          <mxGeometry x="2020" y="500" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-51" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;路径平滑方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2020" y="600" width="230" height="30" as="geometry" />
