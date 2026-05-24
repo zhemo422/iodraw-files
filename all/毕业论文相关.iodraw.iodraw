@@ -646,7 +646,10 @@
           <mxGeometry x="2110" y="640" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-53" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;适配北极航道的深度强化学习环境&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2180" y="660" width="110" height="140" as="geometry" />
+          <mxGeometry x="2100" y="660" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-54" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;工程化仿真环境&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2380" y="750" width="110" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
