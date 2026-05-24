@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="430" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="430" width="260" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2000" y="430" width="540" height="250" as="geometry" />
         </mxCell>
@@ -560,22 +566,16 @@
           <mxGeometry x="2315" y="450" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-21" value="近端优化算法框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="480" width="70" height="90" as="geometry" />
+          <mxGeometry x="2650" y="515" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-22" value="奖励增强型PPO算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2640" y="410" width="150" height="50" as="geometry" />
+          <mxGeometry x="2650" y="445" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-23" value="动态加权机制" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2730" y="480" width="60" height="90" as="geometry" />
+          <mxGeometry x="2740" y="515" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-24" value="基于势能场的奖励塑形方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2640" y="590" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="430" width="260" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="430" width="260" height="250" as="geometry" />
+          <mxGeometry x="2650" y="625" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
