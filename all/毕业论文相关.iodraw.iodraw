@@ -996,13 +996,23 @@
         <mxCell id="_FRfILehAEUMzXQm0zE8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-6" target="_FRfILehAEUMzXQm0zE8-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_FRfILehAEUMzXQm0zE8-33">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-36" value="奖励塑形" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_FRfILehAEUMzXQm0zE8-33">
           <mxGeometry x="-0.0009" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-6" value="$$\Phi_{dynamic}(s) = w(t) \cdot \Phi_{dist}(s) + \left(w_{max} - w(t)\right) \cdot \Phi_{risk}(s)$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="140" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_FRfILehAEUMzXQm0zE8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199.99999999999977" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_FRfILehAEUMzXQm0zE8-38" value="$$Reward$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_FRfILehAEUMzXQm0zE8-37">
+          <mxGeometry x="-0.1062" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-12" value="$$R&#39;(s, a, s&#39;) = R_{env}(s, a, s&#39;) + \gamma \cdot \Phi_{dynamic}(s&#39;) - \Phi_{dynamic}(s)$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-40" y="250" width="480" height="60" as="geometry" />
