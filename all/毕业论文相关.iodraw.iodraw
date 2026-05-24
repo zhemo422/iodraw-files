@@ -977,6 +977,9 @@
         <mxCell id="_FRfILehAEUMzXQm0zE8-1" value="RIO数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-80" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_FRfILehAEUMzXQm0zE8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-2" target="_FRfILehAEUMzXQm0zE8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-2" value="先验距离数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="-80" width="160" height="60" as="geometry" />
         </mxCell>
@@ -1004,11 +1007,11 @@
         <mxCell id="_FRfILehAEUMzXQm0zE8-10" value="$$Φ_{risk}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_FRfILehAEUMzXQm0zE8-14">
           <mxGeometry x="50" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.652;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-15" target="_FRfILehAEUMzXQm0zE8-24">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-15" target="_FRfILehAEUMzXQm0zE8-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-15" value="训练代数&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-80" width="240" height="60" as="geometry" />
+          <mxGeometry x="275" y="-80" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-23" value="$$t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="-50" width="60" height="30" as="geometry" />
