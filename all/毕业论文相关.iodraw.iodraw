@@ -589,6 +589,18 @@
             <mxPoint y="25" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-31" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-25" target="qLr88L1x2lbQrVnI3Yfx-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2550" y="565" as="sourcePoint" />
+            <mxPoint x="2590" y="565" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-32" value="仿真&lt;div&gt;支持&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="qLr88L1x2lbQrVnI3Yfx-31">
+          <mxGeometry x="-0.0961" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
