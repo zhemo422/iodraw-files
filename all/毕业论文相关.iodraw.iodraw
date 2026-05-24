@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="2580" y="430" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;imageHeight=24;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="2880" y="430" width="280" height="260" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=17;arcSize=9;" vertex="1" parent="1">
