@@ -1105,11 +1105,11 @@
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="250" as="targetPoint" />
+            <mxPoint x="180" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="295eoNR8RFEqTLB_-Q5b-5" value="权重计算$$W_j = \frac{F_j}{\sum_{k=1}^{N} F_k}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="200" width="200" height="80" as="geometry" />
+          <mxGeometry x="80" y="320" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="79JKC0_fChla2RKUFdQx-1" value="优势概率$$S_j = P(\delta_{ij} \geq \mu_j)$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="65" width="200" height="80" as="geometry" />
