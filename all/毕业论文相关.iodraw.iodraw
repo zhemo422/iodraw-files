@@ -550,7 +550,7 @@
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-13" value="环境可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2140" y="230" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-14" value="环境的深度强化学习适配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-14" value="适配深度强化学习的仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="230" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
