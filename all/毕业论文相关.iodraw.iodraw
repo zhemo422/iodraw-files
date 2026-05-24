@@ -931,7 +931,7 @@
         <mxCell id="CtBnG5C-O9TYeyKsu59z-3" value="网格坐标&lt;div&gt;（col,row）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CtBnG5C-O9TYeyKsu59z-4" value="投影平面WGS84转换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtBnG5C-O9TYeyKsu59z-4" value="投影平面WGS84转换&lt;div&gt;&lt;span style=&quot;color: rgb(237, 237, 237); font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(21, 21, 21);&quot;&gt;(x, y)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CtBnG5C-O9TYeyKsu59z-5" value="经纬度转换&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
