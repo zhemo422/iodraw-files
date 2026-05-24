@@ -520,7 +520,7 @@
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-1" value="通用场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2580" y="170" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-2" value="先验场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-2" value="先验知识场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2310" y="170" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-3" value="算法奖励稀疏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -544,8 +544,11 @@
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1920" y="410" width="900" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-12" value="算法的&lt;b&gt;工程化问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-12" value="算法的&lt;b&gt;工程化部署问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1960" y="170" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-13" value="可被人类使用的航道规划系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="220" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
