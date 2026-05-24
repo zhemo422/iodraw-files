@@ -584,7 +584,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-30" value="仿真&lt;div&gt;环境&lt;/div&gt;&lt;div&gt;支撑&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="qLr88L1x2lbQrVnI3Yfx-29">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-30" value="仿真&lt;div&gt;支持&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="qLr88L1x2lbQrVnI3Yfx-29">
           <mxGeometry x="-0.0961" relative="1" as="geometry">
             <mxPoint y="25" as="offset" />
           </mxGeometry>
