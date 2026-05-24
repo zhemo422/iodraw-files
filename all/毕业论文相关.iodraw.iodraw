@@ -1002,19 +1002,19 @@
           <mxGeometry x="50" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-15" value="训练进程&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-80" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="-80" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="280" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-18" value="距离势能场&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_FRfILehAEUMzXQm0zE8-17">
-          <mxGeometry width="160" height="60" as="geometry" />
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-19" value="$$Φ_{dist}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_FRfILehAEUMzXQm0zE8-17">
           <mxGeometry x="50" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-23" value="$$t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-50" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="-50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
