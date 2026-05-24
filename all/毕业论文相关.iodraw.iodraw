@@ -515,10 +515,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-1" value="通用场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="270" width="170" height="40" as="geometry" />
+          <mxGeometry x="1720" y="180" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-2" value="通用场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="280" width="170" height="40" as="geometry" />
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-2" value="先验场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="380" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
