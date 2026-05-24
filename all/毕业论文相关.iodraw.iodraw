@@ -967,7 +967,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yWwDiv1MXONoEuAS2Z2e" name="第 4 页">
-    <mxGraphModel dx="1242" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -986,7 +986,7 @@
         <mxCell id="_FRfILehAEUMzXQm0zE8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="120" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-10" value="$$Φ_dist(s)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-10" value="$$Φ_{dist}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
