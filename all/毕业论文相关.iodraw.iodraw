@@ -986,9 +986,6 @@
         <mxCell id="_FRfILehAEUMzXQm0zE8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="120" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-7" value="&lt;pre style=&quot;box-sizing: border-box; border-width: 0.666667px; border-style: solid; border-color: rgb(40, 40, 40); border-image: none 100% / 1 / 0 stretch; margin-top: 12px; margin-bottom: 32px; padding: 12px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 13px; scrollbar-width: none; overflow: auto; border-radius: 6px; -webkit-font-smoothing: antialiased; text-rendering: geometricprecision; text-align: start;&quot; class=&quot;shiki OpenCode&quot;&gt;&lt;code style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-feature-settings: normal; font-variation-settings: normal; font-size: 1em; -webkit-font-smoothing: antialiased; text-rendering: geometricprecision;&quot;&gt;Φ_dist(s)&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
