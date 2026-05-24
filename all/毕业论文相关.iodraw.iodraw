@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="3">
   <diagram name="第 1 页" id="q4Zrpio251xa9Hf7q1WD">
-    <mxGraphModel dx="407" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,9 +591,14 @@
           <mxGeometry x="2720" y="530" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-24" target="qLr88L1x2lbQrVnI3Yfx-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2770" y="610" />
+              <mxPoint x="2770" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-24" value="基于势能场的奖励塑形方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-24" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;基于势能场的奖励塑形方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2600" y="620" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-29" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=8.571428571428571;endSize=3.9200000000000004;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-25" target="qLr88L1x2lbQrVnI3Yfx-26">
@@ -640,6 +645,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-37" target="qLr88L1x2lbQrVnI3Yfx-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-37" value="多维动态缓冲池" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="3040" y="530" width="100" height="70" as="geometry" />
         </mxCell>
@@ -648,6 +656,9 @@
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-41" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2900" y="450" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-43" target="qLr88L1x2lbQrVnI3Yfx-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-43" value="深度Q学习算法框架" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2900" y="530" width="100" height="70" as="geometry" />
