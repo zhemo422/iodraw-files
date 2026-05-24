@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1920" y="150" width="1240" height="230" as="geometry" />
         </mxCell>
         <mxCell id="VXNA18bIOhO1tqyZ9naS-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -517,40 +517,40 @@
             <mxPoint y="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-1" value="通用场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-1" value="通用场景" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2880" y="185" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-3" value="算法奖励稀疏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-3" value="算法奖励稀疏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2780" y="245" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-4" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-4" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2950" y="245" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-5" value="先验知识的利用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-5" value="先验知识的利用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2610" y="245" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-7" value="如何构建可以提供&lt;b&gt;有效且稠密奖励&lt;/b&gt;的奖励增强方法？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-7" value="如何构建可以提供&lt;b style=&quot;font-size: 15px;&quot;&gt;有效且稠密奖励&lt;/b&gt;的奖励增强方法？" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2610" y="305" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-8" value="如何在通用场景下&lt;b&gt;增强并充分利用&lt;/b&gt;高探索价值的样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-8" value="如何在通用场景下&lt;b style=&quot;font-size: 15px;&quot;&gt;增强并充分利用&lt;/b&gt;高探索价值的样本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2870" y="305" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-9" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;提出一个在北极航线规划中带有&lt;b&gt;先验知识&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;场景&lt;/b&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;与&lt;b&gt;通用场景&lt;/b&gt;下有效的&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;深度强化学习算法&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;，并解决其&lt;b&gt;工程化部署&lt;/b&gt;问题。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-9" value="&lt;div style=&quot;text-align: start; font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px;&quot;&gt;提出一个在北极航线规划中带有&lt;b style=&quot;font-size: 15px;&quot;&gt;先验知识&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px;&quot;&gt;场景&lt;/b&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px;&quot;&gt;与&lt;b style=&quot;font-size: 15px;&quot;&gt;通用场景&lt;/b&gt;下有效的&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px;&quot;&gt;深度强化学习算法&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px;&quot;&gt;，并解决其&lt;b style=&quot;font-size: 15px;&quot;&gt;工程化部署&lt;/b&gt;问题。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1920" y="40" width="1240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1920" y="410" width="1240" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-12" value="算法的&lt;b&gt;工程化部署问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-12" value="算法的&lt;b style=&quot;font-size: 15px;&quot;&gt;工程化部署问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1960" y="170" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-13" value="仿真环境可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-13" value="仿真环境可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2140" y="230" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-14" value="适配深度强化学习的仿真环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-14" value="适配深度强化学习的仿真环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1960" y="230" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-17" value="先验知识场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-17" value="先验知识场景" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2610" y="185" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
