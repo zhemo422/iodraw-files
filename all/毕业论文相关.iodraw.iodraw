@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qLr88L1x2lbQrVnI3Yfx-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="430" width="540" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2000" y="150" width="1160" height="240" as="geometry" />
         </mxCell>
@@ -554,7 +557,7 @@
           <mxGeometry x="2020" y="311.25" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-20" value="北极航道&lt;div&gt;仿真环境&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2175" y="484" width="210" height="90" as="geometry" />
+          <mxGeometry x="2315" y="450" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-21" value="近端优化算法框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="480" width="70" height="90" as="geometry" />
@@ -567,9 +570,6 @@
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-24" value="基于势能场的奖励塑形方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2640" y="590" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qLr88L1x2lbQrVnI3Yfx-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="430" width="370" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
