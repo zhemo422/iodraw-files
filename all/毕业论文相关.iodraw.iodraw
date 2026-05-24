@@ -515,16 +515,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-1" value="通用场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="180" width="170" height="40" as="geometry" />
+          <mxGeometry x="1990" y="180" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-2" value="先验场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="180" width="225" height="40" as="geometry" />
+          <mxGeometry x="1720" y="180" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-3" value="算法奖励稀疏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="260" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-4" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="260" width="170" height="40" as="geometry" />
+          <mxGeometry x="2060" y="260" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-5" value="先验知识的利用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1700" y="270" width="150" height="40" as="geometry" />
