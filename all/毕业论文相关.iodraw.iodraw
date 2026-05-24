@@ -1114,6 +1114,9 @@
         <mxCell id="79JKC0_fChla2RKUFdQx-1" value="优势概率$$S_j = P(\delta_{ij} \geq \mu_j)$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="65" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="79JKC0_fChla2RKUFdQx-9" value="非线性变换$$P_i = \sum_{j} p_{ij} \cdot W_j$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
