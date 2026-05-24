@@ -640,7 +640,7 @@
           <mxGeometry x="2020" y="510" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-51" value="路径平滑方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2020" y="610" width="230" height="20" as="geometry" />
+          <mxGeometry x="2020" y="610" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-52" value="RouteView2.0平台接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2020" y="650" width="500" height="20" as="geometry" />
@@ -652,7 +652,7 @@
           <mxGeometry x="2020" y="570" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-55" value="格网-经纬度转换方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2270" y="610" width="250" height="20" as="geometry" />
+          <mxGeometry x="2270" y="610" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
