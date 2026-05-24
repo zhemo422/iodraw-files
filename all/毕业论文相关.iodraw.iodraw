@@ -971,6 +971,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_FRfILehAEUMzXQm0zE8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-1" target="_FRfILehAEUMzXQm0zE8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-1" value="RIO数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-80" width="160" height="60" as="geometry" />
         </mxCell>
@@ -978,7 +981,7 @@
           <mxGeometry x="80" y="-80" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-6" value="$$\Phi_{dynamic}(s) = w(t) \cdot \Phi_{dist}(s) + \left(w_{max} - w(t)\right) \cdot \Phi_{risk}(s)$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="130" width="640" height="60" as="geometry" />
+          <mxGeometry x="-120" y="140" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-12" value="$$R&#39;(s, a, s&#39;) = R_{env}(s, a, s&#39;) + \gamma \cdot \Phi_{dynamic}(s&#39;) - \Phi_{dynamic}(s)$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-50" y="250" width="480" height="60" as="geometry" />
