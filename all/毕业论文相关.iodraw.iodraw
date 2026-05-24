@@ -649,10 +649,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-40" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;好奇心机制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="625" width="130" height="40" as="geometry" />
+          <mxGeometry x="3000" y="630" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-41" value="奖励增强型DQN算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="450" width="130" height="50" as="geometry" />
+          <mxGeometry x="2920" y="450" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-43" target="qLr88L1x2lbQrVnI3Yfx-41">
           <mxGeometry relative="1" as="geometry">
