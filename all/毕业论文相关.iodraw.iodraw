@@ -521,7 +521,7 @@
           <mxGeometry x="2880" y="170" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-3" value="算法奖励稀疏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2770" y="230" width="170" height="40" as="geometry" />
+          <mxGeometry x="2770" y="240" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-4" value="样本利用率低" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2960" y="240" width="180" height="40" as="geometry" />
@@ -530,7 +530,7 @@
           <mxGeometry x="2580" y="240" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-7" value="如何构建可以提供&lt;b style=&quot;font-size: 17px;&quot;&gt;有效且稠密奖励&lt;/b&gt;的奖励增强方法？" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="300" width="260" height="62.5" as="geometry" />
+          <mxGeometry x="2580" y="310" width="260" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-8" value="如何在通用场景下&lt;b style=&quot;font-size: 17px;&quot;&gt;增强并充分利用&lt;/b&gt;高探索价值的样本？" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="2890" y="302.5" width="255" height="60" as="geometry" />
