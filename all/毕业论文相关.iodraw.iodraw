@@ -948,11 +948,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CtBnG5C-O9TYeyKsu59z-4" value="投影平面&lt;div&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;(x, y)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CtBnG5C-O9TYeyKsu59z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtBnG5C-O9TYeyKsu59z-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="770" as="targetPoint" />
+            <mxPoint x="420" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CtBnG5C-O9TYeyKsu59z-11" value="经度规范化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CtBnG5C-O9TYeyKsu59z-10">
@@ -961,7 +961,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CtBnG5C-O9TYeyKsu59z-5" value="经纬度转换&lt;div&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;&amp;nbsp;(φ, λ&#39;)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
