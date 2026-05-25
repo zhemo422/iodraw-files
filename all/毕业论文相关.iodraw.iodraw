@@ -567,7 +567,12 @@
           <mxGeometry x="2020" y="170" width="520" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_csY-bzad41Q_2XB0sDu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-13" target="qLr88L1x2lbQrVnI3Yfx-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2410" y="300" />
+              <mxPoint x="2280" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-13" value="仿真环境可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2300" y="240" width="240" height="50" as="geometry" />
@@ -575,8 +580,8 @@
         <mxCell id="_csY-bzad41Q_2XB0sDu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-14" target="qLr88L1x2lbQrVnI3Yfx-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2140" y="300" />
-              <mxPoint x="2280" y="300" />
+              <mxPoint x="2140" y="320" />
+              <mxPoint x="2140" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
