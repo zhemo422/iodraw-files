@@ -1133,38 +1133,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-15" value="训练代数&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=#b85450;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="275" y="-80" width="240" height="60" as="geometry" />
+          <mxGeometry x="80" y="-80" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-23" value="$$t$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="-50" width="60" height="30" as="geometry" />
+          <mxGeometry x="175" y="-50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-24" value="动态权重&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=#b85450;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="270" y="30" width="250" height="60" as="geometry" />
+          <mxGeometry x="75" y="30" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_FRfILehAEUMzXQm0zE8-25" target="_FRfILehAEUMzXQm0zE8-6" edge="1">
+        <mxCell id="_FRfILehAEUMzXQm0zE8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_FRfILehAEUMzXQm0zE8-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="130" />
-              <mxPoint x="400" y="130" />
+              <mxPoint x="205" y="130" />
+              <mxPoint x="205" y="130" />
             </Array>
+            <mxPoint x="205" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-25" value="$$w(t) = w_{min}+(w_{max}-w_{min})e^{-\lambda \cdot t}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="60" width="200" height="30" as="geometry" />
+          <mxGeometry x="105" y="60" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_FRfILehAEUMzXQm0zE8-4" target="_FRfILehAEUMzXQm0zE8-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-40" y="130" />
               <mxPoint x="-40" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_FRfILehAEUMzXQm0zE8-5" target="_FRfILehAEUMzXQm0zE8-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="130" />
-              <mxPoint x="160" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
