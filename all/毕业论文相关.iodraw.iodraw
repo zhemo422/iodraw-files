@@ -1112,7 +1112,7 @@
           <mxGeometry x="-40" y="250" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="30" width="160" height="60" as="geometry" />
+          <mxGeometry x="630" y="-10" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-5" value="距离势能场&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="_FRfILehAEUMzXQm0zE8-13" vertex="1">
           <mxGeometry width="160" height="60" as="geometry" />
