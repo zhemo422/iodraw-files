@@ -1083,7 +1083,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yWwDiv1MXONoEuAS2Z2e" name="第 4 页">
-    <mxGraphModel dx="1098" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1836" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1146,7 +1146,7 @@
             <Array as="points">
               <mxPoint x="200" y="140" />
             </Array>
-            <mxPoint x="205" y="140" as="targetPoint" />
+            <mxPoint x="200" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-25" value="$$w(t) = w_{min}+(w_{max}-w_{min})e^{-\lambda \cdot t}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
