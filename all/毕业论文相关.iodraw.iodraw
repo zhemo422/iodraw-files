@@ -588,6 +588,9 @@
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-14" value="适配深度强化学习的仿真环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2020" y="240" width="240" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_csY-bzad41Q_2XB0sDu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-17" target="qLr88L1x2lbQrVnI3Yfx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-17" value="&lt;b&gt;先验知识场景下算法效果&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2580" y="170" width="260" height="50" as="geometry" />
         </mxCell>
