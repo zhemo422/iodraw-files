@@ -1087,28 +1087,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_FRfILehAEUMzXQm0zE8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_FRfILehAEUMzXQm0zE8-1" target="_FRfILehAEUMzXQm0zE8-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-34" value="BPRS方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_FRfILehAEUMzXQm0zE8-26" vertex="1" connectable="0">
-          <mxGeometry x="-0.0285" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-1" value="RIO数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="-80" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_FRfILehAEUMzXQm0zE8-2" target="_FRfILehAEUMzXQm0zE8-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-35" value="BPRS方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_FRfILehAEUMzXQm0zE8-32" vertex="1" connectable="0">
-          <mxGeometry x="0.0818" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_FRfILehAEUMzXQm0zE8-2" value="先验距离数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="80" y="-80" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_FRfILehAEUMzXQm0zE8-6" target="_FRfILehAEUMzXQm0zE8-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
