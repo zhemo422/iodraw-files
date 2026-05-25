@@ -556,13 +556,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_csY-bzad41Q_2XB0sDu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-12" target="qLr88L1x2lbQrVnI3Yfx-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2420" y="230" />
+              <mxPoint x="2420" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-12" value="算法的&lt;b style=&quot;font-size: 17px;&quot;&gt;工程化部署问题&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2020" y="170" width="520" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-13" value="仿真环境可视化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2300" y="240" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_csY-bzad41Q_2XB0sDu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-14" target="qLr88L1x2lbQrVnI3Yfx-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-14" value="适配深度强化学习的仿真环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2020" y="240" width="240" height="50" as="geometry" />
