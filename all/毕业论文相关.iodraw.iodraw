@@ -794,7 +794,12 @@
           <mxGeometry x="2020" y="500" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_csY-bzad41Q_2XB0sDu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-51" target="qLr88L1x2lbQrVnI3Yfx-54">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2135" y="600" />
+              <mxPoint x="2135" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qLr88L1x2lbQrVnI3Yfx-51" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;路径平滑方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="2020" y="620" width="230" height="50" as="geometry" />
@@ -819,8 +824,8 @@
         <mxCell id="_csY-bzad41Q_2XB0sDu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLr88L1x2lbQrVnI3Yfx-55" target="qLr88L1x2lbQrVnI3Yfx-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2395" y="610" />
-              <mxPoint x="2270" y="610" />
+              <mxPoint x="2395" y="600" />
+              <mxPoint x="2395" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
