@@ -1083,7 +1083,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yWwDiv1MXONoEuAS2Z2e" name="第 4 页">
-    <mxGraphModel dx="1836" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1242" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1112,7 +1112,7 @@
           <mxGeometry x="-40" y="250" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="630" y="-10" width="160" height="60" as="geometry" />
+          <mxGeometry x="360" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_FRfILehAEUMzXQm0zE8-5" value="距离势能场&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="_FRfILehAEUMzXQm0zE8-13" vertex="1">
           <mxGeometry width="160" height="60" as="geometry" />
@@ -1157,6 +1157,14 @@
             <Array as="points">
               <mxPoint x="-40" y="130" />
               <mxPoint x="-40" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3gpjObqSG0ozKc8sVvfj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_FRfILehAEUMzXQm0zE8-5" target="_FRfILehAEUMzXQm0zE8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="120" />
+              <mxPoint x="440" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
