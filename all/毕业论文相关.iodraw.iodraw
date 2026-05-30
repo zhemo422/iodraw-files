@@ -1247,14 +1247,26 @@
         <mxCell id="wf2uwstA4QvD3X6AAXyf-2" value="初始化阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wf2uwstA4QvD3X6AAXyf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wf2uwstA4QvD3X6AAXyf-3" target="wf2uwstA4QvD3X6AAXyf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-3" value="交互和收集阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-4" value="动态权重更新阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wf2uwstA4QvD3X6AAXyf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wf2uwstA4QvD3X6AAXyf-5" target="wf2uwstA4QvD3X6AAXyf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-5" value="训练阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wf2uwstA4QvD3X6AAXyf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wf2uwstA4QvD3X6AAXyf-6" target="wf2uwstA4QvD3X6AAXyf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wf2uwstA4QvD3X6AAXyf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wf2uwstA4QvD3X6AAXyf-6" target="wf2uwstA4QvD3X6AAXyf-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-6" value="目标网络同步阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
