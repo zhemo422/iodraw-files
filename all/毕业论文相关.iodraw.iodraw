@@ -1247,8 +1247,8 @@
         <mxCell id="wf2uwstA4QvD3X6AAXyf-4" value="动态权重更新阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wf2uwstA4QvD3X6AAXyf-5" value="动态权重更新阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="wf2uwstA4QvD3X6AAXyf-5" value="优先性采样阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
