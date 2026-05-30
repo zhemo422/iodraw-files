@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="5">
   <diagram name="第 1 页" id="q4Zrpio251xa9Hf7q1WD">
-    <mxGraphModel dx="1018" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1172,59 +1172,59 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hFYHeLrGFzE1xSBFQFjD" name="第 5 页">
-    <mxGraphModel dx="1018" dy="1126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1221" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="79JKC0_fChla2RKUFdQx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-1" target="295eoNR8RFEqTLB_-Q5b-2">
+        <mxCell id="79JKC0_fChla2RKUFdQx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="295eoNR8RFEqTLB_-Q5b-1" target="295eoNR8RFEqTLB_-Q5b-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="295eoNR8RFEqTLB_-Q5b-1" value="&lt;div&gt;样本维度均值&lt;span style=&quot;background-color: initial;&quot;&gt;$$\mu_j = \frac{1}{N} \sum_{i=1}^{N} \delta_{ij}$$&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="295eoNR8RFEqTLB_-Q5b-1" value="&lt;div&gt;样本维度均值&lt;span style=&quot;background-color: initial;&quot;&gt;$$\mu_j = \frac{1}{N} \sum_{i=1}^{N} \delta_{ij}$$&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="-90" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-2" target="295eoNR8RFEqTLB_-Q5b-4">
+        <mxCell id="79JKC0_fChla2RKUFdQx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="295eoNR8RFEqTLB_-Q5b-2" target="295eoNR8RFEqTLB_-Q5b-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-2" target="79JKC0_fChla2RKUFdQx-1">
+        <mxCell id="79JKC0_fChla2RKUFdQx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;" parent="1" source="295eoNR8RFEqTLB_-Q5b-2" target="79JKC0_fChla2RKUFdQx-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-12" value="对比" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79JKC0_fChla2RKUFdQx-6">
+        <mxCell id="79JKC0_fChla2RKUFdQx-12" value="对比" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="79JKC0_fChla2RKUFdQx-6" vertex="1" connectable="0">
           <mxGeometry x="0.1685" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="295eoNR8RFEqTLB_-Q5b-2" value="&lt;div&gt;改进优势概率&lt;/div&gt;$$S_j = \frac{\sum_{i=1}^{M} \delta_{ij} \cdot \mathbb{I}(\delta_{ij} &amp;gt; \mu_j)}{\sum_{i=1}^{N} \delta_{ij}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="295eoNR8RFEqTLB_-Q5b-2" value="&lt;div&gt;改进优势概率&lt;/div&gt;$$S_j = \frac{\sum_{i=1}^{M} \delta_{ij} \cdot \mathbb{I}(\delta_{ij} &amp;gt; \mu_j)}{\sum_{i=1}^{N} \delta_{ij}}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="80" y="50" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-4" target="295eoNR8RFEqTLB_-Q5b-5">
+        <mxCell id="79JKC0_fChla2RKUFdQx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="295eoNR8RFEqTLB_-Q5b-4" target="295eoNR8RFEqTLB_-Q5b-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="295eoNR8RFEqTLB_-Q5b-4" value="非线性变换$$F_j = e^{S_j} - 1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="295eoNR8RFEqTLB_-Q5b-4" value="非线性变换$$F_j = e^{S_j} - 1$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="295eoNR8RFEqTLB_-Q5b-5" target="79JKC0_fChla2RKUFdQx-9">
+        <mxCell id="79JKC0_fChla2RKUFdQx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="295eoNR8RFEqTLB_-Q5b-5" target="79JKC0_fChla2RKUFdQx-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="295eoNR8RFEqTLB_-Q5b-5" value="权重计算$$W_j = \frac{F_j}{\sum_{k=1}^{N} F_k}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="295eoNR8RFEqTLB_-Q5b-5" value="权重计算$$W_j = \frac{F_j}{\sum_{k=1}^{N} F_k}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-1" value="优势概率$$S_j = P(\delta_{ij} \geq \mu_j)$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79JKC0_fChla2RKUFdQx-1" value="优势概率$$S_j = P(\delta_{ij} \geq \mu_j)$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="65" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-9" value="多维加权$$P_i = \sum_{j} p_{ij} \cdot W_j$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79JKC0_fChla2RKUFdQx-9" value="多维加权$$P_i = \sum_{j} p_{ij} \cdot W_j$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="320" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="79JKC0_fChla2RKUFdQx-10" target="295eoNR8RFEqTLB_-Q5b-1">
+        <mxCell id="79JKC0_fChla2RKUFdQx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="79JKC0_fChla2RKUFdQx-10" target="295eoNR8RFEqTLB_-Q5b-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-13" value="融入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79JKC0_fChla2RKUFdQx-11">
+        <mxCell id="79JKC0_fChla2RKUFdQx-13" value="融入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="79JKC0_fChla2RKUFdQx-11" vertex="1" connectable="0">
           <mxGeometry x="-0.1963" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79JKC0_fChla2RKUFdQx-10" value="内在奖励$$R_{i}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79JKC0_fChla2RKUFdQx-10" value="内在奖励$$R_{i}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="-80" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
