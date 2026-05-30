@@ -1231,21 +1231,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2gQWDt7aQgTQmcYkWst0" name="第 6 页">
-    <mxGraphModel dx="698" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wf2uwstA4QvD3X6AAXyf-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-2" value="初始化阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-3" value="交互和收集阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-4" value="动态权重更新阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-5" value="训练阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
