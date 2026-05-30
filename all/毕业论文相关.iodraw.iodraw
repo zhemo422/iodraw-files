@@ -1242,7 +1242,7 @@
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-3" value="交互和收集阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-4" value="动态权重更新阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
@@ -1251,7 +1251,7 @@
           <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-6" value="目标网络同步阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
