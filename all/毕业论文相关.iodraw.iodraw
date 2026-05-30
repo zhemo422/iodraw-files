@@ -1253,8 +1253,13 @@
         <mxCell id="wf2uwstA4QvD3X6AAXyf-3" value="交互和收集阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wf2uwstA4QvD3X6AAXyf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wf2uwstA4QvD3X6AAXyf-4" target="wf2uwstA4QvD3X6AAXyf-5">
+        <mxCell id="wf2uwstA4QvD3X6AAXyf-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wf2uwstA4QvD3X6AAXyf-4" target="wf2uwstA4QvD3X6AAXyf-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wf2uwstA4QvD3X6AAXyf-15" value="周期触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wf2uwstA4QvD3X6AAXyf-14">
+          <mxGeometry x="-0.2211" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-4" value="动态权重更新阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="180" width="120" height="60" as="geometry" />
@@ -1263,7 +1268,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-5" value="训练阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wf2uwstA4QvD3X6AAXyf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wf2uwstA4QvD3X6AAXyf-6" target="wf2uwstA4QvD3X6AAXyf-7">
           <mxGeometry relative="1" as="geometry" />
